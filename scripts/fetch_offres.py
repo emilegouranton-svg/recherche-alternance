@@ -48,6 +48,11 @@ def save_archive(archive):
     with open(ARCHIVE_FILE, "w", encoding="utf-8") as f:
         json.dump(archive, f, ensure_ascii=False, indent=2)
 
+def _as_date_string(value):
+    """Ne garde que les valeurs de date exploitables (chaînes), ignore le reste."""
+    if isinstance(value, str):
+        return value
+    return None
 
 def fetch_sector_offers(sector, token):
     """Appelle l'API pour un secteur (regroupe ses codes ROME en un seul appel)."""
@@ -107,7 +112,7 @@ def fetch_sector_offers(sector, token):
                 "department": None,
                 "diploma_level": diploma_label,
                 "contract_type": contract_type,
-                "created_at": offer.get("creation") or offer.get("publication") or contract.get("start"),
+                "created_at": _as_date_string(offer.get("creation") or offer.get("publication") or contract.get("start")),
                 "apply_url": apply_url,
                 "description": (offer.get("description") or "")[:600],
             })
