@@ -73,8 +73,11 @@ def fetch_sector_offers(sector, token):
         print(f"  [DEBUG] clés racine de la réponse: {list(data.keys())}", file=sys.stderr)
         print(f"  [DEBUG] nb jobs bruts: {len(jobs)}", file=sys.stderr)
         if jobs:
-            print(f"  [DEBUG] clés du 1er job: {list(jobs[0].keys())}", file=sys.stderr)
-            print(f"  [DEBUG] extrait 1er job: {json.dumps(jobs[0], ensure_ascii=False)[:1500]}", file=sys.stderr)
+            j0 = jobs[0]
+            print(f"  [DEBUG] identifier: {json.dumps(j0.get('identifier'), ensure_ascii=False)}", file=sys.stderr)
+            print(f"  [DEBUG] offer: {json.dumps(j0.get('offer'), ensure_ascii=False)}", file=sys.stderr)
+            print(f"  [DEBUG] contract: {json.dumps(j0.get('contract'), ensure_ascii=False)}", file=sys.stderr)
+            print(f"  [DEBUG] apply: {json.dumps(j0.get('apply'), ensure_ascii=False)}", file=sys.stderr)
         if data.get("warnings"):
             print(f"  [DEBUG] warnings API: {data['warnings']}", file=sys.stderr)
 
