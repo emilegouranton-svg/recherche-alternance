@@ -100,7 +100,7 @@ def fetch_sector_offers(sector, token):
             if isinstance(contract_type, list):
                 contract_type = ", ".join(contract_type)
 
-            apply_url = apply_block.get("url") or ""
+            apply_url = apply_block.get("url") or job.get("url") or offer.get("url") or ""
 
             results.append({
                 "id": offer_id,
