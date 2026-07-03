@@ -69,6 +69,15 @@ def fetch_sector_offers(sector, token):
     data = resp.json()
     jobs = data.get("jobs", []) or []
 
+    if os.environ.get("DEBUG_LBA"):
+        print(f"  [DEBUG] clés racine de la réponse: {list(data.keys())}", file=sys.stderr)
+        print(f"  [DEBUG] nb jobs bruts: {len(jobs)}", file=sys.stderr)
+        if jobs:
+            print(f"  [DEBUG] clés du 1er job: {list(jobs[0].keys())}", file=sys.stderr)
+            print(f"  [DEBUG] extrait 1er job: {json.dumps(jobs[0], ensure_ascii=False)[:1500]}", file=sys.stderr)
+        if data.get("warnings"):
+            print(f"  [DEBUG] warnings API: {data['warnings']}", file=sys.stderr)
+
     results = []
     for job in jobs:
         try:
