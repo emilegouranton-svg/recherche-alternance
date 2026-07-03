@@ -175,12 +175,19 @@ function buildCard(o) {
   }
 
   const link = document.createElement("a");
-  link.className = "card-link";
-  link.href = o.apply_url || "#";
-  link.target = "_blank";
-  link.rel = "noopener noreferrer";
-  link.textContent = "Voir l'offre";
-  card.appendChild(link);
+    link.className = "card-link";
+    if (o.apply_url) {
+      link.href = o.apply_url;
+      link.target = "_blank";
+      link.rel = "noopener noreferrer";
+      link.textContent = "Voir l'offre";
+    } else {
+      link.href = "javascript:void(0)";
+      link.textContent = "Lien indisponible";
+      link.style.opacity = "0.5";
+      link.style.cursor = "default";
+    }
+    card.appendChild(link);
 
   return card;
 }
