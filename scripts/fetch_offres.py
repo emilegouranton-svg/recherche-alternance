@@ -69,33 +69,33 @@ def fetch_sector_offers(sector, token):
     data = resp.json()
     jobs = data.get("jobs", []) or []
 
-    if os.environ.get("DEBUG_LBA"):
-        print(f"  [DEBUG] clés racine de la réponse: {list(data.keys())}", file=sys.stderr)
-        print(f"  [DEBUG] nb jobs bruts: {len(jobs)}", file=sys.stderr)
-        if jobs:
-            j0 = jobs[0]
-            print(f"  [DEBUG] identifier: {json.dumps(j0.get('identifier'), ensure_ascii=False)}", file=sys.stderr)
-            print(f"  [DEBUG] offer: {json.dumps(j0.get('offer'), ensure_ascii=False)}", file=sys.stderr)
-            print(f"  [DEBUG] contract: {json.dumps(j0.get('contract'), ensure_ascii=False)}", file=sys.stderr)
-            print(f"  [DEBUG] apply: {json.dumps(j0.get('apply'), ensure_ascii=False)}", file=sys.stderr)
-        if data.get("warnings"):
-            print(f"  [DEBUG] warnings API: {data['warnings']}", file=sys.stderr)
-
     results = []
     for job in jobs:
         try:
-            offer_id = job.get("id") or job.get("_id")
-            title = (job.get("title") or "").strip()
+            identifier = job.get("identifier", {}) or {}
+            offer = job.get("offer", {}) or {}
+            workplace = job.get("workplace", {}) or {}
+            contract = job.get("contract", {}) or {}
+            apply_block = job.get("apply", {}) or {}
+
+            offer_id = identifier.get("id")
+            title = (offer.get("title") or "").strip()
             if not offer_id or not title:
                 continue
 
-            company = (job.get("workplace", {}) or {}).get("name") or (job.get("company", {}) or {}).get("name") or "Entreprise non précisée"
-            location = (job.get("workplace", {}) or {}).get("address", {}) or {}
-            city = location.get("city") or ""
-            department = location.get("department") or {}
-            dept_label = department.get("name") if isinstance(department, dict) else department
+            company = workplace.get("name") or workplace.get("brand") or workplace.get("legal_name") or "Entreprise non précisée"
 
-            apply_url = (job.get("apply", {}) or {}).get("url") or job.get("url") or ""
+            location = workplace.get("location", {}) or {}
+            address = location.get("address") or ""
+
+            target_diploma = offer.get("target_diploma", {}) or {}
+            diploma_label = target_diploma.get("label")
+
+            contract_type = contract.get("type")
+            if isinstance(contract_type, list):
+                contract_type = ", ".join(contract_type)
+
+            apply_url = apply_block.get("url") or ""
 
             results.append({
                 "id": offer_id,
@@ -103,13 +103,13 @@ def fetch_sector_offers(sector, token):
                 "sector_label": sector["label"],
                 "title": title,
                 "company": company,
-                "city": city,
-                "department": dept_label,
-                "diploma_level": (job.get("target_diploma", {}) or {}).get("label"),
-                "contract_type": job.get("contract", {}).get("type") if isinstance(job.get("contract"), dict) else None,
-                "created_at": job.get("created_at") or job.get("createdAt"),
+                "city": address,
+                "department": None,
+                "diploma_level": diploma_label,
+                "contract_type": contract_type,
+                "created_at": offer.get("creation") or offer.get("publication") or contract.get("start"),
                 "apply_url": apply_url,
-                "description": (job.get("description") or "")[:600],
+                "description": (offer.get("description") or "")[:600],
             })
         except Exception as exc:  # tolère les champs inattendus/API en évolution
             print(f"  [WARN] offre ignorée ({exc})", file=sys.stderr)
