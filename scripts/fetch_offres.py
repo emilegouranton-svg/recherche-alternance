@@ -102,6 +102,9 @@ def fetch_sector_offers(sector, token):
 
             apply_url = apply_block.get("url") or job.get("url") or offer.get("url") or ""
 
+            if not apply_url and os.environ.get("DEBUG_LBA"):
+                print(f"  [DEBUG] pas de lien - partner: {identifier.get('partner_label')} - clés apply: {list(apply_block.keys())} - contenu apply: {json.dumps(apply_block, ensure_ascii=False)}", file=sys.stderr)
+
             results.append({
                 "id": offer_id,
                 "sector": sector["id"],
