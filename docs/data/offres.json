@@ -1,0 +1,62 @@
+{
+  "last_run": null,
+  "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
+  "offres": [
+    {
+      "id": "demo-1",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Technicien(ne) de laboratoire en alternance",
+      "company": "Exemple Laboratoires",
+      "city": "Lyon",
+      "department": "Rhône",
+      "diploma_level": "Bac+3 (Licence)",
+      "contract_type": "Apprentissage",
+      "created_at": "2026-07-01T09:00:00Z",
+      "apply_url": "#",
+      "description": "Ceci est une offre d'exemple. Les vraies offres remplaceront ce contenu après la première synchronisation automatique."
+    },
+    {
+      "id": "demo-2",
+      "sector": "biotech",
+      "sector_label": "Biotechnologies",
+      "title": "Technicien(ne) biotechnologies - culture cellulaire",
+      "company": "Exemple Biotech",
+      "city": "Toulouse",
+      "department": "Haute-Garonne",
+      "diploma_level": "Bac+3 (Licence)",
+      "contract_type": "Apprentissage",
+      "created_at": "2026-06-29T09:00:00Z",
+      "apply_url": "#",
+      "description": "Offre d'exemple pour illustration du design du site."
+    },
+    {
+      "id": "demo-3",
+      "sector": "cosmetique",
+      "sector_label": "Cosmétique",
+      "title": "Assistant(e) formulation cosmétique",
+      "company": "Exemple Cosmétiques",
+      "city": "Paris",
+      "department": "Paris",
+      "diploma_level": "Bac+3 (Licence)",
+      "contract_type": "Apprentissage",
+      "created_at": "2026-06-27T09:00:00Z",
+      "apply_url": "#",
+      "description": "Offre d'exemple pour illustration du design du site."
+    },
+    {
+      "id": "demo-4",
+      "sector": "sante_diagnostic",
+      "sector_label": "Santé et diagnostic",
+      "title": "Technicien(ne) de laboratoire médical",
+      "company": "Exemple Diagnostic",
+      "city": "Nantes",
+      "department": "Loire-Atlantique",
+      "diploma_level": "Bac+2 (BTS)",
+      "contract_type": "Apprentissage",
+      "created_at": "2026-06-25T09:00:00Z",
+      "apply_url": "#",
+      "description": "Offre d'exemple pour illustration du design du site."
+    }
+  ]
+}

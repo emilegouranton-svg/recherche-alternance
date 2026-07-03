@@ -1,0 +1,115 @@
+# Configuration des secteurs suivis par Recherche Alternance
+#
+# Chaque secteur regroupe un ou plusieurs codes ROME (Répertoire Opérationnel
+# des Métiers et des Emplois, référentiel officiel France Travail).
+# La recherche d'offres se fait par ces codes auprès de l'API La Bonne
+# Alternance (api.apprentissage.beta.gouv.fr).
+#
+# target_diploma_level: niveau de diplôme visé (3=CAP/BEP, 4=Bac, 5=Bac+2,
+# 6=Bac+3/4 [Licence pro], 7=Bac+5). On cible principalement 5 et 6 pour une
+# poursuite d'études après BTS.
+
+sectors:
+  - id: pharma
+    label: "Industrie pharmaceutique"
+    romes: [H1503, H1210, H1502, H2301]
+    diploma_levels: ["5", "6"]
+    job_titles_reference:
+      - Technicien de laboratoire
+      - Technicien en biotechnologies
+      - Technicien en recherche et développement (R&D)
+      - Assistant ingénieur en biotechnologies
+      - Technicien de production pharmaceutique
+      - Technicien de fabrication
+      - Conducteur de procédés biotechnologiques
+      - Technicien de culture cellulaire
+      - Technicien en fermentation
+      - Technicien de purification
+      - Technicien contrôle qualité (CQ)
+      - Technicien assurance qualité (AQ)
+      - Assistant qualité
+      - Technicien validation
+      - Assistant affaires réglementaires
+      - Assistant pharmacovigilance
+      - Assistant qualification d'équipements
+      - Technicien microbiologie
+      - Technicien biochimie
+      - Technicien analyses biologiques
+
+  - id: biotech
+    label: "Biotechnologies"
+    romes: [H1210, H1503, H2301]
+    diploma_levels: ["5", "6"]
+    job_titles_reference:
+      - Technicien biotechnologies
+      - Technicien en biologie moléculaire
+      - Technicien en génie génétique
+      - Technicien en culture cellulaire
+      - Technicien en culture bactérienne
+      - Technicien en fermentation industrielle
+      - Assistant ingénieur biotechnologies
+      - Technicien développement de procédés
+      - Technicien purification de protéines
+      - Technicien production de biomolécules
+
+  - id: cosmetique
+    label: "Cosmétique"
+    romes: [H1505, H1503, H1502]
+    diploma_levels: ["5", "6"]
+    job_titles_reference:
+      - Technicien formulation cosmétique
+      - Assistant formulation
+      - Technicien contrôle qualité cosmétique
+      - Technicien microbiologie cosmétique
+      - Assistant R&D cosmétique
+      - Assistant affaires réglementaires cosmétiques
+      - Assistant sécurité des produits cosmétiques
+      - Technicien production cosmétique
+
+  - id: sante_diagnostic
+    label: "Santé et diagnostic"
+    romes: [J1302, H1210, H1503]
+    diploma_levels: ["5", "6"]
+    job_titles_reference:
+      - Technicien de laboratoire médical
+      - Technicien en diagnostic in vitro
+      - Technicien en analyses biomédicales
+      - Technicien de laboratoire de recherche
+      - Assistant essais cliniques
+      - Assistant recherche clinique
+      - Attaché de recherche clinique (ARC) junior
+
+  - id: dispositifs_medicaux
+    label: "Dispositifs médicaux"
+    romes: [H1502, H1503]
+    diploma_levels: ["5", "6"]
+    job_titles_reference:
+      - Assistant qualité
+      - Technicien qualité
+      - Assistant affaires réglementaires
+      - Technicien validation
+      - Technicien méthodes
+      - Technicien production
+
+  - id: agroalimentaire
+    label: "Agroalimentaire"
+    romes: [H1503, H1210, H1502]
+    diploma_levels: ["5", "6"]
+    job_titles_reference:
+      - Technicien qualité
+      - Technicien microbiologie alimentaire
+      - Technicien laboratoire
+      - Technicien R&D
+      - Technicien sécurité alimentaire
+      - Assistant assurance qualité
+
+  - id: environnement
+    label: "Environnement"
+    romes: [H1303, H1503]
+    diploma_levels: ["5", "6"]
+    job_titles_reference:
+      - Technicien analyses environnementales
+      - Technicien laboratoire eau
+      - Technicien laboratoire environnement
+      - Technicien microbiologie environnementale
+      - Technicien contrôle qualité environnement

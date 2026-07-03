@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Recherche Alternance — Offres en biotechnologies, pharma &amp; santé</title>
+<meta name="description" content="Suivi automatisé des offres d'alternance en pharma, biotechnologies, cosmétique, santé, dispositifs médicaux, agroalimentaire et environnement.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <div class="brand">
+      <span class="brand-mark" aria-hidden="true"></span>
+      <div>
+        <h1>Recherche Alternance</h1>
+        <p class="tagline">Offres en biotechnologies, pharma, cosmétique &amp; santé — France entière</p>
+      </div>
+    </div>
+    <div class="status-strip" id="status-strip">Chargement…</div>
+  </div>
+</header>
+
+<nav class="tabs" aria-label="Navigation principale">
+  <button class="tab-btn active" data-tab="offres">Offres</button>
+  <button class="tab-btn" data-tab="a-propos">À propos</button>
+</nav>
+
+<main>
+
+  <section id="tab-offres" class="tab-panel active">
+
+    <div class="controls">
+      <input type="search" id="search-input" placeholder="Rechercher un intitulé, une entreprise, une ville…" aria-label="Recherche">
+
+      <div class="filter-group" id="sector-filters" aria-label="Filtrer par secteur"></div>
+
+      <div class="filter-row">
+        <select id="diploma-filter" aria-label="Niveau de diplôme">
+          <option value="">Tous niveaux</option>
+        </select>
+        <select id="sort-select" aria-label="Trier">
+          <option value="date-desc">Plus récentes</option>
+          <option value="date-asc">Plus anciennes</option>
+        </select>
+      </div>
+    </div>
+
+    <div class="results-meta" id="results-meta"></div>
+
+    <div class="cards-grid" id="cards-grid"></div>
+
+    <p class="empty-state" id="empty-state" hidden>Aucune offre ne correspond à ces filtres pour le moment.</p>
+
+  </section>
+
+  <section id="tab-a-propos" class="tab-panel">
+    <div class="about-content">
+      <h2>Comment ça marche</h2>
+      <p>Ce site interroge chaque jour l'API publique <strong>La Bonne Alternance</strong>, le service officiel de la République française qui centralise les offres d'apprentissage collectées sur l'ensemble du territoire. Les résultats sont filtrés par métier (codes ROME) pour ne remonter que les domaines suivis : industrie pharmaceutique, biotechnologies, cosmétique, santé et diagnostic, dispositifs médicaux, agroalimentaire et environnement.</p>
+      <p>Aucune donnée n'est inventée : chaque offre affichée provient directement de la source officielle et pointe vers le lien de candidature d'origine.</p>
+      <h2>Secteurs suivis</h2>
+      <ul id="about-sectors"></ul>
+    </div>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <p>Mise à jour automatique quotidienne · Source : API La Bonne Alternance (data.gouv.fr) · Usage personnel non commercial</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
