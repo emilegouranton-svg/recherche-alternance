@@ -124,11 +124,11 @@ function render() {
   });
 
   list.sort((a, b) => {
-    const da = a.created_at || "";
-    const db = b.created_at || "";
+    const da = typeof a.created_at === "string" ? a.created_at : "";
+    const db = typeof b.created_at === "string" ? b.created_at : "";
     return sortMode === "date-desc" ? db.localeCompare(da) : da.localeCompare(db);
   });
-
+  
   document.getElementById("results-meta").textContent =
     `${list.length} offre${list.length > 1 ? "s" : ""} affichée${list.length > 1 ? "s" : ""}`;
 
