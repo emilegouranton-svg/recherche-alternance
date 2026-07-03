@@ -26,6 +26,7 @@ jobs:
       - name: Fetch offers
         env:
           LBA_API_TOKEN: ${{ secrets.LBA_API_TOKEN }}
+          DEBUG_LBA: "1"
         run: python scripts/fetch_offres.py
 
       - name: Commit and push if changed
