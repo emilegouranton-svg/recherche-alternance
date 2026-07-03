@@ -153,7 +153,8 @@ def main():
 
     # Trie par date de création décroissante quand disponible, puis tronque
     def sort_key(o):
-        return o.get("created_at") or ""
+        val = o.get("created_at")
+        return val if isinstance(val, str) else ""
 
     archive["offres"].sort(key=sort_key, reverse=True)
     archive["offres"] = archive["offres"][:MAX_ARCHIVE_SIZE]
