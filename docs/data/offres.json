@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-07-03T13:53:16.762246+00:00",
+  "last_run": "2026-07-04T07:46:36.169703+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -2896,6 +2896,104 @@
       },
       "apply_url": "https://www.edf.fr/edf-recrute/offre/detail/FRA-REC-2026-25762?idOrigine=502",
       "description": "Le site de Romans sur Isère (26100) est un des premiers employeurs industriels du bassin Romanais avec plus de 1100 collaborateurs et 84 alternant(e)s, qui s’épanouissent chaque jour dans les métiers du futur.\r\n\r\nLe site de Romans sur Isère regroupe trois activités :\r\nLa fabrication d'assemblages combustibles pour les réacteurs de production d'électricité ;\r\nLa fabrication d'éléments combustibles pour les réacteurs de recherche ;\r\nEt la réalisation de composants mécaniques.\r\n \r\nAfin de nous aider à accompagner la forte croissance du site de Romans dans les 10 prochaines années (environ 190 rec"
+    },
+    {
+      "id": "6a48395829c4634ee71f2ca1",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Apprenti chargé de direction et qualité H/F",
+      "company": "Entreprise non précisée",
+      "city": "38130 Échirolles",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.directemploi.com/candidatOffre/55541663?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "description": "Envie de relever des challenges ? La Clinique Les Granges\nInicea vous ouvre ses portes.\n\nLA CLINIQUE LES GRANGES RECHERCHE un(e) APPRENTI\nDIRECTION et QUALITE en MASTER\n\nAux côtés de notre Responsable qualité ainsi que la\nDirection, vous pourrez découvrir les différentes facettes de la qualité et de\ndirection en établissement de santé et vous impliquer dans :Logiciel qualité utilisé : Pelikan\n\nDébut du contrat : à partir de septembre \n\nQui sommes-nous ?\n\nSituée à proximité directe de Grenoble, la Clinique INICEA\nLes Granges est un établissement SMR (Soins Médicaux et de Réadaptation),\nspéciali"
+    },
+    {
+      "id": "6a48395929c4634ee71f2ce0",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Animateur-trice - Technicien-ne QSE - Contrat Apprentissage (H/F)",
+      "company": "ASS INSERT REINSERT PROF HUMAIN HANDIC",
+      "city": "44600 Saint-Nazaire",
+      "department": null,
+      "diploma_level": "Bac, Bac Pro, BP (Bac)",
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/210RCCL",
+      "description": "Dans le cadre du développement de notre activité, nous créons le poste d'Apprenti(e) Animateur-trice technicien-ne qualité sécurité environnement en production. \nRattaché(e) au Directeur de l'établissement vous mettez en œuvre et pilotez, la politique qualité, sécurité et environnement de l'Association dans votre établissement. Véritable animateur-trice de terrain, vos principales missions sont les suivantes : \n\n\nQualité (production) :\n\no Créer, mettre à jour et diffuser les procédures, modes opératoires, défautech internes et externes, en \ncollaboration avec les équipes du site. \no Élaborer e"
+    },
+    {
+      "id": "6a483b47a872b52442031fce",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Alternance - Correspondant(e) QHSE H/F",
+      "company": "DPD",
+      "city": "83340 Le Luc",
+      "department": null,
+      "diploma_level": "Master, titre ingénieur, grande école (Bac+5)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.meteojob.com/jobs/55175743?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "description": "<p>Notre ambition : accompagner et développer les compétences de nos futurs talents !</p> <br /> <p>  Dans le cadre de notre campagne d'alternance 2026, nous recherchons un(e)  <strong>Correspondant(e) QHSE H/F</strong>  pour notre agence situé au Luc (83). </p> <br /> <p>Rattaché(e) au Chef de centre, vous interviendrez en transverse dans le déploiement des directives définies en matière de sécurité, qualité et environnement.</p> <br /> <p>Dans le cadre de votre formation, vous bénéficierez de l'expertise de votre tuteur afin de réaliser les missions suivantes :</p> <br /> <p>Sécurité :</p> <"
+    },
+    {
+      "id": "6a483b47a872b52442031fcd",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Alternance - Correspondant(e) QHSE H/F",
+      "company": "DPD",
+      "city": "13340 Rognac",
+      "department": null,
+      "diploma_level": "Master, titre ingénieur, grande école (Bac+5)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.meteojob.com/jobs/55175742?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "description": "<p>Notre ambition : accompagner et développer les compétences de nos futurs talents !</p> <br /> <p>  Dans le cadre de notre campagne d'alternance 2026, nous recherchons un(e)  <strong>Correspondant(e) QHSE H/F</strong>  pour notre agence situé à Rognac (13). </p> <br /> <p>Rattaché(e) au Chef de centre, vous interviendrez en transverse dans le déploiement des directives définies en matière de sécurité, qualité et environnement.</p> <br /> <p>Dans le cadre de votre formation, vous bénéficierez de l'expertise de votre tuteur afin de réaliser les missions suivantes :</p> <br /> <p>Sécurité :</p>"
+    },
+    {
+      "id": "6a483b47a872b52442031fcf",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Alternance - Correspondant(e) QHSE H/F",
+      "company": "DPD",
+      "city": "35230 Noyal-Châtillon-sur-Seiche",
+      "department": null,
+      "diploma_level": "Master, titre ingénieur, grande école (Bac+5)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.meteojob.com/jobs/55175750?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "description": "<p>Notre ambition : accompagner et développer les compétences de nos futurs talents !</p> <br /> <p>  Dans le cadre de notre campagne d'alternance 2026, nous recherchons un(e)  <strong>Correspondant(e) QHSE H/F</strong>  pour notre agence situé à Noyal Chatillon sur Seiche (35). </p> <br /> <p>Rattaché(e) au Chef de centre, vous interviendrez en transverse dans le déploiement des directives définies en matière de sécurité, qualité et environnement.</p> <br /> <p>Dans le cadre de votre formation, vous bénéficierez de l'expertise de votre tuteur afin de réaliser les missions suivantes :</p> <br "
+    },
+    {
+      "id": "6a483b47a872b52442031fd1",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Alternance - Correspondant(e) QHSE H/F",
+      "company": "DPD",
+      "city": "11200 Lézignan-Corbières",
+      "department": null,
+      "diploma_level": "Master, titre ingénieur, grande école (Bac+5)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.meteojob.com/jobs/55175755?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "description": "<p>Notre ambition : accompagner et développer les compétences de nos futurs talents !</p> <br /> <p>  Dans le cadre de notre campagne d'alternance 2026, nous recherchons un(e)  <strong>Correspondant(e) QHSE H/F</strong>  pour notre agence situé à  <strong>Lézignan-Corbières (11)</strong> </p> <br /> <p>Rattaché(e) au Chef de centre, vous interviendrez en transverse dans le déploiement des directives définies en matière de sécurité, qualité et environnement.</p> <br /> <p>Dans le cadre de votre formation, vous bénéficierez de l'expertise de votre tuteur afin de réaliser les missions suivantes :"
+    },
+    {
+      "id": "6a483b47a872b52442031fd4",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Alternance - Correspondant(e) QHSE H/F",
+      "company": "DPD",
+      "city": "87410 Le Palais-sur-Vienne",
+      "department": null,
+      "diploma_level": "Master, titre ingénieur, grande école (Bac+5)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.meteojob.com/jobs/55175794?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "description": "<p>Notre ambition : accompagner et développer les compétences de nos futurs talents !</p> <br /> <p>  Dans le cadre de notre campagne d'alternance 2026, nous recherchons un(e)  <strong>Correspondant(e) QHSE H/F</strong>  pour notre agence situé à  <strong>Limoges (87)</strong>  . </p> <br /> <p>Rattaché(e) au Chef de centre, vous interviendrez en transverse dans le déploiement des directives définies en matière de sécurité, qualité et environnement.</p> <br /> <p>Dans le cadre de votre formation, vous bénéficierez de l'expertise de votre tuteur afin de réaliser les missions suivantes :</p> <br"
     }
   ]
 }
