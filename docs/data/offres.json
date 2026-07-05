@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-07-04T07:46:36.169703+00:00",
+  "last_run": "2026-07-05T07:57:10.484909+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -2994,6 +2994,62 @@
       "created_at": null,
       "apply_url": "https://www.meteojob.com/jobs/55175794?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
       "description": "<p>Notre ambition : accompagner et développer les compétences de nos futurs talents !</p> <br /> <p>  Dans le cadre de notre campagne d'alternance 2026, nous recherchons un(e)  <strong>Correspondant(e) QHSE H/F</strong>  pour notre agence situé à  <strong>Limoges (87)</strong>  . </p> <br /> <p>Rattaché(e) au Chef de centre, vous interviendrez en transverse dans le déploiement des directives définies en matière de sécurité, qualité et environnement.</p> <br /> <p>Dans le cadre de votre formation, vous bénéficierez de l'expertise de votre tuteur afin de réaliser les missions suivantes :</p> <br"
+    },
+    {
+      "id": "6a498a771e137ea4a6d8b191",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Apprenti chargé de qualité H/F",
+      "company": "Entreprise non précisée",
+      "city": "74300 Thyez",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.directemploi.com/candidatOffre/55369454?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "description": "Contrat d'apprentissage à partir du 1er août Inicea, des équipes expertes et engagées pour votre santé. Acteur hospitalier de référence en France avec plus de 110 cliniques certifiées par la Haute Autorité de Santé, Inicea revendique une approche innovante du parcours de soins personnalisé et adapté à chaque pathologie et à chaque patient. Inicea propose un accompagnement humain et une expertise médicale dans deux domaines : les Soins Médicaux et de Réadaptation polyvalents et spécialisés (SMR) ainsi que la santé mentale et addictologie.Rattaché(e) au (à la)\nDirecteur(trice) de l'établissement"
+    },
+    {
+      "id": "6a498c60e80bcd8efd19beb1",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "ALTERNANT TECHNICIEN EN INSTRUMENTATION ET PROCEDES F/H",
+      "company": "Demo Cleverconnect",
+      "city": "76700 Gonfreville-l'Orcher",
+      "department": null,
+      "diploma_level": "BTS, DEUST (Bac+2)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.meteojob.com/jobs/55226545?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "description": "<p>Descriptif de l'entité et de l'activité</p> <p>Nous sommes partout dans votre quotidien et vous ne le voyez pas ! Des bulles de votre soda à la puce de votre smartphone, en passant par la réduction des émissions polluantes, nous participons chez nos clients au développement innovant de leurs applications, via notre entité Air Liquide France Industrie.</p> <p>Air Liquide France Industrie réunit les activités de production et de commercialisation des gaz industriels en France avec 4 branches d'activité complémentaires : Grande Industrie, Industriel Marchand, Electronique et Hydrogène. La fili"
+    },
+    {
+      "id": "6a498c60e80bcd8efd19bea7",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Alternance - Technicien Fabrication Atelier (F/H)",
+      "company": "Demo Cleverconnect",
+      "city": "78350 Les Loges-en-Josas",
+      "department": null,
+      "diploma_level": "BTS, DEUST (Bac+2)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.meteojob.com/jobs/55226492?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "description": "Air Liquide est le leader mondial des gaz, technologies et services pour l'industrie et la santé. Présent dans 80 pays avec environ 65 000 collaborateurs, le Groupe sert plus de 3,5 millions de clients et de patients. <br /> Air Liquide place la diversité au cœur de ses activités et s'engage notamment en favorisant l'égalité professionnelle et l'emploi des travailleurs en situation de handicap. <br /> Le Campus Innovation Paris (78 - Les Loges en Josas) est le plus grand centre de R&amp;D d'Air Liquide. <br /> Il développe des solutions innovantes pour l'ensemble des activités du Groupe. Plus "
+    },
+    {
+      "id": "6a498c61e80bcd8efd19bebf",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Alternance HSE H/F",
+      "company": "Demo Cleverconnect",
+      "city": "38360 Sassenage",
+      "department": null,
+      "diploma_level": "Master, titre ingénieur, grande école (Bac+5)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.meteojob.com/jobs/55226634?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "description": "<p>Descriptif de l'entité et de l'activité</p> <p>Partenaire essentiel des entités Air Liquide pour l'accompagnement client, Air Liquide Cryogenic Services (ALCS) est spécialisé dans le support client en France et à l'international, pour la cryogénie, l'ingénierie des gaz, le vide, et l'ultravide.</p> <p>Depuis 1999, ses équipes ont pour mission d'assurer la disponibilité opérationnelle des installations techniques des clients au travers de prestations de maintenance et de services associés.</p> <p>Fort de sa réactivité, ALCS innove dans sa gamme de services pour répondre aux exigences d'un ma"
     }
   ]
 }
