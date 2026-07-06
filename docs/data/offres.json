@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-07-05T07:57:10.484909+00:00",
+  "last_run": "2026-07-06T09:00:34.355940+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -3050,6 +3050,20 @@
       "created_at": null,
       "apply_url": "https://www.meteojob.com/jobs/55226634?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
       "description": "<p>Descriptif de l'entité et de l'activité</p> <p>Partenaire essentiel des entités Air Liquide pour l'accompagnement client, Air Liquide Cryogenic Services (ALCS) est spécialisé dans le support client en France et à l'international, pour la cryogénie, l'ingénierie des gaz, le vide, et l'ultravide.</p> <p>Depuis 1999, ses équipes ont pour mission d'assurer la disponibilité opérationnelle des installations techniques des clients au travers de prestations de maintenance et de services associés.</p> <p>Fort de sa réactivité, ALCS innove dans sa gamme de services pour répondre aux exigences d'un ma"
+    },
+    {
+      "id": "6a4b504df1dd79c4838ebf14",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Chargé(e) de Mission environnement & contrôle règlementaire",
+      "company": "CYCLEA",
+      "city": "24 RUE PIERRE BROSSOLETTE 97420 LE PORT",
+      "department": null,
+      "diploma_level": "BTS, DEUST (Bac+2)",
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a4b504df1dd79c4838ebf14/chargé-e-de-mission-environnement-contrôle-règlementaire",
+      "description": "Joue un rôle crucial dans la préservation de la santé et de la sécurité au travail tout en veillant à la protection de l'environnement. Évalue et analyse les risques professionnels et environnementaux dans l'industrie Met en œuvre des politiques de sécurité et des programmes de prévention des accidents Réalise des audits de sécurité et des inspections régulières pour assurer la conformité aux normes en vigueur Forme le personnel aux pratiques de sécurité et aux procédures d'urgence Gère la documentation relative à la sécurité et à l'environnement, y compris les rapports d'incident et les permi"
     }
   ]
 }
