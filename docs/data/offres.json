@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-07-06T09:00:34.355940+00:00",
+  "last_run": "2026-07-07T08:23:33.001375+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -3064,6 +3064,62 @@
       "created_at": null,
       "apply_url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a4b504df1dd79c4838ebf14/chargé-e-de-mission-environnement-contrôle-règlementaire",
       "description": "Joue un rôle crucial dans la préservation de la santé et de la sécurité au travail tout en veillant à la protection de l'environnement. Évalue et analyse les risques professionnels et environnementaux dans l'industrie Met en œuvre des politiques de sécurité et des programmes de prévention des accidents Réalise des audits de sécurité et des inspections régulières pour assurer la conformité aux normes en vigueur Forme le personnel aux pratiques de sécurité et aux procédures d'urgence Gère la documentation relative à la sécurité et à l'environnement, y compris les rapports d'incident et les permi"
+    },
+    {
+      "id": "6a4c2ee4859fc7712816beeb",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Alternance - Technicien Fabrication Atelier (F/H)",
+      "company": "Demo Cleverconnect",
+      "city": "78350 Les Loges-en-Josas",
+      "department": null,
+      "diploma_level": "BTS, DEUST (Bac+2)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.meteojob.com/jobs/55253617?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "description": "Air Liquide est le leader mondial des gaz, technologies et services pour l'industrie et la santé. Présent dans 80 pays avec environ 65 000 collaborateurs, le Groupe sert plus de 3,5 millions de clients et de patients. <br /> Air Liquide place la diversité au cœur de ses activités et s'engage notamment en favorisant l'égalité professionnelle et l'emploi des travailleurs en situation de handicap. <br /> Le Campus Innovation Paris (78 - Les Loges en Josas) est le plus grand centre de R&amp;D d'Air Liquide. <br /> Il développe des solutions innovantes pour l'ensemble des activités du Groupe. Plus "
+    },
+    {
+      "id": "6a4c2ee1859fc7712816be05",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Alternant Technicien Essais Laboratoire H/F",
+      "company": "UIMM",
+      "city": "26000 Valence",
+      "department": null,
+      "diploma_level": "BTS, DEUST (Bac+2)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.meteojob.com/jobs/55236710?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "description": "<p>? Qui sommes-nous ?</p> <p>Crouzet est un groupe industriel international qui conçoit, fabrique et commercialise des produits mécatroniques pour transformer les idées d'ingénierie en applications réelles pour trois marchés très exigeants : l'Aéronautique, l'Industrie &amp; le Transport terrestre.</p> <p>L'offre Crouzet comprend trois lignes de produits : Contrôle et détection de mouvement (« Motion Control &amp; Sensing »), Interface homme-machine (« Human Machine Interface ») et Contrôle et protection électriques (« Electrical Control &amp; Protection ») ; ainsi que trois services spéciali"
+    },
+    {
+      "id": "6a4c2ce3280c2fd977d7a22a",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "ALTERNANT ASSISTANT QUALITE HYGIENE SECURITE ENVIRONNEMENT H/F",
+      "company": "STEF TRANSPORT MACON",
+      "city": "01750 Replonges",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://stef.contactrh.com/jobs/14221/44294343",
+      "description": "Votre rôle ?\nRattaché(e) au responsable qualité performance de la filiale, vous participez aux missions quotidiennes du service avec notamment la mise en place du management de la politique sécurité sur le site. Vous interviendrez sur les projets suivants :\n  *  Animation des règles de sécurité et prévention sur le terrain auprès des opérationnels,\n  *  Accompagnement et formation à la culture santé sécurité au travail ainsi qu'à la qualité, l'hygiène et l'environnement\n  *  Révision et élaboration de protocoles de sécurité\n  *  Révision et élaboration de plans de prévention\n  *  Participation"
+    },
+    {
+      "id": "6a4c2ee5859fc7712816bf01",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Alternance HSE H/F",
+      "company": "Demo Cleverconnect",
+      "city": "38360 Sassenage",
+      "department": null,
+      "diploma_level": "Master, titre ingénieur, grande école (Bac+5)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.meteojob.com/jobs/55253806?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "description": "<p>Descriptif de l'entité et de l'activité</p> <p>Partenaire essentiel des entités Air Liquide pour l'accompagnement client, Air Liquide Cryogenic Services (ALCS) est spécialisé dans le support client en France et à l'international, pour la cryogénie, l'ingénierie des gaz, le vide, et l'ultravide.</p> <p>Depuis 1999, ses équipes ont pour mission d'assurer la disponibilité opérationnelle des installations techniques des clients au travers de prestations de maintenance et de services associés.</p> <p>Fort de sa réactivité, ALCS innove dans sa gamme de services pour répondre aux exigences d'un ma"
     }
   ]
 }
