@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-07-07T08:23:33.001375+00:00",
+  "last_run": "2026-07-08T07:29:35.404965+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -3120,6 +3120,90 @@
       "created_at": null,
       "apply_url": "https://www.meteojob.com/jobs/55253806?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
       "description": "<p>Descriptif de l'entité et de l'activité</p> <p>Partenaire essentiel des entités Air Liquide pour l'accompagnement client, Air Liquide Cryogenic Services (ALCS) est spécialisé dans le support client en France et à l'international, pour la cryogénie, l'ingénierie des gaz, le vide, et l'ultravide.</p> <p>Depuis 1999, ses équipes ont pour mission d'assurer la disponibilité opérationnelle des installations techniques des clients au travers de prestations de maintenance et de services associés.</p> <p>Fort de sa réactivité, ALCS innove dans sa gamme de services pour répondre aux exigences d'un ma"
+    },
+    {
+      "id": "6a4d82bfdea3d72aa22e0b31",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Alternant(e)- Responsable qualité (H/F)",
+      "company": "CHAMPAGNE GRUET",
+      "city": "10110 Buxeuil",
+      "department": null,
+      "diploma_level": "Licence, BUT, Licence Pro (Bac+3)",
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/210WTXP",
+      "description": "Dans le cadre d'une création de poste, nous recherchons un(e) alternant(e) responsable Qualité, Hygiène, Sécurité et Environnement (QHSE)  (H/F). \n\nEn collaboration avec notre œnologue, vous aurez pour missions :\n- Piloter la certification IFS, assurer son maintien , et répondre aux exigences du cahier des charges\n- Mettre à jour et saisir les données qualité dans les systèmes internes.\n- Réaliser des audits internes et préparer l'entreprise aux audits externes pour garantir la conformité aux normes\n- Traiter les demandes /réclamations clients et les non-conformités, en proposant des actions c"
+    },
+    {
+      "id": "6a4d84be6a281b681b3dd031",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Alternant technicien calculs données d'essais F/H - H/F",
+      "company": "UIMM",
+      "city": "73500 Modane",
+      "department": null,
+      "diploma_level": "Licence, BUT, Licence Pro (Bac+3)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.meteojob.com/jobs/55267521?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "description": "<p>  Référence : AA1538UN  <br />  Rattaché à l'unité Essais du département, vous intégrerez une équipe hautement qualifiée qui rassemble les ingénieurs, les programmeurs et les techniciens d'essais chargés de mener à bien les expérimentations dans nos installations d'essais.  <br />  Avec l'appui d'un ou plusieurs techniciens expérimentés, vos missions seront les suivantes :  <br />  Préparation &amp; Contrôle :  <br />  Paramétrer les programmes de traitement et contrôler la qualité des résultats en amont des phases d'essais (VBA / Python) ;  <br />  Traitement en temps réel :  <br />  Colle"
+    },
+    {
+      "id": "6a4d82ccdea3d72aa22e0e55",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Technicien  HSE (H/F) en apprentissage",
+      "company": "Entreprise non précisée",
+      "city": "70290 Champagney",
+      "department": null,
+      "diploma_level": "Bac, Bac Pro, BP (Bac)",
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/210WPZM",
+      "description": "Nous recherchons, pour notre site de fabrication de portes de garage (70), un Alternant HSE H/F.\n\n Au sein d'une usine de production d'environ 60 collaborateurs (fonctions supports + production), vous participerez à la démarche de prévention des risques professionnels à travers la sensibilisation et la formation aux règles de sécurité des collaborateurs.\n\nRattaché au Directeur de Site, vos missions principales seront de :\n\n¨ Participer à l'évaluation des risques : rédaction/analyse/mise en place et suivi des plans d'actions\n\n¨ Participer au suivi du classement du site en rapport avec les régim"
+    },
+    {
+      "id": "6a4d82ccdea3d72aa22e0e60",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Assistant Qualité Sécurité Environnement (H/F)",
+      "company": "Entreprise non précisée",
+      "city": "72260 Marolles-les-Braults",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://www.meteojob.com/jobs/54805539?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "description": "Description du poste :\nEt si vous rejoigniez Jeusselin pour votre alternance ?\nVous souhaitez intégrer un groupe en pleine croissance, solide et pérenne, rejoignez l'entreprise JEUSSELIN, 40 salariés, spécialisée dans le commerce de gros de céréales. JEUSSELIN est une filiale du groupe agroalimentaire LDC connu pour ses marques Loué, Le Gaulois, Maître Coq, Marie et Traditions d'Asie.\nEn lien direct avec le Responsable Qualité-Sécurité-Environnement de JEUSSELIN, vous l'assisterez sur les missions suivantes Qualité : préparation des audits extérieurs concernant le stockage des céréales, des pr"
+    },
+    {
+      "id": "6a4d82c7dea3d72aa22e0d18",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Technicien en environnement (H/F)",
+      "company": "Entreprise non précisée",
+      "city": "49260 Bellevigne-les-Châteaux",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://www.meteojob.com/jobs/54801915?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "description": "Description du poste :\nFaites mijoter votre avenir chez Marie Surgelés !\nRattaché(e) à la Coordinatrice Environnement, vous aurez pour principales missions Accompagner la démarche de certification des sites à la norme ISO 50001 Participer aux audits internes, afin de pouvoir analyser ensuite nos bonnes pratiques, nos écarts ainsi que nos axes d'amélioration,\n* Contribuer au déploiement du plan d'actions résultant des audits internes.\nEn parallèle, vous participerez à la vie quotidienne du service environnement Assurer des campagnes de sensibilisation et des animations sur les thématiques de l'"
+    },
+    {
+      "id": "6a4d82c4dea3d72aa22e0c55",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "ALTERNANCE - BUT sur 2 ans ou dernière année en Hygiène (H/F)",
+      "company": "SOCIETE NATIONALE SNCF",
+      "city": "33000 Bordeaux",
+      "department": null,
+      "diploma_level": "Licence, BUT, Licence Pro (Bac+3)",
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://emploi.sncf.com/nos-offres/792375?extId=2026-015775&source=sncf-prod&NoSociete=389&NoSource=16023%3Futm_source%3Dfrancetravail&utm_source=POLEEMPLOI&utm_medium=TargetingSourcing&utm_campaign=SNCF_ACT",
+      "description": "Description du poste\nDescription de la mission :\n\nAu sein du pôle Sécurité de la DRG Nouvelle-Aquitaine (SNCF Gares &amp; Connexions - siège Bordeaux), l'alternant(e) HSE accompagne les équipes dans la prévention des risques et l'amélioration des conditions de sécurité au sein de l'organisation.\n\nLes missions principales :\nParticiper à l'animation de la démarche Santé Sécurité au Travail (SST)\n\nRéaliser des analyses de risques et proposer des actions d'amélioration\n\nAssurer une veille réglementaire (normes, exigences SNCF, sécurité)\n\nContribuer à l'analyse des incidents et événements sécurité\n"
     }
   ]
 }
