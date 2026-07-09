@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-07-08T07:29:35.404965+00:00",
+  "last_run": "2026-07-09T08:37:52.831976+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -3204,6 +3204,104 @@
       "created_at": null,
       "apply_url": "https://emploi.sncf.com/nos-offres/792375?extId=2026-015775&source=sncf-prod&NoSociete=389&NoSource=16023%3Futm_source%3Dfrancetravail&utm_source=POLEEMPLOI&utm_medium=TargetingSourcing&utm_campaign=SNCF_ACT",
       "description": "Description du poste\nDescription de la mission :\n\nAu sein du pôle Sécurité de la DRG Nouvelle-Aquitaine (SNCF Gares &amp; Connexions - siège Bordeaux), l'alternant(e) HSE accompagne les équipes dans la prévention des risques et l'amélioration des conditions de sécurité au sein de l'organisation.\n\nLes missions principales :\nParticiper à l'animation de la démarche Santé Sécurité au Travail (SST)\n\nRéaliser des analyses de risques et proposer des actions d'amélioration\n\nAssurer une veille réglementaire (normes, exigences SNCF, sécurité)\n\nContribuer à l'analyse des incidents et événements sécurité\n"
+    },
+    {
+      "id": "6a4ed03bdea3d72aa22ed3f3",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Stage Assistant Ingénieur amélioration continue H/F",
+      "company": "Chantiers de l'Atlantique",
+      "city": "44600 Saint-Nazaire",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "http://app.mytalentplug.com/redirection.aspx?ojid=cuWg3XoRrGYQugdJYa4w5w==",
+      "description": "Le stage se déroule au sein du secteur Fabrication, dans une équipe Méthodes / Lean de quatre personnes. \nL'équipe travaille au quotidien sur l'amélioration des pratiques de production et l'optimisation des flux dans les ateliers de production (découpe et assemble de tôles métalliques). \n\nLe sujet du stage porte sur l'amélioration de la gestion d'un magasin de production. L'objectif est de mieux comprendre le fonctionnement actuel de cet espace clé dans la fabrication des ensembles métalliques, puis de proposer des actions concrètes pour en améliorer la performance.\nLe stage alterne entre trav"
+    },
+    {
+      "id": "6a4ed03adea3d72aa22ed3c5",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Alternant Assistant.e qualité.e / gestion des risques (H/F)",
+      "company": "FONDAT REGION OUEST LIGUE CANCER",
+      "city": "35000 Rennes",
+      "department": null,
+      "diploma_level": "Licence, BUT, Licence Pro (Bac+3)",
+      "contract_type": "Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://centres-unicancer-recrutement.talent-soft.com/Pages/Offre/detailoffre.aspx?idOffre=5207&idOrigine=518&LCID=1036",
+      "description": "MISSIONS GENERALES :\n\nRattaché.e à la direction Qualité, Risques et Evaluation vous serez chargé.e des missions suivantes : \n- Gestion du système documentaire (mise en forme, contrôle, classement, diffusion)\n- Mise à jour et diffusion d'indicateurs et de tableaux de bords \n- Participation aux réunions qualité et gestion des risques \n- Participation à l'information du personnel et communication interne\n\nVous serez amené.e à soutenir la direction qualité, risques et évaluation dans les différentes démarches d'évaluation et de gestion des risques réalisées au sein de l'établissement et à particip"
+    },
+    {
+      "id": "6a4ed035dea3d72aa22ed2e3",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Ingénieur Qualité H/F",
+      "company": "Groupe Biscuits Bouvard",
+      "city": "03340 Bessay-sur-Allier",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.aplitrak.com/?adid=YmVzc2F5Ljg0ODQ0LjY3MDZAYmlzY3VpdHNib3V2YXJkLmFwbGl0cmFrLmNvbQ",
+      "description": "Votre mission :\nRattaché(e) à la Responsable Qualité et Environnement, vous découvrirez les missions d'un service qualité au sein d'une structure agroalimentaire et participerez activement aux démarches d'amélioration continue du site.\nDans ce cadre, vos principales missions seront notamment de :\n- Participer au suivi et à l'amélioration du système qualité du site\n- Contribuer au développement de la culture du nettoyage et de l'hygiène \n- Accompagner les équipes dans l'application des bonnes pratiques d'hygiène et de fabrication\n- Participer aux actions de sensibilisation et de communication q"
+    },
+    {
+      "id": "6a4e45bfa8013626d33137d2",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Alternance - Technicien Chimie - F/H - 2026-108695",
+      "company": "SCHNEIDER ELECTRIC FRANCE",
+      "city": "73800 Porte-de-Savoie",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://maazi.fr/job/alternance-technicien-chimie-f-h-2026-108695-schneider-electric-groupe-savoie?utm_source=labonnealternance&utm_medium=referral&utm_campaign=alternance&utm_content=fluxbonnealternance&job_id=108695",
+      "description": "<p>Cette offre est diffusée via maazi.<br /><b>⚠ INFORMATION IMPORTANTE SUR MAAZI, NOUS TRAITONS EXCLUSIVEMENT LES CANDIDATURES DES TALENTS EN SITUATION DE HANDICAP (BOETH).</b> Si vous n'êtes pas concerné(e), rendez-vous sur le site carrières de l'entreprise pour postuler à cette offre.</p><p>Rejoignez Schneider Electric, leader mondial de la gestion de l'énergie et de l'automatisation, pour une alternance enrichissante dans un contexte industriel de pointe. Vous intégrerez le site de Francin (Savoie) et travaillerez sur le secteur peinture, plus précisément sur le traitement de surface et la"
+    },
+    {
+      "id": "6a4e0967a8013626d330d5f6",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "ALTERNANT R&amp;D H/F",
+      "company": "BISCUITS BOUVARD",
+      "city": "01250 Ceyzériat",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.aplitrak.com/?adid=c2llZ2UuNDY4MDEuMTM2ODBAYmlzY3VpdHNib3V2YXJkLmFwbGl0cmFrLmNvbQ",
+      "description": "Le service Recherche et Développement recherche un(e) Assistant(e) R&amp;D en alternance, rattaché(e) contractuellement au siège social.\r\n\r\nVous assisterez le Responsable Formulation et Développement Produit tout en bénéficiant d'un contexte et d'un suivi formateur.\n\nNotre Groupe Biscuitier est leader dans son domaine (fabrication de biscuits sucrés, biologiques et diététiques à destination des marques de distributeurs et des grandes marques) et compte environ 2000 collaborateurs sur 18 sites de production.\n\n* Élaboration, sous l'autorité du Responsable Formulation et Développement Produit et "
+    },
+    {
+      "id": "6a4ed026dea3d72aa22ecf11",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Assistant Qualité Sécurité Environnement - Alternance (H/F)",
+      "company": "API RESTAURATION",
+      "city": "59113 Seclin",
+      "department": null,
+      "diploma_level": "Licence, BUT, Licence Pro (Bac+3)",
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/210WWDH",
+      "description": "Vous souhaitez intégrer une entreprise familiale de 12 000 salariés, présente en France depuis 1956, mais aussi en Allemagne, Belgique et Luxembourg, avec de belles valeurs humaines : esprit familial, proximité, cuisine authentique ?\n\nAlors rejoignez Api Restauration !\n\nNous recrutons notre Assistant Qualité Sécurité Environnement H/F en alternance :\n\nOù ? Au sein de notre Direction d'Agence Régionale Lille Flandres Enseignement, basée à Seclin\n\nSalaire ? En fonction du diplôme et de l'âge\n\n35h du lundi au vendredi de 9h à 17h\n\nDéplacements réguliers sur les départements du Nord et du Pas de C"
+    },
+    {
+      "id": "6a4ed2236a281b681b3f2912",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Alternance - Chargé de mission QHSE H/F",
+      "company": "Boulangerie LOUISE",
+      "city": "92120 Montrouge",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.meteojob.com/jobs/55313182?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "description": "<p>  <strong>Rejoignez Boulangerie Louise - le goût du bon, du vrai, du fait maison !</strong> </p> <p>  Chez  <strong>Louise</strong>  , on ne vend pas seulement du pain…  <br />  On partage  <strong>du plaisir, de la convivialité et un vrai savoir-faire artisanal.</strong>  ❤️ </p> <p>  Chaque jour, dans nos  <strong>120 boulangeries</strong>  , nos boulangers pétrissent, façonnent et cuisent sur place pour offrir à  <strong>chacun</strong>  <strong>le bonheur du pain chaud</strong>  et  <strong>la convivialité du comptoir</strong>  et le plaisir d'accueillir chaque client comme un habitué. "
     }
   ]
 }
