@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-07-09T08:37:52.831976+00:00",
+  "last_run": "2026-07-10T08:23:04.361268+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -3302,6 +3302,104 @@
       "created_at": null,
       "apply_url": "https://www.meteojob.com/jobs/55313182?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
       "description": "<p>  <strong>Rejoignez Boulangerie Louise - le goût du bon, du vrai, du fait maison !</strong> </p> <p>  Chez  <strong>Louise</strong>  , on ne vend pas seulement du pain…  <br />  On partage  <strong>du plaisir, de la convivialité et un vrai savoir-faire artisanal.</strong>  ❤️ </p> <p>  Chaque jour, dans nos  <strong>120 boulangeries</strong>  , nos boulangers pétrissent, façonnent et cuisent sur place pour offrir à  <strong>chacun</strong>  <strong>le bonheur du pain chaud</strong>  et  <strong>la convivialité du comptoir</strong>  et le plaisir d'accueillir chaque client comme un habitué. "
+    },
+    {
+      "id": "6a5021d0dea3d72aa22f9094",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Alternant Ingénieur R&amp;D H/F",
+      "company": "ATLANTEM",
+      "city": "56920 Noyal-Pontivy",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Professionnalisation",
+      "created_at": null,
+      "apply_url": "http://app.mytalentplug.com/redirection.aspx?ojid=2IzMypARh8x3WEyF1rZepw==",
+      "description": "Spécialisation Essais &amp; Développement Produits\n\nAu sein du service Recherche &amp; Développement, vous participerez activement aux projets de développement de nos produits. Accompagné(e) par nos équipes R&amp;D et Production, vous serez amené(e) à :\n- Réaliser des essais sur notre gamme de menuiseries (multi-produits, multi-matériaux).\n- Participer à la préparation, au suivi et à l'analyse des essais réalisés sur nos bancs d'essais.\n- Rédiger les rapports d'essais et assurer le suivi documentaire des résultats.\n- Effectuer une veille technique et réglementaire sur les normes et protocoles "
+    },
+    {
+      "id": "6a5021d0dea3d72aa22f9095",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Alternant Ingénieur R&amp;D H/F",
+      "company": "ATLANTEM",
+      "city": "56920 Noyal-Pontivy",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Professionnalisation",
+      "created_at": null,
+      "apply_url": "http://app.mytalentplug.com/redirection.aspx?ojid=trzKUrXD5XgRLMf2hotV7w==",
+      "description": "En collaboration avec les équipes R&amp;D, vous serez amené(e) à :\n\n- Rédiger et mettre en forme des documents techniques : modes opératoires, notices d'utilisation, notices de pose, guides techniques, etc.\n- Créer, mettre à jour et améliorer les supports documentaires destinés aux équipes internes et aux clients.\n- Structurer et valoriser les données techniques afin de produire une documentation claire, fiable et facilement exploitable.\n- Exploiter les modèles et plans issus de SolidWorks (2D/3D) pour illustrer et enrichir les documents.\n- Participer à l'amélioration des méthodes de productio"
+    },
+    {
+      "id": "6a5021cfdea3d72aa22f904a",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Alternance R&amp;D - Synthèse de superplastifiants (H/F)",
+      "company": "COMPAGNIE DE SAINT-GOBAIN",
+      "city": "45300 Sermaises",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://joinus.saint-gobain.com/description?nPostingTargetId=314055&id=Q2FFK026203F3VBQBLO7V8M1O&LG=FR&languageSelect=FR&cType=JobBoard&sType=FranceTravail",
+      "description": "Pourquoi a-t-on besoin de vous?\nCette alternance s'inscrit dans une démarche de renforcement de notre savoir-faire en chimie des polymères appliquée aux adjuvants pour l'industrie de la construction. Elle portera principalement sur l'optimisation de la synthèse de nos superplastifiants tout en conservant ou améliorant leurs mécanismes d'interaction et d'adsorption sur les matériaux cimentaires.\n\nDans ce cadre, le travail consistera à développer et évaluer de nouvelles approches de synthèse en polymérisation radicalaire classique, notamment à travers l'étude de systèmes d'amorçage alternatifs. "
+    },
+    {
+      "id": "6a5021ccdea3d72aa22f8fb8",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Assistant / Assistante technique d'ingénieur / d'ingénieure en études, recherche et développement en industrie (H/F)",
+      "company": "SOC IMMOBILIERE DES CHEMINS DE FER FRANC",
+      "city": "33000 Bordeaux",
+      "department": null,
+      "diploma_level": "Bac, Bac Pro, BP (Bac)",
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://www.meteojob.com/jobs/54853306?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "description": "Description du poste :\n\nDans le cadre de son activité, l'établissement Atlantique de la Nouvelle Aquitaine recherche un(e) Gestionnaire Technique en alternance. Rattaché(e) au Responsable technique et intégré(e) à la Direction du Patrimoine Technique, vous participez à la gestion et au suivi des interventions techniques sur le patrimoine.\n\nÀ ce titre, vos missions principales seront les suivantes Garantir la gestion des travaux techniques courants du patrimoine\n- Contrôler la bonne exécution des travaux techniques courants\n- Répondre aux sollicitations des équipes de proximité sur les sujets t"
+    },
+    {
+      "id": "6a5021d2dea3d72aa22f9109",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Assistant Qualité Sécurité Environnement (H/F)",
+      "company": "LECLERC VOYAGES",
+      "city": "62217 Tilloy-lès-Mofflaines",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://www.meteojob.com/jobs/55312118?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "description": "Description du poste :\n\nTu cherches un contrat en alternance, où le terrain et l'opérationnel priment, au coeur du leader de la distribution française La SCAPARTOIS (Centrale d'achat régionale E.Leclerc), recrute son futur alternant au sein du service QHSE !\n\nTon quotidien ? Sous la responsabilité du responsanle QHSE, tu seras au centre des activités du service\n\n? Qualité : Aide à la rédaction de fiches pratiques et modes opératoires / procédures. Participer à l'harmonisation entre les procédures. Participer à la mise en place et le suivi des indicateurs. Planifier et aider à la mise en oeuvre"
+    },
+    {
+      "id": "6a5023c16a281b681b40a3ca",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Coordinateur HSE en alternance F/H",
+      "company": "EXPERTIS LEZIGNAN CORBIERES",
+      "city": "11200 Névian",
+      "department": null,
+      "diploma_level": "BTS, DEUST (Bac+2)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.meteojob.com/jobs/55346800?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "description": "<p>  Dans le cadre du développement de son activité, notre client recherche un(e) alternant(e) HSE afin d'accompagner le Coordinateur HSE dans le suivi des opérations terrain sur différents chantiers.  <br />  Vous participerez activement à la mise en œuvre et au suivi de la politique Hygiène, Sécurité et Environnement de l'entreprise. </p> <p>Vos missions pourront notamment inclure :</p> <ul>  <li>Participation au suivi des actions HSE sur chantier</li>  <li>Sensibilisation des équipes aux règles de sécurité (accueil sécurité, causeries, briefings)</li>  <li>Réalisation d'inspections terrain "
+    },
+    {
+      "id": "6a4ff5848bfdaae34d5f6de4",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Apprenti HSE F/H",
+      "company": "ADHEX TECHNOLOGIES",
+      "city": "Rue de Champ Pusy 25170 Pelousey",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://job.mytalentplug.com/api/JobOffer/redirect/?id=2c0f252f-13bd-4af3-ba97-170aa22174b7",
+      "description": "Missions<br /><br />Au sein de l'équipe, vous contribuerez activement à la mise en oeuvre et au suivi de la politique Hygiène, Sécurité et Environnement. Vous participerez à l'amélioration continue des pratiques de prévention, au respect des exigences réglementaires et à la sensibilisation des équipes aux enjeux HSE, dans un environnement exigeant où la rigueur et la précision sont essentielles.<br /><br />- Participer à l'évaluation des risques professionnels et à la mise à jour du document unique.<br />- Contribuer au suivi des plans d'actions HSE et à la vérification de leur bonne applicati"
     }
   ]
 }
