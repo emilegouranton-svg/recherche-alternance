@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-07-14T07:10:52.044456+00:00",
+  "last_run": "2026-07-15T07:14:38.510788+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -3526,6 +3526,20 @@
       "created_at": null,
       "apply_url": "http://app.mytalentplug.com/redirection.aspx?ojid=nhqnZWsxzno9WJlY4DH+gw==",
       "description": "Exprimez votre potentiel au sein d'un groupe engagé pour un avenir durable.\nAu sein de la Direction RSE, mettre en place et piloter la mise en oeuvre des engagements sociétaux inscrits dans la politique RSE de l'entreprise.\nThème : se mettre en conformité sur le Devoir de vigilance, dans la perspective de la future CS3D, au travers de plusieurs actions.\n Vos missions?:\n- travailler sur le renforcement de la collecte des données permettant la cartographie annuelle  des fournisseurs, y compris internationaux\n- en s'appuyant sur les résultats de l'état des lieux au sein de la division et de l'éva"
+    },
+    {
+      "id": "6a56b926dea3d72aa2332c93",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Chargé(e) de mission Q3SER  H/F",
+      "company": "CHIMIMECA SAS",
+      "city": "69700 Montagny",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://www.lindustrie-recrute.fr/candidat/offre/802084?utm_source=NQ==",
+      "description": "Rattaché(e) à la responsable Q3SER, vous participerez activement au déploiement et à l’amélioration de notre système de management Q3SER.\n\n\nÀ ce titre, vous serez amené(e) à :\n\n\n- Contribuer à la mise à jour du système documentaire (procédures, modes opératoires…) \n- Participer à l’évaluation des risques professionnels et environnementaux \n- Suivre les indicateurs Q3SER et proposer des actions d’amélioration \n- Sensibiliser les équipes aux bonnes pratiques (sécurité, environnement, qualité) \n- Participer à la préparation et au suivi des audits internes et externes \n- Accompagner le déploiement"
     }
   ]
 }
