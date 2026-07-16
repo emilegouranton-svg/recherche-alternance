@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-07-15T07:14:38.510788+00:00",
+  "last_run": "2026-07-16T07:22:36.992684+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -3540,6 +3540,76 @@
       "created_at": null,
       "apply_url": "https://www.lindustrie-recrute.fr/candidat/offre/802084?utm_source=NQ==",
       "description": "Rattaché(e) à la responsable Q3SER, vous participerez activement au déploiement et à l’amélioration de notre système de management Q3SER.\n\n\nÀ ce titre, vous serez amené(e) à :\n\n\n- Contribuer à la mise à jour du système documentaire (procédures, modes opératoires…) \n- Participer à l’évaluation des risques professionnels et environnementaux \n- Suivre les indicateurs Q3SER et proposer des actions d’amélioration \n- Sensibiliser les équipes aux bonnes pratiques (sécurité, environnement, qualité) \n- Participer à la préparation et au suivi des audits internes et externes \n- Accompagner le déploiement"
+    },
+    {
+      "id": "69cfa5bfb1d9c9fd4481f647",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Assistant santé et sécurité au travail en alternance (H/F)",
+      "company": "INSTITUT DE FORMATION REGIONAL DES INDUSTRIES ALIMENTAIRES DE NOUVELLE AQUITAINE",
+      "city": "37 Avenue du Docteur Albert Schweitzer 33600 Pessac",
+      "department": null,
+      "diploma_level": "Master, titre ingénieur, grande école (Bac+5)",
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/69cfa5bfb1d9c9fd4481f647/assistant-santé-et-sécurité-au-travail-en-alternance-h-f",
+      "description": "Le Technicien de laboratoire d'analyse industrielle assure le contrôle et l'assurance qualité des processus industriels. Réalise des analyses physico-chimiques pour contrôler la qualité des matières premières et des produits finis Interprète les résultats et rédige des rapports détaillés pour assurer la conformité aux normes Participe à l'élaboration et à l'optimisation des procédures d'analyse pour améliorer la fiabilité des résultats Assure la maintenance et le calibrage des équipements de laboratoire pour garantir leur bon fonctionnement Collabore avec les équipes de production pour identif"
+    },
+    {
+      "id": "6a58088bdea3d72aa23397b9",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Alternance - Technicien de Laboratoire F/H - ITGA",
+      "company": "ITGA",
+      "city": "42000 Saint-Étienne",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://careers.werecruit.io/fr/itga/offres/alternance---technicien-de-laboratoire--6ea09f?utm_source=francetravail&utm_medium=job-board",
+      "description": "Rejoins notre laboratoire en alternance à Saint Etienne (42) !\n \n \n \nTu souhaites évoluer dans un environnement scientifique dynamique tout en préparant ton diplôme ?\n \nViens partager notre quotidien au sein de notre laboratoire.\n \nIntégré(e) à l’équipe et accompagné(e) par Christopher, tu participes activement à la préparation des échantillons en vue de leur analyse.\n \n \n \n✨Tes missions principales :\n \n- Réaliser les différentes étapes de préparation des échantillons (prélèvement, broyage, dissolution…); \n- Assurer l’approvisionnement des postes de travail; \n- Effectuer la maintenance de prem"
+    },
+    {
+      "id": "6a5808b0dea3d72aa233a067",
+      "sector": "sante_diagnostic",
+      "sector_label": "Santé et diagnostic",
+      "title": "Alternance - Technicien de laboratoire en biologie moléculaire F/H",
+      "company": "Eau de Paris",
+      "city": "94200 Ivry-sur-Seine",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/kyd1mipk3n8/alternance-technicien-de-laboratoire-en-biologie-moleculaire-f-h",
+      "description": "RESPONSABILITÉS : L'alternant aura pour mission l' évaluation de l'intégrité des acides nucléiques viraux comme indicateur d'infectivité. La surveillance environnementale des virus entériques et respiratoires (norovirus, SARS-CoV-2, adénovirus) repose actuellement sur la RT-qPCR ou RT-dPCR, sans distinguer particules infectieuses intactes et fragments inactifs, ce qui surestime le risque sanitaire. Les méthodes actuelles compliquent l'interprétation des signaux dans les eaux usées, surfaces ou filières de traitement. L'évaluation de l'intégrité des capsides virales a amélioré les analyses, mai"
+    },
+    {
+      "id": "6a580973dea3d72aa233ce4f",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Alternant - Moyens Généraux F/H (H/F)",
+      "company": "Safran",
+      "city": "60110 Méru",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://www.aplitrak.com/?adid=U2FmcmFuZWxlY3RyaWNhbHBvd2VyTWVydS44NjAxMi42NzA2QHNhZnJhbmZyLmFwbGl0cmFrLmNvbQ",
+      "description": "Rattaché(e) au Responsable SSE, vous serez amené(e) à effectuer les missions suivantes :\n- Participer à la gestion des bâtiments, locaux et espaces de travail.\n- Suivre les interventions de maintenance et les prestataires externes.\n- Mettre en place une procédure robuste sur le respect des plans de prévention et permis de travail.\n- Contribuer à la gestion des prestataires sur site.\n- Suivre le planning des contrôles et maintenances réglementaires.\n- Participer à l'organisation des déménagements internes et aménagements de bureaux si nécessaire.\n- Aider à la gestion des demandes internes urgen"
+    },
+    {
+      "id": "6a578edca8013626d33d9767",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Technicien/ne Mesures Rejets Atmosphériques en alternance H/F",
+      "company": "DEKRA FRANCE",
+      "city": "92350 Le Plessis-Robinson",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://job.mytalentplug.com/api/JobOffer/redirect/?id=eedf875a-4682-41af-b5d4-6b9224f27e03",
+      "description": "Prêt/e à partager votre expertise chez DEKRA ? <br /><br />DEKRA Industrial, recherche son/sa futur/e Technicien/ne Mesures Rejets Atmosphériques en alternance à Dijon pour la rentrée 2026.<br />Vous rejoindrez une équipe d'une dizaine de personnes.<br /><br />Rattaché/e à un tuteur, vous réalisez des missions de mesures et de contrôles sur la qualité de l'air à l'émission, conformément à la réglementation en vigueur.<br /><br />Dans ce cadre, vos missions sont les suivantes :<br /><br />- Vous préparez votre matériel en fonction des analyses à réaliser;<br />- Vous effectuez des prélèvements "
     }
   ]
 }
