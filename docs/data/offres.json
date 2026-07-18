@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-07-17T07:16:50.542777+00:00",
+  "last_run": "2026-07-18T07:00:49.913414+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -3750,6 +3750,76 @@
       "created_at": null,
       "apply_url": "https://www.pass.fonction-publique.gouv.fr/offre/apprentie-hygiene-securite-environnement-2",
       "description": "<p>Dans le cadre du renforcement de sa politique de prévention des risques professionnels, de sécurité alimentaire et de développement durable, le Crous de La Réunion et de Mayotte recrute un(e) apprenti(e) en 3ᵉ année de Bachelor Universitaire de Technologie (BUT) Hygiène, Sécurité, Environnement (HSE). </p><p><strong>Missions principales</strong> :</p><p><strong>SECURITE</strong></p><ul><li>Participer à la mise à jour du Document Unique d'Évaluation des Risques Professionnels (DUERP), en lien avec l'assistant de prévention  ;</li><li>Réaliser des visites de terrain et proposer des actions de"
+    },
+    {
+      "id": "6a5aadbd6cce1228eac1fdab",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Technicien / Technicienne chimiste en laboratoire d'analyse indus (H/F)",
+      "company": "INSTITUT TECHNIQUE GAZ ET AIR",
+      "city": "35760 Saint-Grégoire",
+      "department": null,
+      "diploma_level": "Bac, Bac Pro, BP (Bac)",
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/211HMDW",
+      "description": "Viens partager notre quotidien en alternance, au sein de notre laboratoire à Saint-Grégoire (35).\n\nIntégré(e) dans notre laboratoire de 78 collaborateurs(trices), tu travailles aux côtés d'Amélie afin de préparer les échantillons en vue de leurs analyses.\n\n \nTes missions principales :\n\nEffectuer différentes manipulations afin de préparer les échantillons (prélèvement, broyage, dissolution...)\nApprovisionner les différents postes de travail.\nRéaliser de la maintenance d'appareils de premier niveau.\nRespecter les procédures et les délais.\nParticiper à la gestion du stock des consommables.\nAfin d"
+    },
+    {
+      "id": "6a5aaf489e972c0713e1367e",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Alternant Qualité (H/F)",
+      "company": "L'industrie recrute",
+      "city": "54630 Flavigny-sur-Moselle",
+      "department": null,
+      "diploma_level": "Licence, BUT, Licence Pro (Bac+3)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.meteojob.com/jobs/55522226?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "description": "<p>  Rejoignez France Elévateur pour une expérience enrichissante au sein de notre entreprise,  <br />  Experts dans la conception et fabrication de nacelles élévatrices depuis 1984,  <br />  Présents dans toute la France avec nos 12 agences SAV, intégrés à un groupe international à fort potentiel de développement sur notre marché, profitez d'un accompagnement complet dans un cadre bienveillant. </p> <p>Intégrez notre équipe de 310 collaborateurs, tous passionnés et engagés, qui évoluent dans un univers où l'innovation et la qualité sont au cœur du développement.</p> <p>Contribuez à imaginer e"
+    },
+    {
+      "id": "6a5aa64f73e46f4c82db2e65",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Alternant Laboratoire - Contrôle et Qualité industrielle",
+      "company": "DEPAGNE",
+      "city": "la Rivière 38150 Saint-Romain-de-Surieu",
+      "department": null,
+      "diploma_level": "BTS, DEUST (Bac+2)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://nostalentsnosemplois.auvergnerhonealpes.fr/jobads/16101400?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "description": "<p>  <strong>Découvrez un projet qui vous ressemble !</strong> </p> <p> Envie de rejoindre une PME à taille humaine en mouvement où le management de proximité favorise la coopération, l’autonomie et la recherche de performance ? </p> <p>Alors lisez la suite !</p> <p>La société Depagne est une référence depuis plus de 100 ans sur le marché français de la fabrication de matériels de raccordement, de protection et de distribution électrique destinés au réseau de distribution publique.</p> <p>Grâce à sa politique d’innovation, elle est également devenue leader européen sur les marchés de bornes po"
+    },
+    {
+      "id": "6a5aadbc6cce1228eac1fd3c",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Alternance - Technicien Sécurité F/H",
+      "company": "Entreprise non précisée",
+      "city": "26100 Romans-sur-Isère",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.directemploi.com/candidatOffre/54471444?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "description": "Le site de Romans sur Isère () est un des premiers employeurs industriels du bassin Romanais avec plus de collaborateurs et 84 alternant(e)s, qui s’épanouissent chaque jour dans les métiers du futur. Le site de Romans sur Isère regroupe trois activités :La fabrication d'assemblages combustibles pour les réacteurs de production d'électricité ;La fabrication d'éléments combustibles pour les réacteurs de recherche ;Et la réalisation de composants mécaniques. Afin de nous aider à accompagner la forte croissance du site de Romans dans les 10 prochaines années (environ 190 recrutements prévus en ), "
+    },
+    {
+      "id": "6a5aadc66cce1228eac1ffc9",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Ingénieur Environnement (H/F) - ALTERNANCE",
+      "company": "NEXTGEN RH",
+      "city": "91200 Athis-Mons",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/mzeenq4ozu8/ingenieur-environnement-h-f-alternance",
+      "description": "RESPONSABILITÉS : \n\nNotre client est une entreprise handi-accueillante, spécialisée dans le domaine agro-alimentaire. Il recrute un(e) : \nINGÉNIEUR ENVIRONNEMENT (H/F)\nALTERNANCE 12 MOIS - ATHIS-MONS (91)\nA COMPTER DE SEPTEMBRE 2026\n\n\nSous la responsabilité du Responsable Environnement, vous serez en charge de mettre en place les bonnes pratiques de pilotage des équipements, d'identifier et de suivre les indicateurs de performance environnementale, et de former les équipes opérationnelles aux enjeux écologiques.\nVos principales missions :\n •  Piloter et optimiser les équipements pour réduire l"
     }
   ]
 }
