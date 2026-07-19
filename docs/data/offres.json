@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-07-18T07:00:49.913414+00:00",
+  "last_run": "2026-07-19T07:26:57.880289+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -3820,6 +3820,20 @@
       "created_at": null,
       "apply_url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/mzeenq4ozu8/ingenieur-environnement-h-f-alternance",
       "description": "RESPONSABILITÉS : \n\nNotre client est une entreprise handi-accueillante, spécialisée dans le domaine agro-alimentaire. Il recrute un(e) : \nINGÉNIEUR ENVIRONNEMENT (H/F)\nALTERNANCE 12 MOIS - ATHIS-MONS (91)\nA COMPTER DE SEPTEMBRE 2026\n\n\nSous la responsabilité du Responsable Environnement, vous serez en charge de mettre en place les bonnes pratiques de pilotage des équipements, d'identifier et de suivre les indicateurs de performance environnementale, et de former les équipes opérationnelles aux enjeux écologiques.\nVos principales missions :\n •  Piloter et optimiser les équipements pour réduire l"
+    },
+    {
+      "id": "6a5bf7cb73e46f4c82dcfdf6",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Alternance Technicien de Laboratoire H/F",
+      "company": "GUINTOLI",
+      "city": "38210 Tullins",
+      "department": null,
+      "diploma_level": "BTS, DEUST (Bac+2)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://nostalentsnosemplois.auvergnerhonealpes.fr/jobads/16107207?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "description": "<p>  Nous recherchons un ou une alternant(e), au poste de technicien de laboratoire, au sein de notre laboratoire régional basé à Tullins (38) et La Chavanne (73).  <br />  Sous la responsabilité du Référent Scientifique et Technique et du Chef de Section Laboratoire, dans le respect des consignes générales de sécurité, vous aurez comme principale mission : </p> <p>  <br />  -De réaliser des essais laboratoires sur les sols (Teneurs en eau, identifications, essai proctor) et sur les chaussées (analyses d'enrobés, compacités, pmt) </p> <p>  <br />  -D'effectuer des essais sur chantier (sondages"
     }
   ]
 }
