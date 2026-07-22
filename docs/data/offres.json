@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-07-21T07:33:03.975066+00:00",
+  "last_run": "2026-07-22T07:34:13.487640+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -3918,6 +3918,48 @@
       "created_at": null,
       "apply_url": "https://maazi.fr/job/apprenti-technicien-en-prevention-f-h-commune-de-saint-denis-seine-saint-denis?utm_source=labonnealternance&utm_medium=referral&utm_campaign=alternance&utm_content=fluxbonnealternance&job_id=1601",
       "description": "<p>Cette offre est diffusée via maazi.<br /><b>⚠ INFORMATION IMPORTANTE SUR MAAZI, NOUS TRAITONS EXCLUSIVEMENT LES CANDIDATURES DES TALENTS EN SITUATION DE HANDICAP (BOETH).</b> Si vous n'êtes pas concerné(e), rendez-vous sur le site carrières de l'entreprise pour postuler à cette offre.</p><p>Placé sous l’autorité du Chef de service prévention, santé et action sociale, l’apprenti.e Technicien de prévention est chargé de participer à la mise en œuvre d’actions, en matière d’hygiène et de sécurité au travail au sein des services et directions de la collectivité.</p><p>Il existe 3 pôles au sein "
+    },
+    {
+      "id": "6a5ff3b86cce1228eac4eaa1",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Apprenti chargé de qualité H/F",
+      "company": "Entreprise non précisée",
+      "city": "13300 Salon-de-Provence",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.directemploi.com/candidatOffre/55737984?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "description": "Inicea, des équipes expertes et engagées pour votre santé. Acteur hospitalier de référence en France avec plus de 110 cliniques certifiées par la Haute Autorité de Santé, Inicea revendique une approche innovante du parcours de soins personnalisé et adapté à chaque pathologie et à chaque patient. Inicea propose un accompagnement humain et une expertise médicale dans deux domaines : les Soins Médicaux et de Réadaptation polyvalents et spécialisés (SMR) ainsi que la santé mentale et addictologie.Rattaché(e) au (à la)\nDirecteur(trice) de l'établissement, vous l'accompagnez quotidiennement dans la\n"
+    },
+    {
+      "id": "6a5ff3c26cce1228eac4ed02",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Alternant(e) HSE H/F",
+      "company": "VELUX/ KH-SK FRANCE SAS",
+      "city": "70150 Marnay",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://www.lindustrie-recrute.fr/candidat/offre/821037?utm_source=NQ==",
+      "description": "l'outil INRS (Seirich), ainsi que la définition des procédures nécessaires à sa mise à jour.\n\n\nVous pourrez également contribuer aux activités suivantes :\n\n\n-          Etablir des documents et des modes opératoires visant la réduction des risques vis-à-vis de la sécurité et de l'environnement,\n\n\n-          Faire évoluer l'outil de cotation des risques afin de faciliter la synthèse annuelle,\n\n\n-          Aider à la préparation des supports de communication et leur diffusion aux équipes,\n\n\n-          .\n\n\nCes missions vous intéressent ? Nous vous accueillerons dans le cadre de votre Alternance.\n\n"
+    },
+    {
+      "id": "6a5ff53e9e972c0713e6665a",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Alternance HSE H/F",
+      "company": "L'industrie recrute",
+      "city": "Le Manoir 27410 Mesnil-en-Ouche",
+      "department": null,
+      "diploma_level": "Master, titre ingénieur, grande école (Bac+5)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.meteojob.com/jobs/55602128?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "description": "<p>Manoir France du groupe A Paralloy Group Company basé sur Pitres est spécialisé dans la transformation des métaux.</p> <p>L'entreprise développe des alliages et exploite des procédés pour la fabrication de pièces métalliques à haute performance, moulées et centrifugées pour les marchés de la pétrochimie, du nucléaire, de l'extraction du pétrole, de l'énergie et de la défense.</p> <p>Dans le cadre du développement de notre service HSE, nous recherchons un(e) apprenti(e) pour accompagner nos équipes dans la prévention des risques et l'amélioration continue au sein de notre site.</p> <p>Missio"
     }
   ]
 }
