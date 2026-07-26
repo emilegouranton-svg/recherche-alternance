@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-07-25T07:17:02.441097+00:00",
+  "last_run": "2026-07-26T07:35:46.952439+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -4156,6 +4156,48 @@
       "created_at": null,
       "apply_url": "https://careers.werecruit.io/fr/groupe-carso/offres/alternance-technicien-de-laboratoire-lc-agro-8313b4?utm_source=francetravail&utm_medium=job-board",
       "description": "Rattaché(e) au responsable du laboratoire, vous aurez pour mission :\n \n \n \n- Réaliser la réception et l'enregistrement des échantillons, \n- Réaliser la préparation des échantillons et en effectuer les analyses sous chromatographie liquide, spectrométrie de masse \n- Traiter et interpréter les résultats chromatographiques, \n- Suivre les projets d'amélioration continue du service, et du système qualité \n- Effectuer la maintenance des appareils et au maintien du bon état de fonctionnement des outils utilisés \n \n \n \nVous veillerez au respect des délais dans le cadre de vos activités de réception et"
+    },
+    {
+      "id": "6a6539756cce1228eac7d56d",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Apprentissage : préparateur méthodes &amp; essais f/h",
+      "company": "Entreprise non précisée",
+      "city": "92350 Le Plessis-Robinson",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://www.aerocontact.com/emploi-aeronautique/apprentissage-preparateur-methodes-and-essais-fh~1156035.html?fromref=poleemploi",
+      "description": "MBDA est le seul groupe européen capable de concevoir et de produire des missiles et systèmes de missiles complexes pour répondre à toute la gamme des besoins opérationnels présents et futurs des trois forces armées (Terre, Marine, Air et Espace). \nLeader européen et acteur mondial, MBDA se positionne au coeur de la souveraineté de nos nations européennes et de leurs alliés en leur fournissant les capacités militaires indispensables à la protection de leur sécurité nationale et permettant leur indépendance stratégique. Les produits du Groupe sont en service dans plus de 90 forces armées dans l"
+    },
+    {
+      "id": "6a6539736cce1228eac7d4df",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "GESTION DE LA QUALITÉ ISO 9001 ET SUIVI DES ASPECTS ENVIRONNEMENTAUX H/F (ALTERNANCE)",
+      "company": "MIXEL",
+      "city": "69570 Dardilly",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://www.lindustrie-recrute.fr/candidat/offre/821762?utm_source=NQ==",
+      "description": "Pourquoi choisir MIXEL ?\n\n\nFaites partie d'une entreprise en croissance intégrée à un groupe international reconnu pour son innovation et son engagement envers la qualité.\nOpportunité de travailler avec des technologies de pointe dans un environnement dynamique et stimulant.\n \n\n\nLa mission proposée :\n\n\nNous recherchons un(e) alternant(e) évoluant dans le domaine de la gestion de la qualité ISO 9001 version 2015 et du suivi des aspects environnementaux, incluant le RSE et le bilan carbone. Sous la supervision du responsable qualité, vous serez en charge des missions suivantes :\n\n\nGestion de la "
+    },
+    {
+      "id": "6a65396d6cce1228eac7d37c",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Alternant ISO 50001 (H/F)",
+      "company": "LANDIS+GYR",
+      "city": "03100 Montluçon",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://www.lindustrie-recrute.fr/candidat/offre/821718?utm_source=NQ==",
+      "description": "CONTEXTE :\n\n\nDans le cadre du projet de certification ISO 50001 (diagnostic initial, plan de comptage, mise en place du système de management de l'énergie, audit à blanc, conformité décret tertiaire/BACS, recherche de financements), nous sollicitons l'aide d'un alternant Master 2 spécialisé en performance énergétique industrielle.\n\n\nMISSIONS CONFIEES :\n\n\nEn appui direct au chef de projet et au prestataire :\n\n\nØ  Interlocuteur support avec l'entreprise externe ;\n\n\nØ  Support pour collecte et analyse des données énergétiques ;\n\n\nØ  Aide au déploiement du plan de comptage (suivi matériel + logici"
     }
   ]
 }
