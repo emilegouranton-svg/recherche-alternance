@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-07-27T08:30:53.754405+00:00",
+  "last_run": "2026-07-28T07:38:27.175758+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -4212,6 +4212,104 @@
       "created_at": null,
       "apply_url": "https://www.directemploi.com/candidatOffre/55808187?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
       "description": "Relevez les défis de votre génération ! Formez-vous et validez votre diplôme dans une entreprise qui s'engage au quotidien pour répondre aux enjeux énergétiques mondiaux et fournir une électricité bas carbone, puissante et sécurisée.Au sein du service laboratoire et sous la responsabilité de votre maître d'apprentissage, vous aurez pour principale mission la qualification et/ou la validation d'appareils de mesure (type compteur proportionnel à gaz pour l'analyse de l'activité alpha et bêta sur filtre aérosol ou ICP-MS pour l'analyse de l'isotopie ou potentiomètre pour l'analyse de l'acidité li"
+    },
+    {
+      "id": "6a67dcbab6d4ce760a1d2ad9",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Assistant technique (H/F)",
+      "company": "PROMAN BTP",
+      "city": "73800 Porte-de-Savoie",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://www.proman-emploi.fr/?job=MP1167545&candidature&origine=POLE-EMPLOI-JTMO&utm_source=pole-emploi-jtmo&utm_medium=referral&utm_campaign=annonces-eerf&utm_term=offre",
+      "description": "Le poste :\nVotre agence d'intérim PROMAN recrute un Assistant Technique / Assistant Chargé d'Affaires H/F. Au sein d'une entreprise en développement, vous serez un support clé pour le Chargé d'Affaires dans la gestion technique et organisationnelle des projets. Vos principales missions incluront : - Réaliser des études techniques et des schémas électriques (Autocad, IGE XAO, etc.). \n- Assurer le suivi technique des travaux et des contrats. \n- Participer à la préparation et à la planification des affaires. \n- Préparer les commandes fournisseurs. \n- Organiser et suivre les contrôles et essais. \n"
+    },
+    {
+      "id": "6a67dcbab6d4ce760a1d2ad4",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Chargé de missions qualité (F/H) en alternance - ALLONNES",
+      "company": "Entreprise non précisée",
+      "city": "72700 Allonnes",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.directemploi.com/candidatOffre/55133476?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "description": "Au service des enseignes du groupe Carrefour et des consommateurs la Supply Chain recherche pour son entrepôt un(ep&gt;\nCréateur de l'hypermarché, Carrefour reste fidèle à ses racines tout en se réinventant pour permettre à chacun de mieux manger : plus sain, plus local, plus responsable. Leader mondial de la distribution, nous sommes engagés pour la diversité, la RSE et la transformation digitale, tout en créant un environnement de travail inclusif et stimulant.\nNos atouts pour y parvenir ?\nUn réseau multi format, multi métiers avec des collaborateurs passionnés, qui s'engagent, pour réussir "
+    },
+    {
+      "id": "6a67dcb7b6d4ce760a1d2a11",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Chargé(e) de Gestion Administrative, Qualité et Communication (H/F)",
+      "company": "Entreprise non précisée",
+      "city": "44150 Ancenis-Saint-Géréon",
+      "department": null,
+      "diploma_level": "Bac, Bac Pro, BP (Bac)",
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/211RCQJ",
+      "description": "L'Association Habitat Jeunes du Pays d'Ancenis recrute un Chargé(e) de Gestion Administrative, Qualité et Communication, H/F en contrat d'alternance.\nCDD 12 à 24 mois selon profil\n\nL'association Habitat Jeunes du Pays d'Ancenis est une association loi 1901 située sur la commune d'Ancenis-Saint-Géréon. Elle a pour objet principal l'accueil des jeunes de 16 à 30 ans en mobilité. Elle gère quatre résidences Habitat Jeunes sur le pays d'Ancenis (58 logements), un service d'hébergement temporaire chez l'habitant et propose un accompagnement individuel et collectif aux jeunes.\n\nPOSTE :\n- Alternance,"
+    },
+    {
+      "id": "6a675de98bbc3358a678dc5e",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Technicien / Technicienne en sécurité industrielle",
+      "company": "TECHNO'MAP",
+      "city": "15 RUE DES FRERES ROBBE 76370 MARTIN-EGLISE",
+      "department": null,
+      "diploma_level": "Licence, BUT, Licence Pro (Bac+3)",
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a675de98bbc3358a678dc5e/technicien-technicienne-en-sécurité-industrielle",
+      "description": "Joue un rôle crucial dans la préservation de la santé et de la sécurité au travail tout en veillant à la protection de l'environnement. Évalue et analyse les risques professionnels et environnementaux dans l'industrie Met en œuvre des politiques de sécurité et des programmes de prévention des accidents Réalise des audits de sécurité et des inspections régulières pour assurer la conformité aux normes en vigueur Forme le personnel aux pratiques de sécurité et aux procédures d'urgence Gère la documentation relative à la sécurité et à l'environnement, y compris les rapports d'incident et les permi"
+    },
+    {
+      "id": "6a67de18b02c89ba81761d85",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Coordinateur HSE en alternance F/H",
+      "company": "EXPERTIS LEZIGNAN CORBIERES",
+      "city": "11200 Névian",
+      "department": null,
+      "diploma_level": "BTS, DEUST (Bac+2)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.meteojob.com/jobs/55724545?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "description": "<p>  Dans le cadre du développement de son activité, notre client recherche un(e) alternant(e) HSE afin d'accompagner le Coordinateur HSE dans le suivi des opérations terrain sur différents chantiers.  <br />  Vous participerez activement à la mise en œuvre et au suivi de la politique Hygiène, Sécurité et Environnement de l'entreprise. </p> <p>Vos missions pourront notamment inclure :</p> <ul>  <li>Participation au suivi des actions HSE sur chantier</li>  <li>Sensibilisation des équipes aux règles de sécurité (accueil sécurité, causeries, briefings)</li>  <li>Réalisation d'inspections terrain "
+    },
+    {
+      "id": "6a67de18b02c89ba81761d6e",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "ALTERNANT Technicien QHSE - SEPTEMBRE 2026 H/F",
+      "company": "UIMM",
+      "city": "59147 Gondecourt",
+      "department": null,
+      "diploma_level": "Licence, BUT, Licence Pro (Bac+3)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.meteojob.com/jobs/55722189?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "description": "<p>  Qui sommes-nous ?  <br />  AUXEL, c'est une entreprise industrielle basée à Gondecourt, spécialisée dans les connecteurs électriques. </p> <p>Concrètement, on est une équipe d'une centaine de personnes où tout le monde se connaît et travaille ensemble au quotidien. Même si on fait partie du groupe Amphenol (un grand groupe international), on garde un fonctionnement simple et accessible.</p> <p>On bosse dans un environnement industriel concret, avec des projets variés et des échanges réguliers avec nos filiales à l'étranger (Chine, Inde, Allemagne).</p> <p>Au quotidien, on avance en équipe"
+    },
+    {
+      "id": "6a67de18b02c89ba81761d72",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "ALTERNANT Technicien QHSE - SEPTEMBRE 2026 H/F",
+      "company": "UIMM",
+      "city": "59147 Gondecourt",
+      "department": null,
+      "diploma_level": "Licence, BUT, Licence Pro (Bac+3)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.meteojob.com/jobs/55722238?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "description": "<p>  Qui sommes-nous ?  <br />  AUXEL, c'est une entreprise industrielle basée à Gondecourt, spécialisée dans les connecteurs électriques. </p> <p>Concrètement, on est une équipe d'une centaine de personnes où tout le monde se connaît et travaille ensemble au quotidien. Même si on fait partie du groupe Amphenol (un grand groupe international), on garde un fonctionnement simple et accessible.</p> <p>On bosse dans un environnement industriel concret, avec des projets variés et des échanges réguliers avec nos filiales à l'étranger (Chine, Inde, Allemagne).</p> <p>Au quotidien, on avance en équipe"
     }
   ]
 }
