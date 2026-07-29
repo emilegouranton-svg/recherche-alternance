@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-07-28T07:38:27.175758+00:00",
+  "last_run": "2026-07-29T07:43:22.518215+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -4310,6 +4310,20 @@
       "created_at": null,
       "apply_url": "https://www.meteojob.com/jobs/55722238?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
       "description": "<p>  Qui sommes-nous ?  <br />  AUXEL, c'est une entreprise industrielle basée à Gondecourt, spécialisée dans les connecteurs électriques. </p> <p>Concrètement, on est une équipe d'une centaine de personnes où tout le monde se connaît et travaille ensemble au quotidien. Même si on fait partie du groupe Amphenol (un grand groupe international), on garde un fonctionnement simple et accessible.</p> <p>On bosse dans un environnement industriel concret, avec des projets variés et des échanges réguliers avec nos filiales à l'étranger (Chine, Inde, Allemagne).</p> <p>Au quotidien, on avance en équipe"
+    },
+    {
+      "id": "6a692e0ab6d4ce760a1ddaf3",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Technicien / Technicienne en Hygiène, Sécurité, Environnement ind (H/F)",
+      "company": "A.D.R",
+      "city": "77810 Thomery",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://www.lindustrie-recrute.fr/candidat/offre/821993?utm_source=NQ==",
+      "description": "Dans le cadre du développement de notre politique QSE, nous recherchons un apprenti HSE (H/F).\n\nVos missions :\n\n- Mise à jour du DUERP : participer à l'identification et à l'analyse les risques professionnels, contribuer à la rédaction et à la mise à jour du DUERP, proposer des mesures correctives et préventives\n- Analyse environnementale : initier une analyse des aspects environnementaux, cartographier les impacts environnementaux, participer à la mise en place d'indicateurs de suivi\n- Veille réglementaire : contribuer à la mise en place d'un outil de veille réglementaire\n\nProfil :\n\nVous êtes"
     }
   ]
 }
