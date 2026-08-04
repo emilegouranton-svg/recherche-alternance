@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-03T08:29:22.428116+00:00",
+  "last_run": "2026-08-04T07:40:00.679908+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -4380,6 +4380,34 @@
       "created_at": null,
       "apply_url": "https://www.meteojob.com/jobs/55835596?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
       "description": "<p>Réjoignez une entreprise en plein développement!</p> <p>Vous souhaitez intégrer un groupe en pleine croissance, solide et pérenne, rejoignez Luché Tradition Volailles, 145 salariés, spécialisée dans le conditionnement de volailles.</p> <p>Luché Tradition Volailles est une filiale du groupe agroalimentaire LDC connu pour ses marques Loué, Le Gaulois, Maître Coq, Marie et Traditions d'Asie.</p> <p>Rattaché(e) au Responsable Recherche et Développement, vous aurez notamment pour mission de travailler sur :</p> <p>- La création de nouveaux produits et / ou de nouvelles gammes produits : proposer"
+    },
+    {
+      "id": "6a711796ae98af4affb510e0",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Appui du responsable qualité. F/H",
+      "company": "ANGDM",
+      "city": "62221 Noyelles-sous-Lens",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://recrutement.angdm.fr/offre/appui-du-responsable-qualite-f-h-angdm163?source=265459&scsource=895",
+      "description": "Dans le cadre du renforcement de son Système de Management de la Qualité (SMQ) et de l'évolution vers la norme ISO 9001 de 2026, L'ANGDM recherche un/une apprenti (e) pour accompagner le responsable qualité dans ses missions quotidiennes. Vous participerez également à la structuration de la gouvernance des données et des projets.  \nMissions : \nSous la responsabilité du responsable qualité de l'agence et en lien avec les pilotes et copilotes des processus, il/elle pourra intervenir dans les missions suivantes.\nActivités principales\n- Participer à la transition du SMQ vers la version 2026 de la "
+    },
+    {
+      "id": "6a711794ae98af4affb510ae",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "ALTERNANT H.S.E - HYGIENE - SECURITE - ENVIRONNEMENT (F/H) (H/F)",
+      "company": "CONSTRUCTION STRUCTURES AERONAUTIQUES",
+      "city": "47200 Marmande",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/211ZLFD",
+      "description": "Vous souhaitez évoluer dans un environnement industriel concret (aéronautique, défense, nucléaire), où votre travail à un réel impact sur le fonctionnement de l'entreprise ?\nRejoignez C.S.A et participez activement à l'amélioration continue de nos pratiques en matière de santé, sécurité et environnement.\n\nVotre mission \nRattaché au responsable Qualité Hygiène Sécurité et Environnement, vous intervenez sur l'ensemble des sujets liés à l'hygiène, la sécurité et l'environnement au travail.\n\nVos principales missions\n- Assurer la veille réglementaire H.S.E\n- Mettre à jour le DUERP\n- Evaluer les ris"
     }
   ]
 }
