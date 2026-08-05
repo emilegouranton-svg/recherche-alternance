@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-04T07:40:00.679908+00:00",
+  "last_run": "2026-08-05T07:38:54.605579+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -4408,6 +4408,48 @@
       "created_at": null,
       "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/211ZLFD",
       "description": "Vous souhaitez évoluer dans un environnement industriel concret (aéronautique, défense, nucléaire), où votre travail à un réel impact sur le fonctionnement de l'entreprise ?\nRejoignez C.S.A et participez activement à l'amélioration continue de nos pratiques en matière de santé, sécurité et environnement.\n\nVotre mission \nRattaché au responsable Qualité Hygiène Sécurité et Environnement, vous intervenez sur l'ensemble des sujets liés à l'hygiène, la sécurité et l'environnement au travail.\n\nVos principales missions\n- Assurer la veille réglementaire H.S.E\n- Mettre à jour le DUERP\n- Evaluer les ris"
+    },
+    {
+      "id": "6a7267a3ae98af4affb5b019",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Chargé de mission Qualité F/H",
+      "company": "Entreprise non précisée",
+      "city": "50440 La Hague",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.directemploi.com/candidatOffre/55908230?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "description": "La Direction Maîtrise des Risques et Expertise est garante d'un haut niveau de maîtrise des risques dans les domaines sûreté, sécurité, environnement et protection des différentes entités de l'Établissement de La Hague.Au sein de l'établissement Orano Recyclage La Hague, vous serez intégré(e) au sein du Pôle Radioprotection Evaluation. Ce pôle assure la surveillance environnementale du site et comporte plusieurs laboratoires (analyses radiologiques, dosimétrie, métrologie).En rejoignant notre équipe vous contribuerez activement à la performance et à l'amélioration du Système de Management de l"
+    },
+    {
+      "id": "6a7267a1ae98af4affb5afc4",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Alternant Qualité / Amélioration continue (H/F)",
+      "company": "PRODEVAL",
+      "city": "26300 Châteauneuf-sur-Isère",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://prodeval.talentview.io/jobs/ldq6km?utm_source=pole_emploi",
+      "description": "Leader mondial de l'épuration membranaire et de la valorisation du biogaz, PRODEVAL s'appuie sur plus de 30 ans d'expertise. Ancrée dans le monde agricole et forte d'une vision d'avenir tournée vers la transition énergétique, notre entreprise propose des solutions concrètes et immédiates face aux défis environnementaux.\n\nNous opérons sur quatre domaines industriels interdépendants :\n- L'épuration du biogaz,\n- La liquéfaction du CO2,\n- La mobilité verte,\n- Les services à l'exploitant (maintenance, formation, accompagnement technique).\n\nAvec plus de 450 collaborateurs répartis dans plusieurs pay"
+    },
+    {
+      "id": "6a7269061e39cbba1ed313c2",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Alternance - Correspondant(e) QHSE H/F",
+      "company": "DPD",
+      "city": "54320 Maxéville",
+      "department": null,
+      "diploma_level": "Master, titre ingénieur, grande école (Bac+5)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.meteojob.com/jobs/55921256?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "description": "<p>Notre ambition : accompagner et développer les compétences de nos futurs talents !</p> <br /> <p>  Dans le cadre de notre campagne d'alternance 2026, nous recherchons un(e)  <strong>Correspondant(e) QHSE H/F</strong>  pour notre agence situé à Maxeville (54).. </p> <br /> <p>Rattaché(e) au Chef de centre, vous interviendrez en transverse dans le déploiement des directives définies en matière de sécurité, qualité et environnement.</p> <br /> <p>Dans le cadre de votre formation, vous bénéficierez de l'expertise de votre tuteur afin de réaliser les missions suivantes :</p> <br /> <p>Sécurité :"
     }
   ]
 }
