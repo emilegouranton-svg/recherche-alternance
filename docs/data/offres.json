@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-05T07:38:54.605579+00:00",
+  "last_run": "2026-08-06T07:39:29.178079+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -4450,6 +4450,20 @@
       "created_at": null,
       "apply_url": "https://www.meteojob.com/jobs/55921256?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
       "description": "<p>Notre ambition : accompagner et développer les compétences de nos futurs talents !</p> <br /> <p>  Dans le cadre de notre campagne d'alternance 2026, nous recherchons un(e)  <strong>Correspondant(e) QHSE H/F</strong>  pour notre agence situé à Maxeville (54).. </p> <br /> <p>Rattaché(e) au Chef de centre, vous interviendrez en transverse dans le déploiement des directives définies en matière de sécurité, qualité et environnement.</p> <br /> <p>Dans le cadre de votre formation, vous bénéficierez de l'expertise de votre tuteur afin de réaliser les missions suivantes :</p> <br /> <p>Sécurité :"
+    },
+    {
+      "id": "6a73043bbb092dca9f14bd7b",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Alternance_Sécurité H/F",
+      "company": "S N V",
+      "city": "53420 Chailland",
+      "department": null,
+      "diploma_level": "Master, titre ingénieur, grande école (Bac+5)",
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://www.aplitrak.com/?adid=R0FMRU8uMjA5NjEuMTM2ODBAbGRjLmFwbGl0cmFrLmNvbQ",
+      "description": "Venez prendre votre envol et développez votre potentiel au sein de notre équipe !\n\nVous souhaitez intégrer un groupe en pleine croissance, solide et pérenne, rejoignez SNV Chailland spécialiste de la transformation de volailles. SNV est une filiale du groupe agroalimentaire LDC connu pour ses marques Loué, Le Gaulois, Maître Coq, Marie et Traditions d'Asie. \r\n\r\nVous cherchez à travailler en alternance, dans un cadre dynamique, qui vous permettra d'évoluer, aussi bien professionnellement, que personnellement ? Alors cette offre est faite pour vous !\n\nVous souhaitez intégrer un groupe en pleine "
     }
   ]
 }
