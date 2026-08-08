@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-07T06:09:18.408181+00:00",
+  "last_run": "2026-08-08T05:42:30.311016+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -4492,6 +4492,20 @@
       "created_at": null,
       "apply_url": "https://www.meteojob.com/jobs/55954463?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
       "description": "<p>  Référence : AA1538UN  <br />  Rattaché à l'unité Essais du département, vous intégrerez une équipe hautement qualifiée qui rassemble les ingénieurs, les programmeurs et les techniciens d'essais chargés de mener à bien les expérimentations dans nos installations d'essais.  <br />  Avec l'appui d'un ou plusieurs techniciens expérimentés, vos missions seront les suivantes :  <br />  Préparation &amp; Contrôle :  <br />  Paramétrer les programmes de traitement et contrôler la qualité des résultats en amont des phases d'essais (VBA / Python) ;  <br />  Traitement en temps réel :  <br />  Colle"
+    },
+    {
+      "id": "6a765dc10f924fc95a11a307",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Technicien(ne) QHSE H/F",
+      "company": "UIMM",
+      "city": "14100 Saint-Désir",
+      "department": null,
+      "diploma_level": "Master, titre ingénieur, grande école (Bac+5)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.meteojob.com/jobs/55978247?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "description": "<p>  <strong>AXE METAL</strong>  est une société spécialisée en étude, réalisation et assemblage en sous-traitance de pièces détachées, d'ensembles de tôlerie fine et de produits intégrés associant tôlerie, mécanique et sous-ensemble électronique.  <br />  Située à proximité de Lisieux, AXE METAL fait partie du groupe  <strong>AXE GROUP</strong>  composé de sociétés aux activités différentes mais complémentaires, de manière à satisfaire les exigences les plus légitimes de nos clients et partenaires.  <br />  Pour plus d'informations, rendez-vous sur notre site : www.axe-group.com </p> <p>  Nou"
     }
   ]
 }
