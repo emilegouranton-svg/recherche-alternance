@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-09T05:47:03.560225+00:00",
+  "last_run": "2026-08-10T06:10:15.839245+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -4534,6 +4534,20 @@
       "created_at": null,
       "apply_url": "https://www.meteojob.com/jobs/55990340?utm_source=pole-emploi&utm_medium=aggregator-free",
       "description": "Description du poste :\n\nCe que vous ferez:\n\nAu sein du service QSE, vous participerez activement à la mise en œuvre opérationnelle de la politique RSE de l' entreprise, aussi bien sur le terrain qu' au niveau documentaire et réglementaire.\n\nVous évoluerez dans un environnement de production dynamique et serez accompagné(e) par le service QSE pour développer vos compétences.\n\nAvec qui vous le ferez?\n\nSous la responsabilité de Marie, Responsable QHSE, et avec Anna, Assistante qualité.\n\nVos missions principales:\n\nSanté Sécurité Participer à l'élaboration et au déploiement de la politique sécurité"
+    },
+    {
+      "id": "6a79000d44b96218e0f549af",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "APPRENTI R&amp;D (H/F)",
+      "company": "SOCIETE COOPERATIVE AGRICOLE ARTERRIS",
+      "city": "11400 Castelnaudary",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://carriere.arterris-recrute.fr/jobs/7975472-apprenti-e-r-d",
+      "description": "La Conserverie du Languedoc, basée à Castelnaudary (11), est spécialiste des plats cuisinés de terroir en conserve. Sa marque phare, La Belle Chaurienne, est un nom emblématique des rayons épicerie salée depuis 1964. Cassoulet, confit de canard, lentilles. nos produits célèbrent le savoir-faire culinaire du Sud-Ouest et rayonnent dans les grandes et moyennes surfaces partout en France.\n\nEntreprise à taille humaine et filiale du Groupe coopératif Arterris (2 782 collaborateurs, 1,16 milliard € de CA), nous conjuguons tradition gastronomique, innovation et proximité terrain.\n\nLe GROUPE ARTERRIS "
     }
   ]
 }
