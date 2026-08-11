@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-10T06:10:15.839245+00:00",
+  "last_run": "2026-08-11T05:53:16.724597+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -4548,6 +4548,20 @@
       "created_at": null,
       "apply_url": "https://carriere.arterris-recrute.fr/jobs/7975472-apprenti-e-r-d",
       "description": "La Conserverie du Languedoc, basée à Castelnaudary (11), est spécialiste des plats cuisinés de terroir en conserve. Sa marque phare, La Belle Chaurienne, est un nom emblématique des rayons épicerie salée depuis 1964. Cassoulet, confit de canard, lentilles. nos produits célèbrent le savoir-faire culinaire du Sud-Ouest et rayonnent dans les grandes et moyennes surfaces partout en France.\n\nEntreprise à taille humaine et filiale du Groupe coopératif Arterris (2 782 collaborateurs, 1,16 milliard € de CA), nous conjuguons tradition gastronomique, innovation et proximité terrain.\n\nLe GROUPE ARTERRIS "
+    },
+    {
+      "id": "6a7a51e5a8ce23795e7ad1ce",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Alternant QHSE H/F",
+      "company": "Lynx RH",
+      "city": "54000 Nancy",
+      "department": null,
+      "diploma_level": "BTS, DEUST (Bac+2)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.meteojob.com/jobs/56041154?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "description": "<br /> <p>Lynx RH Nancy, cabinet de recrutement spécialisé dans les profils Bac+2 à Bac+5 et cadres, accompagne son client, acteur du secteur agroalimentaire, dans le recrutement d'un Alternant QHSE H/F sur le secteur de Nancy.</p> <p>Vous souhaitez mettre en pratique votre formation QHSE dans un environnement concret et découvrir les enjeux de la Qualité, de l'Hygiène, de la Sécurité et de l'Environnement ? Cette alternance vous permettra de développer vos compétences au contact du terrain et des équipes.</p> <br /> <p>Vos missions</p> <p>Rattaché(e) au service QHSE, vous serez accompagné(e) "
     }
   ]
 }
