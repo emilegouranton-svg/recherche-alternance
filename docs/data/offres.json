@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-12T06:14:13.767570+00:00",
+  "last_run": "2026-08-13T06:16:32.859588+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -4576,6 +4576,34 @@
       "created_at": null,
       "apply_url": "https://www.directemploi.com/candidatOffre/55133476?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
       "description": "Au service des enseignes du groupe Carrefour et des consommateurs la Supply Chain recherche pour son entrepôt un(ep&gt;\nCréateur de l'hypermarché, Carrefour reste fidèle à ses racines tout en se réinventant pour permettre à chacun de mieux manger : plus sain, plus local, plus responsable. Leader mondial de la distribution, nous sommes engagés pour la diversité, la RSE et la transformation digitale, tout en créant un environnement de travail inclusif et stimulant.\nNos atouts pour y parvenir ?\nUn réseau multi format, multi métiers avec des collaborateurs passionnés, qui s'engagent, pour réussir "
+    },
+    {
+      "id": "6a7cf363017bca832204ca1a",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Assistant(e) production en Alternance (H/F)",
+      "company": "SOFTICA",
+      "city": "73420 Méry",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/212KFWP",
+      "description": "Vous aimez organiser, planifier et optimiser les flux ?\nVous appréciez analyser des données pour améliorer les performances\nVous êtes à l'aise avec les outils informatiques ?\nVous faites preuve de logique, de rigueur et d'un bon esprit d'analyse ?\n\nAlors le poste en alternance d'ASSISTANT(E) DE PRODUCTION H/F est probablement fait pour vous ! (A partir de Septembre 2026, A coté de Chambéry)\n\nVos principales missions sont les suivantes :\n\nMISSIONS\nLancement des commandes de transport\nMise au planning de production des données permettant l'ordonnancement\nPROJET\nCréer un outil d'analyse et de mis"
+    },
+    {
+      "id": "6a4d82cfdea3d72aa22e0f21",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Animateur / Animatrice QSE  industrie en alternance (H/F)",
+      "company": "CRISTAL UNION",
+      "city": "80240 Villers-Faucon",
+      "department": null,
+      "diploma_level": "Bac, Bac Pro, BP (Bac)",
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/210RDQW",
+      "description": "Cristal Union recherche un(e) alternant(e) en bachelor QSE (H/F) pour  la rentrée de septembre\n \nMission(s) principale(s) :\n\n* Missions quotidiennes\n\n- Suivi et accompagnement des donneurs d'ordres sur la réalisation des plans de prévention internes et externes\n- Animation et présence terrain sur les thématiques QSE\n- Support de l'équipe QSE, l'objectif est être le back up des membres de l'équipe sur quelques dossiers (gardiennage, lutte contre les nuisibles, vêtements de travail, ...)\n- Réalisation de visite hygiène et sécurité alimentaire, d'audit interne, de CONTACT (échange sécurité terrai"
     }
   ]
 }
