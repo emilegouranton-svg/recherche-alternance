@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-13T06:16:32.859588+00:00",
+  "last_run": "2026-08-14T06:13:48.396533+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -4604,6 +4604,20 @@
       "created_at": null,
       "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/210RDQW",
       "description": "Cristal Union recherche un(e) alternant(e) en bachelor QSE (H/F) pour  la rentrée de septembre\n \nMission(s) principale(s) :\n\n* Missions quotidiennes\n\n- Suivi et accompagnement des donneurs d'ordres sur la réalisation des plans de prévention internes et externes\n- Animation et présence terrain sur les thématiques QSE\n- Support de l'équipe QSE, l'objectif est être le back up des membres de l'équipe sur quelques dossiers (gardiennage, lutte contre les nuisibles, vêtements de travail, ...)\n- Réalisation de visite hygiène et sécurité alimentaire, d'audit interne, de CONTACT (échange sécurité terrai"
+    },
+    {
+      "id": "6a7e448ea59fa8a8f359350f",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Responsable Qualité (h/f) - Alternance (H/F)",
+      "company": "ORSAC",
+      "city": "01110 Plateau d'Hauteville",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://taleez.com/apply/responsable-qualite-h-f-alternance-plateau-d-hauteville-unite-territoriale-d-hauteville/applying",
+      "description": "Rejoignez une équipe dynamique et engagée au sein de l'Association ORSAC (Loi 1901), fondée en 1937 et reconnue d'utilité publique par décret du 25 janvier 1952.\nPrésente dans 5 départements l'ORSAC regroupe aujourd'hui plus de 90 établissements.\n\nAu sein de l'association, l'Unité Territoriale d'Hauteville (UTH) regroupe :\nDes établissements de Soins Médicaux et de Réadaptation (SMR) spécialisés en rééducation neurologique et de l'appareil locomoteur, implantés sur le Plateau d'Hauteville et à Bourg-en-Bresse (01) ;\n\nPlusieurs établissements médico-sociaux :\nun Pôle Personnes Âgées structuré a"
     }
   ]
 }
