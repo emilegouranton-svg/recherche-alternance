@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-14T06:13:48.396533+00:00",
+  "last_run": "2026-08-15T05:24:26.294477+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -4618,6 +4618,76 @@
       "created_at": null,
       "apply_url": "https://taleez.com/apply/responsable-qualite-h-f-alternance-plateau-d-hauteville-unite-territoriale-d-hauteville/applying",
       "description": "Rejoignez une équipe dynamique et engagée au sein de l'Association ORSAC (Loi 1901), fondée en 1937 et reconnue d'utilité publique par décret du 25 janvier 1952.\nPrésente dans 5 départements l'ORSAC regroupe aujourd'hui plus de 90 établissements.\n\nAu sein de l'association, l'Unité Territoriale d'Hauteville (UTH) regroupe :\nDes établissements de Soins Médicaux et de Réadaptation (SMR) spécialisés en rééducation neurologique et de l'appareil locomoteur, implantés sur le Plateau d'Hauteville et à Bourg-en-Bresse (01) ;\n\nPlusieurs établissements médico-sociaux :\nun Pôle Personnes Âgées structuré a"
+    },
+    {
+      "id": "6a7f95f79e6c7d0c91e1377c",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Alternance Assistant qualité - Marseille (F/H)",
+      "company": "Entreprise non précisée",
+      "city": "13000 MARSEILLE",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.directemploi.com/candidatOffre/56017605?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "description": "Ta mission : Rattaché(e) à la Responsable Qualité Relation Client Responsabilités :Produit les statistiques hebdomadaires et mensuelles (NPS, satisfaction client)Participe aux comités de production et aux points dédiés à la qualité avec les sites internes et les prestatairesAnime les équipes au quotidien pour atteindre les objectifsS'assure que les plans d'actions qualité sont suivis par les sitesRéalise des écoutes des appels et lit des conversations digitales pour s'assurer que nos standards soient bien respectés et proposer des leviers d'améliorationFait les écoutes de conformité (ex : réte"
+    },
+    {
+      "id": "6a7f96f04bf3c06efe33b32d",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Alternant Recherche et Développement culinaire (F/H)",
+      "company": "Osaka Traiteur",
+      "city": "47310 Estillac",
+      "department": null,
+      "diploma_level": "BTS, DEUST (Bac+2)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.meteojob.com/jobs/55577593?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "description": "Tu souhaites rejoindre une équipe R&amp;D passionnée par la cuisine et participer à la création de recettes ? Nous recherchons notre futur(e) alternant(e) pour accompagner le développement des plats gourmands d'Osaka Traiteur et devenir un véritable acteur clé de notre organisation. <br /> <br /> <br /> Au sein de l'équipe R&amp;D, tu travailleras sur le sourcing des fournisseurs, les tests de matières premières et la création de recettes, de la dégustation jusqu'à la rédaction des fiches recettes. <br /> <br /> <br /> Tes missions principales : <br /> <br /> <br /> Recettes et développement <"
+    },
+    {
+      "id": "6a7f900fb53a80d8bea6b8f4",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Apprenti Recherche &amp; Développement ou ingénierie de l’innovation",
+      "company": "centre interarmées du soutien multiservices",
+      "city": "78120 Rambouillet",
+      "department": null,
+      "diploma_level": "Master, titre ingénieur, grande école (Bac+5)",
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://www.pass.fonction-publique.gouv.fr/offre/apprenti-recherche-developpement-ou-ingenierie-de-linnovation",
+      "description": "<p>Le poste est basé au sein du bureau innovation et veille technologique en charge de piloter l’ensemble des études innovantes du domaine transport, gestion environnement de travail, hébergement/hôtellerie et impression/reprographie. Le titulaire du poste participe à la veille technologique, au sourcing en matière d’innovation et au montage de projets complexes. Il traite régulièrement avec des entreprises extérieures et propose des idées, matériels ou approches permettant d’améliorer une réponse à un besoin existant. Il prend en charge les missions suivantes :<br />- en liaison avec les équi"
+    },
+    {
+      "id": "6a7f971e4bf3c06efe33bdec",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Chargé de QHSE en alternance F/H",
+      "company": "Auchan Retail France",
+      "city": "59810 Lesquin",
+      "department": null,
+      "diploma_level": "Master, titre ingénieur, grande école (Bac+5)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.meteojob.com/jobs/56125260?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "description": "Rejoindre Auchan Retail France, c'est rejoindre une entreprise en mouvement qui agit au quotidien pour réinventer le métier de commerçant en mêlant digital et magasin physique pour une expérience client inédite et incomparable. Nous nous appuyons sur nos valeurs de confiance, d'ouverture et d'excellence pour vous proposer des expériences authentiques dans un environnement bienveillant. Fort de nos différents concepts (e-commerce, hypermarché, supermarché, magasin de proximité, drive) et soutenus par l'expertise des services d'appui, nous vous accompagnons dans le développement de vos compétenc"
+    },
+    {
+      "id": "6a7f972b4bf3c06efe33c0d8",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Chargé de QHSE en alternance F/H",
+      "company": "AUCHAN RETAIL LOGISTIQUE",
+      "city": "Rue de l'Europe 59810 Lesquin",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://auchan.talentview.io/jobs/8tll4s?source=la_bonne_alternance",
+      "description": "Rejoindre Auchan Retail France, c’est rejoindre une entreprise en mouvement qui agit au quotidien pour réinventer le métier de commerçant en mêlant digital et magasin physique pour une expérience client inédite et incomparable.  Nous nous appuyons sur nos valeurs de confiance, d’ouverture et d’excellence pour vous proposer des expériences authentiques dans un environnement bienveillant.  Fort de nos différents concepts (e-commerce, hypermarché, supermarché, magasin de proximité, drive) et soutenus par l’expertise des services d’appui, nous vous accompagnons dans le développement de vos compéte"
     }
   ]
 }
