@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-19T05:29:53.762293+00:00",
+  "last_run": "2026-08-20T05:30:23.784608+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -4744,6 +4744,34 @@
       "created_at": null,
       "apply_url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/mzeenq4ozu8/ingenieur-environnement-h-f-alternance",
       "description": "RESPONSABILITÉS : \n\nNotre client est une entreprise handi-accueillante, spécialisée dans le domaine agro-alimentaire. Il recrute un(e) : \nINGÉNIEUR ENVIRONNEMENT (H/F)\nALTERNANCE 12 MOIS - ATHIS-MONS (91)\nA COMPTER DE SEPTEMBRE 2026\n\n\nSous la responsabilité du Responsable Environnement, vous serez en charge de mettre en place les bonnes pratiques de pilotage des équipements, d'identifier et de suivre les indicateurs de performance environnementale, et de former les équipes opérationnelles aux enjeux écologiques.\nVos principales missions :\n -  Piloter et optimiser les équipements pour réduire l"
+    },
+    {
+      "id": "6a86276c334ed2d599cef8f1",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Alternance I Dev Back-end - R&amp;D",
+      "company": "PEOPLESPHERES",
+      "city": "34000 Montpellier",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://rhalternance.com/jobs/informatique-internet-et-telecommunication/montpellier/alternance-i-dev-back-end-r-d-995140247",
+      "description": "Descriptif du poste : \nProfil recherché : \nDéroulement des entretiens :"
+    },
+    {
+      "id": "6a86276c334ed2d599cef8e3",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Alternance - Assistant(e) Ingénieur développement technique (H/F)",
+      "company": "HERMES SELLIER",
+      "city": "24300 Nontron",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://rhalternance.com/jobs/informatique-internet-et-telecommunication/nontron/alternance-assistant-e-ingénieur-développement-technique-h-f-530012502",
+      "description": "Descriptif du poste :"
     }
   ]
 }
