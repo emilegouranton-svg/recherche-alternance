@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-20T05:30:23.784608+00:00",
+  "last_run": "2026-08-21T05:32:06.281779+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -4772,6 +4772,20 @@
       "created_at": null,
       "apply_url": "https://rhalternance.com/jobs/informatique-internet-et-telecommunication/nontron/alternance-assistant-e-ingénieur-développement-technique-h-f-530012502",
       "description": "Descriptif du poste :"
+    },
+    {
+      "id": "6a877ec162ee9421b6910b0c",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "ALTERNANCE - Ingénieur qualité alimentaire H/F",
+      "company": "Entreprise non précisée",
+      "city": "76270 Massy",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.directemploi.com/candidatOffre/55449953?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "description": "Le Groupement Les Mousquetaires, ce sont 7 enseignes de la grande distribution portées haut et fort par plus de 3 000 chefs d'entreprise indépendants ! Ce sont aussi 150 000 collaborateurs mobilisés autour de notre modèle unique de producteurs et commerçants. Et nous en sommes fiers ! Dans toutes les fonctions au service des points de vente, de la logistique à l'immobilier, en passant par l'industrie agroalimentaire ou l'informatique, nos équipes font nos succès.Chez Intermarché &amp; Netto les enseignes alimentaires du Groupement, notre goût d'entreprendre, notre indépendance et la diversité "
     }
   ]
 }
