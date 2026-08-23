@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-22T05:26:46.821133+00:00",
+  "last_run": "2026-08-23T05:29:02.908554+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -4786,6 +4786,104 @@
       "created_at": null,
       "apply_url": "https://www.directemploi.com/candidatOffre/55449953?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
       "description": "Le Groupement Les Mousquetaires, ce sont 7 enseignes de la grande distribution portées haut et fort par plus de 3 000 chefs d'entreprise indépendants ! Ce sont aussi 150 000 collaborateurs mobilisés autour de notre modèle unique de producteurs et commerçants. Et nous en sommes fiers ! Dans toutes les fonctions au service des points de vente, de la logistique à l'immobilier, en passant par l'industrie agroalimentaire ou l'informatique, nos équipes font nos succès.Chez Intermarché &amp; Netto les enseignes alimentaires du Groupement, notre goût d'entreprendre, notre indépendance et la diversité "
+    },
+    {
+      "id": "6a8a218fbc5fc2963e10336b",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Contrôleur/Animateur Qualité H/F",
+      "company": "Entreprise non précisée",
+      "city": "45210 La Selle-sur-le-Bied",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.directemploi.com/candidatOffre/55572248?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "description": "Le poste de Contrôleur/Animateur Qualité H/FAlternant engagé, je transforme la théorie en résultats concrets avec exigence et qualité.Vous souhaitez intégrer un groupe en pleine croissance, solide et pérenne, rejoignez la société Pierre Martinet, traiteur de métier, la marque éponyme s'est imposée comme un acteur majeur du rayon traiteur frais, grâce à ses salades prêtes à consommer. Reconnue pour la qualité de ses recettes et son exigence du goût, Pierre Martinet a su faire rayonner son savoir-faire. Ce sont 3 Français sur 4 qui connaissent la marque.Aujourd'hui, le Groupe Pierre Martinet réa"
+    },
+    {
+      "id": "6a8a2194bc5fc2963e1034b5",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Technicien Projets R&amp;D en alternance H/F",
+      "company": "Entreprise non précisée",
+      "city": "72300 Sablé-sur-Sarthe",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.directemploi.com/candidatOffre/55570638?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "description": "Le poste de Technicien Projets R&amp;D en alternance H/FVos missions ... Pour accompagner et nourrir sa stratégie d'innovation, LDC Saint Laurent Pôle LDC Terravenir recrute un(e) Technicien R&amp;D en alternance. Rattaché(e) à Nathalie, Responsable R&amp;D, vous intégrez l'équipe R&amp;D Produits Crus et Élaborés crus de Sablé-sur-Sarthe, et rejoignez 11 collaborateurs, travaillant sur des enjeux à la fois innovation produits, performance industrielle et impact environnemental.Vos missions :Innovation &amp; Développement ProduitsActeur clé de la démarche d'innovation sur nos marques(Le Gauloi"
+    },
+    {
+      "id": "6a8a218dbc5fc2963e10330f",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Alternance- Assistant Achats et Environnement H/F (H/F)",
+      "company": "DISTRIBUTION MATERIAUX BOIS PANNEAUX - D.M.B.P.",
+      "city": "38540 Heyrieux",
+      "department": null,
+      "diploma_level": "Master, titre ingénieur, grande école (Bac+5)",
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://joinus.saint-gobain.com/description?nPostingTargetId=305292&id=Q2FFK026203F3VBQBLO7V8M1O&LG=FR&languageSelect=FR&cType=JobBoard&sType=FranceTravail",
+      "description": "Pourquoi a-t-on besoin de vous?\nPassionné(e) par les enjeux environnementaux et curieux(se) de découvrir les métiers des achats, tu souhaites acquérir une expérience enrichissante dans un environnement stimulant ? Rejoins-nous et participe activement à la mise en œuvre de notre politique d'achats responsables.\n\nRattaché(e) à la Direction des Achats, tu participeras activement à la gestion des achats bois et tu joueras un rôle clé dans le suivi et la conformité environnementale de nos achats.\n\nTon quotidien s'articulera autour de missions opérationnelles et stratégiques :\n\nParticiper au déploie"
+    },
+    {
+      "id": "6a8a2191bc5fc2963e1033f5",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Alternance - Animateur(trice) HSE (H/F)",
+      "company": "Emerson Process Management SAS",
+      "city": "59280 Armentières",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://www.lindustrie-recrute.fr/candidat/offre/823718?utm_source=NQ==",
+      "description": "Veille à la mise en œuvre et à l'animation de la politique 3SE (Santé, Sécurité, Sureté et Environnement) sur le site, accompagne les équipes au quotidien, développe une culture de prévention forte, et enfin garantir le respect des exigences réglementaires et des standards du Groupe\n\n\nVéritable relais opérationnel, vous contribuez activement à faire de notre site un environnement de travail sûr, durable et responsable.\n\n\n- Proposer et conduire la culture 3SE du site \n- Veiller au respect des requis règlementaires et à la maîtrise technique des sujets 3SE\n- Gérer les entreprises externes interv"
+    },
+    {
+      "id": "6a8a218dbc5fc2963e103304",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Assistant Sécurité Santé Environnement H/F",
+      "company": "Entreprise non précisée",
+      "city": "35133 Luitré-Dompierre",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.directemploi.com/candidatOffre/55573620?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "description": "Le poste de Assistant Sécurité Santé Environnement H/FNous recrutons un assistant Santé Sécurité Environnement H/F en alternance à partir de septembre sur notre site de Luitré-Dompierre (35) à proximité de Fougères. Rattaché(e) à la Responsable SSE et Développement Durable, vos missions principales et les activités afférentes sont les suivantes : Mission principale :"
+    },
+    {
+      "id": "6a8a2194bc5fc2963e1034b6",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Alternance - Assistant Qualité - Sécurité - Environnement H/F",
+      "company": "Entreprise non précisée",
+      "city": "72260 Marolles-les-Braults",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.directemploi.com/candidatOffre/55572808?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "description": "Le poste de Alternance - Assistant Qualité - Sécurité - Environnement H/FEt si vous rejoigniez Jeusselin pour votre alternance Vous souhaitez intégrer un groupe en pleine croissance, solide et pérenne, rejoignez l'entreprise JEUSSELIN, 40 salariés, spécialisée dans le commerce de gros de céréales. JEUSSELIN est une filiale du groupe agroalimentaire LDC connu pour ses marques Loué, Le Gaulois, Maître Coq, Marie et Traditions d'Asie. En lien direct avec le Responsable Qualité-Sécurité-Environnement de JEUSSELIN, vous l'assisterez sur les missions suivantes : * Qualité : préparation des audits ex"
+    },
+    {
+      "id": "6a8a22abe3e28e21662be408",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Technicien(ne) QHSE H/F",
+      "company": "UIMM",
+      "city": "14100 Saint-Désir",
+      "department": null,
+      "diploma_level": "Master, titre ingénieur, grande école (Bac+5)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.meteojob.com/jobs/56281070?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "description": "<p>  <strong>AXE METAL</strong>  est une société spécialisée en étude, réalisation et assemblage en sous-traitance de pièces détachées, d'ensembles de tôlerie fine et de produits intégrés associant tôlerie, mécanique et sous-ensemble électronique.  <br />  Située à proximité de Lisieux, AXE METAL fait partie du groupe  <strong>AXE GROUP</strong>  composé de sociétés aux activités différentes mais complémentaires, de manière à satisfaire les exigences les plus légitimes de nos clients et partenaires.  <br />  Pour plus d'informations, rendez-vous sur notre site : www.axe-group.com </p> <p>  Nou"
     }
   ]
 }
