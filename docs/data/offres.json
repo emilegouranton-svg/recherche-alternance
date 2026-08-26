@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-25T05:31:24.786872+00:00",
+  "last_run": "2026-08-26T05:33:56.550663+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -4926,6 +4926,20 @@
       "created_at": null,
       "apply_url": "https://www.apecita.com/offres/275884",
       "description": "<p>Rejoindre <strong>Agis</strong>, c'est intégrer une entreprise agroalimentaire reconnue pour son savoir-faire dans les plats cuisinés et appartenant au Groupe LDC, leader français du secteur. Sur notre site d'Herbignac, vous évoluerez au cœur des ateliers de production, au contact des équipes terrain, dans un environnement où la sécurité des collaborateurs est une priorité absolue.</p><p>Avec plus de 1 000 collaborateurs et 220 millions d'euros de chiffre d'affaires, nous plaçons nos valeurs au cœur de notre dynamique collective : Travail bien fait, Innovation, Responsabilité, Respect, Perf"
+    },
+    {
+      "id": "6a8dadf2f51fcec24a4a0c0d",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "ALTERNANCE - CONDUCTEUR CHAUFFERIE DÉSHYDRATATION F/H",
+      "company": "CRISTAL UNION",
+      "city": "51430 Bezannes",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.apecita.com/offres/275979",
+      "description": "<p><strong>Entreprise :</strong><br /><strong>CRISTAL UNION BAZANCOURT</strong></p><p><strong>Missions :</strong></p><ul><li>Piloter l’atelier de déshydratation de luzerne et pulpes, en veillant à l’atteinte des objectifs de performance énergétique et de qualité produit.</li><li>Ajuster les paramètres de conduite des installations de déshydratation afin d’optimiser les rendements.</li><li>Effectuer les prises d’échantillons, réaliser les analyses nécessaires à la conduite des installations et adapter les réglages en fonction des résultats obtenus.</li><li>Piloter la production d’eau déminée et"
     }
   ]
 }
