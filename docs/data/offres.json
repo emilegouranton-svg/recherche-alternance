@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-27T16:08:18.062809+00:00",
+  "last_run": "2026-08-28T17:11:00.030959+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -4996,6 +4996,34 @@
       "created_at": null,
       "apply_url": "https://www.meteojob.com/jobs/56354200?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
       "description": "<p>  En rejoignant notre équipe au sein la Direction régionale du Sud-Est située au PONTET (84), vous assistez le responsable HSE dans la mise en oeuvre du plan HSE sur les 15 agences de la région.  <br />  Missions principales :  <br />  Participer à l'analyse et la prévention des risques professionnels (évaluation des risques, visites terrain, audits internes)  <br />  Contribuer à la mise à jour des DUERP et des plans d'action HSE  <br />  Accompagner la sensibilisation et la formation des équipes sur les thématiques sécurité et environnement  <br />  Suivre les indicateurs HSE et contribue"
+    },
+    {
+      "id": "6a90b9241d31377ab1f72e81",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Alternance Ingénieur développement - Rennes (F/H)",
+      "company": "Entreprise non précisée",
+      "city": "35000 Rennes",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.directemploi.com/candidatOffre/56144900?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "description": "Vous intégrerez la Direction SI B2C, dans un centre d'ingénierie en charge des systèmes d'information de commissionnement des partenaires de vente et vous travaillerez sur le projet Melody.\nCe projet a pour but de valoriser toutes les actions des vendeurs. Le système est stratégique pour l'accompagnement du Commerce et de la Direction Financière sur la vente de nouvelles offres et la fidélisation des clients. Les développements s'effectuent en mode agile, en devops et dans une logique micro-services. La conception est réalisée avec PlantUML sous confluence et les développements sont pilotés so"
+    },
+    {
+      "id": "6a90b38b58e0576e0ce78cea",
+      "sector": "sante_diagnostic",
+      "sector_label": "Santé et diagnostic",
+      "title": "Analyste apprenti(e) en section post-analytique et urgences − Groupe « individus et permanences »",
+      "company": "Direction générale de la police nationale",
+      "city": "93200 Saint-Denis",
+      "department": null,
+      "diploma_level": "BTS, DEUST (Bac+2)",
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://www.pass.fonction-publique.gouv.fr/offre/analyste-apprentie-en-section-post-analytique-et-urgences-groupe-individus-et-permanences",
+      "description": "<p><strong>Missions : </strong></p><p>Réalisation des analyses à partir des prélèvements individus dont les kits FTA (analyses manuelles et automatisées).</p><p>Participation au maintien en conditions opérationnelles des postes de travail, aux permanences biologie (préparation des réactifs, décontamination des instruments,…) et administrative (gestion des saisines et des scellés).</p><p><br /> </p><p><br /> </p><p><br /> </p>"
     }
   ]
 }
