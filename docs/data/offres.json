@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-29T11:29:25.010626+00:00",
+  "last_run": "2026-08-30T10:17:13.999813+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -5024,6 +5024,20 @@
       "created_at": null,
       "apply_url": "https://www.pass.fonction-publique.gouv.fr/offre/analyste-apprentie-en-section-post-analytique-et-urgences-groupe-individus-et-permanences",
       "description": "<p><strong>Missions : </strong></p><p>Réalisation des analyses à partir des prélèvements individus dont les kits FTA (analyses manuelles et automatisées).</p><p>Participation au maintien en conditions opérationnelles des postes de travail, aux permanences biologie (préparation des réactifs, décontamination des instruments,…) et administrative (gestion des saisines et des scellés).</p><p><br /> </p><p><br /> </p><p><br /> </p>"
+    },
+    {
+      "id": "6a935bd548bff019b7c9b94d",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Alternant(e) - Direction Technique, Sécurité &amp; Environnement (DTSE) (H/F)",
+      "company": "SAS YABE",
+      "city": "03800 Gannat",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/rdf50hlurb8/alternant-e-direction-technique-securite-environnement-dtse",
+      "description": "RESPONSABILITÉS : \n\nIntégré(e) à la Direction Technique, Sécurité &amp; Environnement (DTSE) du Groupe, vous accompagnez le Directeur DTSE dans le pilotage opérationnel des centres commerciaux et hypermarchés du groupe.\nVous intervenez sur les volets Sécurité ERP, Technique &amp; Maintenance, Environnement &amp; Énergie, avec une vision multi-sites et une forte dimension réglementaire.\nVos missions principales\n1. Missions Sécurité &amp; Réglementation (ERP)\n - Préparer les commissions de sécurité et suivre les plans d'actions liés aux levées de prescriptions\n - Contrôler la bonne tenue des reg"
     }
   ]
 }
