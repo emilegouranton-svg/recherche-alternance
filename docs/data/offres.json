@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-09-04T09:21:22.258957+00:00",
+  "last_run": "2026-09-05T08:50:43.185747+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -5234,6 +5234,34 @@
       "created_at": null,
       "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/213JQFJ",
       "description": "Avec près de 80M€ de CA et fort de 450 collaborateurs, HACARE est un groupe français qui détient plusieurs PME (CORONA MEDICAL, HACARE, BMB MEDICAL, HERDEGEN) spécialisées dans la conception et la fabrication de mobilier médical à destination des secteurs hospitaliers, hébergement (maisons de retraite) et MAD (maintien à domicile), au travers notamment d'une gamme complète de lits médicalisés. Nos produits sont distribués en France et à l'Export.\n\nAujourd'hui, dans le cadre de notre développement nous recrutons un Alternant Coordinateur Qualité (H/F)\n\nDescription du poste : \n\n- Participer à l'"
+    },
+    {
+      "id": "6a9adcf206fad1942d1295ba",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "ALTERNANCE - ASSISTANT(E) SANTÉ ET SÉCURITÉ F/H",
+      "company": "ADVITAM PERFORMANCE",
+      "city": "62223 Saint-Laurent-Blangy",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.apecita.com/offres/276495",
+      "description": "<p>Rejoignez une aventure humaine au cœur d'un collectif engagé : réalisez votre alternance en tant qu'<strong>Assistant(e) santé et sécurité H/F</strong>.</p><p><strong>Unéal</strong> : une coopérative, un territoire, une mission : cultiver l'avenir ensemble. Chez Unéal, nous sommes avant tout un collectif de femmes et d'hommes engagés aux côtés de plus de 6 000 agriculteurs adhérents. Première coopérative agricole des Hauts-de-France, nous récoltons chaque année plus de 1,3 million de tonnes de céréales et accompagnons nos adhérents pour construire une agriculture performante, durable et tou"
+    },
+    {
+      "id": "6a9b3fb9b267334dd69f23c6",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Assistant QPE",
+      "company": "Direction Opérationnelle Centre-Est",
+      "city": "Lyon (69)",
+      "department": null,
+      "diploma_level": "Master, titre ingénieur, grande école (Bac+5)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://nostalentsnosemplois.auvergnerhonealpes.fr/jobads/16358352?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "description": "Citinea, filiale de VINCI Construction, est spécialisée dans les projets de bâtiment complexes et à forts enjeux techniques. <br/> La prévention, la qualité, la sécurité et l'environnement sont au cœur de notre culture, avec un objectif clair : zéro accident grave ou mortel. <br/> Dans ce cadre, nous recherchons un(e) alternant(e) QPE sur une durée de un ou deux ans, motivé(e), curieux(se) et à l'aise sur le terrain comme avec les équipes à partir de septembre. <br/> Vos missions : <br/> - Réalisation de visites de chantier <br/> - Contribution à la prévention des risques professionnels ( ergo"
     }
   ]
 }
