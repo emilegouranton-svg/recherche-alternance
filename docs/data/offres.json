@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-09-07T09:58:19.881171+00:00",
+  "last_run": "2026-09-08T09:23:49.412398+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -5262,6 +5262,20 @@
       "created_at": null,
       "apply_url": "https://nostalentsnosemplois.auvergnerhonealpes.fr/jobads/16358352?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
       "description": "Citinea, filiale de VINCI Construction, est spécialisée dans les projets de bâtiment complexes et à forts enjeux techniques. <br/> La prévention, la qualité, la sécurité et l'environnement sont au cœur de notre culture, avec un objectif clair : zéro accident grave ou mortel. <br/> Dans ce cadre, nous recherchons un(e) alternant(e) QPE sur une durée de un ou deux ans, motivé(e), curieux(se) et à l'aise sur le terrain comme avec les équipes à partir de septembre. <br/> Vos missions : <br/> - Réalisation de visites de chantier <br/> - Contribution à la prévention des risques professionnels ( ergo"
+    },
+    {
+      "id": "6a9eadf906fad1942d1429d2",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "ALTERNANT(E) CHARGE(E) QHSE H/F",
+      "company": "ALLIANCE EMPLOI",
+      "city": "93290 Tremblay-en-France",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://job.mytalentplug.com/api/JobOffer/redirect/?id=729cb884-09b2-44b9-aeb6-831a6419b0df",
+      "description": "Etes-vous prêt(e) à démarrer une nouvelle expérience avec Alliance Emploi ? Avec 25 ans d'expertise, 2000 salariés et notre réseau de 400 entreprises issues des secteurs industriel, agroalimentaire, automobile, métallurgie, pharmaceutique, sidérurgie ou encore logistique, nous sommes la destination idéale pour celles et ceux qui cherchent un emploi durable.<br />Notre mission est simple : apporter la bonne compétence au bon moment. Et c'est là que vous entrez en jeu !<br />Nous sommes à la recherche d'un technicien référent de maintenance industrielle sur à Bobigny pour une entreprise partenai"
     }
   ]
 }
