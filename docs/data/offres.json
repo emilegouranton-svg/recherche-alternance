@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-09-08T09:23:49.412398+00:00",
+  "last_run": "2026-09-09T09:25:19.158371+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -5276,6 +5276,62 @@
       "created_at": null,
       "apply_url": "https://job.mytalentplug.com/api/JobOffer/redirect/?id=729cb884-09b2-44b9-aeb6-831a6419b0df",
       "description": "Etes-vous prêt(e) à démarrer une nouvelle expérience avec Alliance Emploi ? Avec 25 ans d'expertise, 2000 salariés et notre réseau de 400 entreprises issues des secteurs industriel, agroalimentaire, automobile, métallurgie, pharmaceutique, sidérurgie ou encore logistique, nous sommes la destination idéale pour celles et ceux qui cherchent un emploi durable.<br />Notre mission est simple : apporter la bonne compétence au bon moment. Et c'est là que vous entrez en jeu !<br />Nous sommes à la recherche d'un technicien référent de maintenance industrielle sur à Bobigny pour une entreprise partenai"
+    },
+    {
+      "id": "6aa10b55ef95c6a323234ee5",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Technicien / Technicienne laboratoire en matériaux de construction",
+      "company": "ERC BTP",
+      "city": "5378 ROUTE DU POU DU CIEL 01600 REYRIEUX",
+      "department": null,
+      "diploma_level": "BTS, DEUST (Bac+2)",
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6aa10b55ef95c6a323234ee5/technicien-technicienne-laboratoire-en-matériaux-de-construction",
+      "description": "Le Technicien de laboratoire d'analyse industrielle assure le contrôle et l'assurance qualité des processus industriels. Réalise des analyses physico-chimiques pour contrôler la qualité des matières premières et des produits finis Interprète les résultats et rédige des rapports détaillés pour assurer la conformité aux normes Participe à l'élaboration et à l'optimisation des procédures d'analyse pour améliorer la fiabilité des résultats Assure la maintenance et le calibrage des équipements de laboratoire pour garantir leur bon fonctionnement Collabore avec les équipes de production pour identif"
+    },
+    {
+      "id": "6aa08a4995355def70aa5c21",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Laborantin(e) en alternance à la BANQUE DE FRANCE via EPI F/H - GEIQ EPI / GEIQ EPI2A / GE EPISUP",
+      "company": "GEIQ EPI / GEIQ EPI2A / GE EPISUP",
+      "city": "63400 Chamalières",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://careers.werecruit.io/fr/geiq-epi-geiq-epi2a-ge-episup/offres/laborantine-en-alternance-a-la-banque-de-france-via-epi-bbc8dc?utm_source=francetravail&utm_medium=job-board",
+      "description": "Vous avez envie d'évoluer, en toute sécurité dans une entreprise à taille humaine alors cette mission est faite pour vous !\n \nNous vous proposons d'apprendre le métier de Laborantin(e) en préparant un BTS Métier de la chimie en alternance pendant 24 mois.\n \n \n \nAu sein du laboratoire, vous contribuez aux essais et analyses permettant d'améliorer la performance, la durabilité et l'impact environnemental des composants utilisés dans la fabrication des billets.Votre travail s'inscrit dans une logique de recherche appliquée et d'amélioration continue.\n \n \n Vos missions : \nRéalisation d'essais et d"
+    },
+    {
+      "id": "6aa08a4c95355def70aa5cbf",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Alternant(e) en Qualité / QHSE (H/F)",
+      "company": "Entreprise non précisée",
+      "city": "89190 Villeneuve-l'Archevêque",
+      "department": null,
+      "diploma_level": "Bac, Bac Pro, BP (Bac)",
+      "contract_type": "Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/213PKVT",
+      "description": "Notre entreprise est spécialisée dans le conditionnement alimentaire et évolue dans un environnement soumis à de fortes exigences en matière de qualité, d'hygiène, de traçabilité et de sécurité alimentaire. Nous recherchons, pour la rentrée 2026, un(e) étudiant(e) souhaitant effectuer son alternance au sein de notre service qualité.\n\nLes missions pourront notamment porter sur :\n\nle suivi et la mise à jour du système qualité ;\nl'application et le suivi des procédures d'hygiène et de sécurité alimentaire ;\nla traçabilité des produits et matières premières ;\nle suivi des contrôles qualité ;\nla ge"
+    },
+    {
+      "id": "6aa08a4a95355def70aa5c55",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Apprenti chargé de la qualité H/F",
+      "company": "Entreprise non précisée",
+      "city": "73100 Aix-les-Bains",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.directemploi.com/candidatOffre/56271900?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "description": "Dans le cadre du développement de notre démarche qualité et gestion des risques et la préparation de la certification en , nous recherchons un(e) apprentie Qualité en appui direct de la Responsable Assurance Qualité (RAQ) dans la conduite de ses missions au sein de l'établissement.Vos missions Participer au déploiement et au suivi de la démarche qualité de l'établissement.Contribuer à la préparation et au suivi des évaluations et certifications.Réaliser des audits de pratiques professionnelles et enquêtes de terrain.Participer à l'analyse des événements indésirables et au suivi des plans d'act"
     }
   ]
 }
