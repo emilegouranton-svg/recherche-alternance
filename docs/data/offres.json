@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-09-14T10:21:18.937021+00:00",
+  "last_run": "2026-09-15T09:47:51.136566+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -5388,6 +5388,48 @@
       "created_at": null,
       "apply_url": "https://www.jobposting.pro/emploi-2696644-120",
       "description": "PME industrielle reconnue comme leader dans son domaine, la société conçoit et fabrique des solutions de protection électromagnétique destinées à des secteurs exigeants tels que l'Industrie, la Défense, le Médical et l'Instrumentation. \nDans le cadre de son développement, l'entreprise engage une démarche structurante de management de la qualité avec un objectif clair : l'obtention de la certification ISO 9001.\n\n\nLe poste : \n\nRattaché(e) au Directeur Technique et au Directeur de Site, vous piloterez opérationellement la démarche qualité au sein de l'entreprise.\nÀ ce titre, vous aurez pour missi"
+    },
+    {
+      "id": "6aa7e7d37d0e8c4fde45ab32",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Alternant(e) Qualité ISO 13485 / Dispositifs Médicaux",
+      "company": "NIHON KOHDEN FRANCE SARL",
+      "city": "LA BOURSIDIERE 92350 LE PLESSIS ROBINSON",
+      "department": null,
+      "diploma_level": "Master, titre ingénieur, grande école (Bac+5)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6aa7e7d37d0e8c4fde45ab32/alternant-e-qualité-iso-13485-dispositifs-médicaux",
+      "description": "Le Responsable qualité en industrie veille à l'excellence et à la conformité des processus et des produits dans le secteur industriel. Assure la mise en place et le suivi des systèmes de management de la qualité conformément aux normes et règlements en vigueur Développe et implémente des procédures de contrôle qualité pour garantir la traçabilité des produits Analyse les données de qualité et propose des améliorations continues pour optimiser les processus Collabore avec les équipes de production pour assurer une démarche d'amélioration continue Réalise des audits internes et prépare l'entrepr"
+    },
+    {
+      "id": "6aa872f35743d160f9f96b22",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Conducteur / Conductrice d'appareils des industries chimiques (H/F)",
+      "company": "GEIQ MULTISECTORIEL RESSOURCES HUMAINES",
+      "city": "60610 Lacroix-Saint-Ouen",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/213TGBG",
+      "description": "possibilité de travailler sur le site de Lacroix st Ouen et/ou Coudun.\n\nPoste de conditionnement : \n- Veiller à la qualité et quantité des produits qui sortent de la chaine de production, afin d'obtenir un produit conforme aux règles et aux normes\n- Utiliser et contrôler des machines de production industrielles automatisées ou semi-automatiques, contrôler les opérations, détecter et signaler les anomalies\n- Gérer l'approvisionnement : alimenter le poste de travail en matières premières, articles de conditionnement et petit matériel et en vérifier la conformité\n- Renseigner les documents de pro"
+    },
+    {
+      "id": "6aa1dbe2d4cd2f3dc00fe7e8",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Technicien de fabrication en industrie pharmaceutique MRS (H/F)",
+      "company": "Entreprise non précisée",
+      "city": "31770 Colomiers",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/213PDFW",
+      "description": "Vous souhaitez rejoindre un projet d'envergure dans l'industrie pharmaceutique ?\nL'agence CRIT Industrie, en partenariat avec UNITHER, leader en production pharmaceutique, recrute 6 futurs techniciens de fabrication H/F sur son site de Colomiers.\n\nLE PROJET : Vous bénéficierez d'une formation de 6 mois (fin octobre à avril 2026) en contrat de professionnalisation avec le centre de formation IMT, alliant théorie et pratique, avec pour objectif de vous rendre opérationnel en tant que Technicien de fabrication en industrie pharmaceutique.\nLe rythme de la formation :\n1 semaine de théorie avec un f"
     }
   ]
 }
