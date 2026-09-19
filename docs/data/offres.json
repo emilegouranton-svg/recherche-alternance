@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-09-18T09:24:32.560840+00:00",
+  "last_run": "2026-09-19T09:12:40.707944+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -5528,6 +5528,34 @@
       "created_at": null,
       "apply_url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/xu7qgqy2or8/assistant-environnement-h-f-alternance",
       "description": "RESPONSABILITÉS : \n\nNotre client est une entreprise handi-accueillante, spécialisée dans le domaine agro-alimentaire. Il recrute un(e) : \nASSISTANT ENVIRONNEMENT (H/F)\nALTERNANCE 12 MOIS - ATHIS-MONS (91)\nA COMPTER DE SEPTEMBRE 2026\n\n\nSous la responsabilité du Responsable Environnement, vous serez en charge de mettre en place les bonnes pratiques de pilotage des équipements, d'identifier et de suivre les indicateurs de performance environnementale, et de former les équipes opérationnelles aux enjeux écologiques.\nVos principales missions :\n -  Piloter et optimiser les équipements pour réduire l"
+    },
+    {
+      "id": "6aadb485375ebabde2e02b5d",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Alternance - Assistant(e) Ingénieur développement technique (H/F)",
+      "company": "HERMES SELLIER",
+      "city": "24300 Nontron",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://rhalternance.com/jobs/informatique-internet-et-telecommunication/nontron/alternance-assistant-e-ingénieur-développement-technique-h-f-334604775",
+      "description": "Descriptif du poste :"
+    },
+    {
+      "id": "6aadb486375ebabde2e02b9f",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Alternant santé sécurité F/H",
+      "company": "ELECTRICITE DE FRANCE",
+      "city": "Route de Saint Joseph 44300 Nantes",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://rhalternance.com/jobs/maintenance-et-entretien/nantes/alternant-santé-sécurité-f-h-737513381",
+      "description": "Descriptif du poste : \nProfil recherché :"
     }
   ]
 }
