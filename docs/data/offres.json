@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-09-22T09:39:00.101638+00:00",
+  "last_run": "2026-09-23T09:46:10.447699+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -5612,6 +5612,20 @@
       "created_at": null,
       "apply_url": "https://www.meteojob.com/jobs/56940362?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
       "description": "Découvrez le job que vous voulez ! <br /> <br /> <br /> Vous avez envie de mettre votre expertise au service de responsables opérationnels et fonctionnels, dans l'objectif de préserver les biens et les personnes ? <br /> <br /> <br /> Vous aussi, vous souhaitez faire partie de cette aventure et participer à la mise en oeuvre de la politique Prévention Sécurité et Vie au Travail du Groupe ? <br /> <br /> <br /> Nous recrutons notre nouveau/nouvelle Coordinateur(rice) sécurité au travail <br /> <br /> <br /> Révélez votre créativité/Révélez vos talents ! <br /> <br /> <br /> Votre mission <br />"
+    },
+    {
+      "id": "6ab2ff237caaafd3f596a47d",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Alternant. Contrôleur / Qualité (H/F)",
+      "company": "ETABLISSEMENTS GLAUDE",
+      "city": "36200 Le Pêchereau",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/214FSYZ",
+      "description": "Groupe TRA-C industrie\n\nEts GLAUDE (groupe TRA-C industrie) est spécialisée dans la fabrication de sous-ensembles de structure métallique pour aéronefs, principalement pour Dassault Aviation. Acteur incontournable du secteur aéronautique, notre savoir-faire, notre rigueur et notre réactivité nous ont permis de nous imposer comme fournisseur de premier niveau aux côtés de grands donneurs d'ordres.\n\nDans le cadre de notre développement, nous un.e alternant.e contrôleur/ qualité afin de participer au contrôle de la conformité des produits et processus de fabrication afin de respecter les exigence"
     }
   ]
 }
