@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-09-23T09:46:10.447699+00:00",
+  "last_run": "2026-09-24T09:43:37.782100+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -5626,6 +5626,48 @@
       "created_at": null,
       "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/214FSYZ",
       "description": "Groupe TRA-C industrie\n\nEts GLAUDE (groupe TRA-C industrie) est spécialisée dans la fabrication de sous-ensembles de structure métallique pour aéronefs, principalement pour Dassault Aviation. Acteur incontournable du secteur aéronautique, notre savoir-faire, notre rigueur et notre réactivité nous ont permis de nous imposer comme fournisseur de premier niveau aux côtés de grands donneurs d'ordres.\n\nDans le cadre de notre développement, nous un.e alternant.e contrôleur/ qualité afin de participer au contrôle de la conformité des produits et processus de fabrication afin de respecter les exigence"
+    },
+    {
+      "id": "6ab450977caaafd3f597142a",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Assistant Qualité Sécurité Environnement H/F - Alternance",
+      "company": "Entreprise non précisée",
+      "city": "59113 Seclin",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.directemploi.com/candidatOffre/56443880?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "description": "Vous souhaitez intégrer une entreprise familiale de salariés, présente en France depuis , mais aussi en Allemagne, Belgique et Luxembourg, avec de belles valeurs humaines : esprit familial, proximité, cuisine authentique ?Alors rejoignez Api Restauration !Nous recrutons notre Assistant Qualité Sécurité Environnement H/F en alternance :Où ? Au sein de notre Direction d'Agence Régionale Lille Flandres Enseignement, basée à SeclinSalaire ? En fonction du diplôme et de l'âge35h du lundi au vendredi de 9h à 17hDéplacements réguliers sur les départements du Nord et du Pas de CalaisRigoureux(se), org"
+    },
+    {
+      "id": "6ab450c168233dbb8f6a194c",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Alternance - HSE (H/F) - GROUPE MECACHROME",
+      "company": "AEROCONTACT",
+      "city": "44980 Sainte-Luce-sur-Loire",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.leboncoin.fr/offres_d_emploi/3274632012.htm",
+      "description": "Résumé\nAlternance - HSE (H/F), 44980 Sainte Luce Sur Loire, Apprentissage / Alternance, Temps plein.\nSecteur : Industrie &amp; environnement\nEntreprise : GROUPE MECACHROME\n\nDescription du poste\nQui sommes-nous ?\n\nActeur incontournable des pièces élémentaires et sous-ensembles de structure à forte valeur ajoutée, le Groupe Mecachrome accompagne depuis 80 ans les équipementiers et industriels dans les domaines de laéronautique, de lautomobile, du sport automobile, de la défense et de lénergie. S'appuyant sur des systèmes industriels robustes, à la pointe de la technologie, Mecachrome apporte "
+    },
+    {
+      "id": "6ab450c268233dbb8f6a1980",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Alternance - Assistant HSE (H/F) - GROUPE MECACHROME",
+      "company": "AEROCONTACT",
+      "city": "85120 Saint-Hilaire-de-Voust",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.leboncoin.fr/offres_d_emploi/3274632475.htm",
+      "description": "Résumé\nAlternance - Assistant HSE (H/F), 85120 Saint Hilaire De Voust, Apprentissage / Alternance, Temps plein.\nSecteur : Industrie &amp; environnement\nEntreprise : GROUPE MECACHROME\n\nDescription du poste\nActeur incontournable des pièces élémentaires et sous-ensembles de structure à forte valeur ajoutée, le Groupe Mecachrome accompagne depuis 80 ans les équipementiers et industriels dans les domaines de laéronautique, de lautomobile, du sport automobile, de la défense et de lénergie. S'appuyant sur des systèmes industriels robustes, à la pointe de la technologie, Mecachrome apporte à ses cl"
     }
   ]
 }
