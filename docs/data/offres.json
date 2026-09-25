@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-09-24T09:43:37.782100+00:00",
+  "last_run": "2026-09-25T10:01:19.358664+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -5668,6 +5668,20 @@
       "created_at": null,
       "apply_url": "https://www.leboncoin.fr/offres_d_emploi/3274632475.htm",
       "description": "Résumé\nAlternance - Assistant HSE (H/F), 85120 Saint Hilaire De Voust, Apprentissage / Alternance, Temps plein.\nSecteur : Industrie &amp; environnement\nEntreprise : GROUPE MECACHROME\n\nDescription du poste\nActeur incontournable des pièces élémentaires et sous-ensembles de structure à forte valeur ajoutée, le Groupe Mecachrome accompagne depuis 80 ans les équipementiers et industriels dans les domaines de laéronautique, de lautomobile, du sport automobile, de la défense et de lénergie. S'appuyant sur des systèmes industriels robustes, à la pointe de la technologie, Mecachrome apporte à ses cl"
+    },
+    {
+      "id": "6ab5a2427caaafd3f597830c",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Alternance Assistant RH - Saint-Jean-de-Braye (F/H)",
+      "company": "Entreprise non précisée",
+      "city": "45800 Saint-Jean-de-Braye",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.directemploi.com/candidatOffre/56460943?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "description": "Missions: Préparer et mettre à jour les dossiers candidatsAssurer le suivi administratif des recrutementsMettre à jour les tableaux de suivi et les bases de donnéesParticiper à la rédaction et à la diffusion des offres d'emploiClasser et organiser les documents liés aux recrutementsParticiper à la rédaction d'annonces attractivesContribuer à la communication du cabinet sur LinkedIn"
     }
   ]
 }
