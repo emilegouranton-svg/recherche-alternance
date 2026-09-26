@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-09-25T10:01:19.358664+00:00",
+  "last_run": "2026-09-26T09:43:07.241305+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -5682,6 +5682,20 @@
       "created_at": null,
       "apply_url": "https://www.directemploi.com/candidatOffre/56460943?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
       "description": "Missions: Préparer et mettre à jour les dossiers candidatsAssurer le suivi administratif des recrutementsMettre à jour les tableaux de suivi et les bases de donnéesParticiper à la rédaction et à la diffusion des offres d'emploiClasser et organiser les documents liés aux recrutementsParticiper à la rédaction d'annonces attractivesContribuer à la communication du cabinet sur LinkedIn"
+    },
+    {
+      "id": "6ab6f3b0a68cd2546344c0cd",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Chargé(e) de mission Processus et Amélioration continue (H/F)",
+      "company": "DBF AUDIT",
+      "city": "78320 Le Mesnil-Saint-Denis",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://taleez.com/apply/charge-e-de-mission-processus-et-amelioration-continue-le-mesnil-saint-denis-dbf-audit/applying",
+      "description": "Dans le cadre d'un projet stratégique d'harmonisation des méthodes entre ses différents sites, DBF AUDIT recherche un(e) alternant(e) capable d'analyser les pratiques existantes, de cartographier les processus et de contribuer à la définition des méthodes communes du cabinet - jusqu'à la rédaction de ses procédures internes. Une mission avec une vraie dimension de gestion de projet, d'amélioration continue et d'accompagnement du changement.\n\nVos missions, en quatre temps\n\nLe projet suit le cycle naturel d'un chantier d'organisation : comprendre l'existant, construire les méthodes communes, les"
     }
   ]
 }
