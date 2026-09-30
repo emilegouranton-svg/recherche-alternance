@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-09-29T11:09:42.873017+00:00",
+  "last_run": "2026-09-30T10:55:22.000157+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -5724,6 +5724,20 @@
       "created_at": null,
       "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/214LWKY",
       "description": "Groupe TRA-C industrie\n\nEts GLAUDE (groupe TRA-C industrie) est spécialisée dans la fabrication de sous-ensembles de structure métallique pour aéronefs, principalement pour Dassault Aviation. Acteur incontournable du secteur aéronautique, notre savoir-faire, notre rigueur et notre réactivité nous ont permis de nous imposer comme fournisseur de premier niveau aux côtés de grands donneurs d'ordres.\n\nDans le cadre de notre développement, nous un.e alternant.e contrôleur/ qualité afin de participer au contrôle de la conformité des produits et processus de fabrication afin de respecter les exigence"
+    },
+    {
+      "id": "6abc3974170bf3aae5851f3e",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Chargé de projets et qualité (h/f) secteur médico-social (H/F)",
+      "company": "Association Viexidom Services",
+      "city": "49000 Angers",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://jobaffinity.fr/apply/48jumnvvscdign8llb?src=FranceTravail",
+      "description": "Poste \n\nVos futures missions\nSous la responsabilité de la Directrice et en lien étroit avec les membres du Comité de direction de l'association VIEXIDOM, et le Conseil d'Administration, vous prendrez en charge les missions suivantes :\n\n1\\. Suivi et Gestion des Projets \n  * Assurer une veille permanente relative au développement de l'activité, des appels d'offre et de financements de projets,\n  * Élaborer la feuille de route du projet (planification détaillée des tâches) ;\n  * Suivi de l'avancement des projets en collaboration avec les équipes ;\n  * Identification des problèmes potentiels et mi"
     }
   ]
 }
