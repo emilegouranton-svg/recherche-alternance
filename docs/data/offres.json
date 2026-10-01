@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-09-30T10:55:22.000157+00:00",
+  "last_run": "2026-10-01T11:24:27.990590+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -5738,6 +5738,48 @@
       "created_at": null,
       "apply_url": "https://jobaffinity.fr/apply/48jumnvvscdign8llb?src=FranceTravail",
       "description": "Poste \n\nVos futures missions\nSous la responsabilité de la Directrice et en lien étroit avec les membres du Comité de direction de l'association VIEXIDOM, et le Conseil d'Administration, vous prendrez en charge les missions suivantes :\n\n1\\. Suivi et Gestion des Projets \n  * Assurer une veille permanente relative au développement de l'activité, des appels d'offre et de financements de projets,\n  * Élaborer la feuille de route du projet (planification détaillée des tâches) ;\n  * Suivi de l'avancement des projets en collaboration avec les équipes ;\n  * Identification des problèmes potentiels et mi"
+    },
+    {
+      "id": "6abd8b09170bf3aae5858740",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "ALTERNANCE LABORATOIRE R&amp;D H/F",
+      "company": "ITW BAILLY COMTE",
+      "city": "69730 Genay",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://www.lindustrie-recrute.fr/candidat/offre/827989?utm_source=NQ==",
+      "description": "Le Département R&amp;D sur notre site de Genay (69), vous propose, dans le cadre d'un Contrat en alternance, d'intégrer le Laboratoire pour seconder l'Ingénieur Validation Produits.\n\n\n \n\n\nAprès un parcours d'intégration, vous prendrez progressivement les missions suivantes :\n\n\n \n\n\nAu développement\n\n\n \n\n\n-       Réaliser les essais et tests fonctionnels de validation (endurance, vieillissement, .) sur les produits tant en phase de développement (prototypes) qu'au stade des Echantillons Initiaux, en accord avec les Pilotes Projet ;\n\n\n-       Définir les montages et les manipulations nécessaires "
+    },
+    {
+      "id": "6abd8b09170bf3aae585871e",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "alternant(e) QHSE H/F",
+      "company": "H.ZOBEL",
+      "city": "62840 Fleurbaix",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://www.lindustrie-recrute.fr/candidat/offre/824388?utm_source=NQ==",
+      "description": "Vos missions au quotidien :\n\n\nGestion des non-conformités : enregistrer et suivre les NC (internes, fournisseurs, clients), participer aux analyses de causes (8D, 5 Pourquoi...) et piloter le suivi des actions correctives jusqu'à leur clôture.\n\n\nAmélioration continue : identifier les axes de progrès, mettre à jour les procédures, modes opératoires, indicateurs clés et accompagner le déploiement des plans d'actions.\n\n\nAudits qualité et sécurité : préparer et participer aux audits internes, réaliser des constats sur le terrain, analyser les écarts et suivre les actions avec les services concerné"
+    },
+    {
+      "id": "6abd8b08170bf3aae5858713",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Assistant(e) Qualité H/F",
+      "company": "AUTOMATISMES C.G.",
+      "city": "61800 Tinchebray-Bocage",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://www.lindustrie-recrute.fr/candidat/offre/829865?utm_source=NQ==",
+      "description": "En tant qu'apprenti(e) Assistant(e) Qualité, tu intégreras notre pôle Qualité aux côtés de notre Responsable Qualité.\n\n\nEncadré(e) par notre Responsable Qualité, tu apprendras à :\n\n\n- Assister à la réalisation d'une veille active sur les normes et règlementations en matière de qualité.\n- Gérer la mise en œuvre, la formalisation et la révision des processus qualité certifiées au sein de l'entreprise.\n- Animer des sessions d'informations pour la mise en place et/ou le suivi des processus qualité.\n- Piloter ou participer aux audits qualité internes et externes.\n- Accompagner les pilotes de proces"
     }
   ]
 }
