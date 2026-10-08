@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-10-07T11:33:15.733600+00:00",
+  "last_run": "2026-10-08T11:48:19.867232+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -5948,6 +5948,20 @@
       "created_at": null,
       "apply_url": "https://www.lindustrie-recrute.fr/candidat/offre/832142?utm_source=NQ==",
       "description": "Vous interviendrez en appui du Responsable QHSE sur les missions suivantes :\n\n\n-         Veille réglementaire en matière de sécurité et d'environnement (mise à jour des exigences applicables, suivi des évolutions légales et normatives)\n\n\n-         Analyse des Aspects Environnementaux Significatifs (AES) :\n\n\no   Identification et hiérarchisation des impacts\n\n\no   Suivi des actions de réduction\n\n\no   Mise à jour de la documentation associée\n\n\n-         Suivi des contrôles périodiques obligatoires :\n\n\no   Mise à jour et gestion du tableau de suivi\n\n\no   Planification et réalisation des contrôles\n"
+    },
+    {
+      "id": "6ac6c527f1f38f56727921cd",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Technicien / Technicienne en Hygiène, Sécurité, Environnement ind (H/F)",
+      "company": "COFEL INDUSTRIES",
+      "city": "27340 Criquebeuf-sur-Seine",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://taleez.com/apply/alternant-e-hse-h-f-bac-3-et-plus-criquebeuf-sur-seine-cofel-industries-1/applying",
+      "description": "Le Groupe COFEL est le groupe leader de la literie en France, grâce à ses trois marques à très forte notoriété : Bultex , Epéda  et Mérinos .\n\nLe groupe a pour vocation de contribuer au bien-être de ses consommateurs en améliorant la qualité de leur sommeil via la conception, la fabrication et la commercialisation de produits de qualité innovants.\n\nDe taille humaine, l'entreprise attache une grande importance au respect de ses valeurs que sont l'exigence, la convivialité et l'esprit d'équipe.\n\nNous vous proposons de rejoindre nos équipes et de contribuer ainsi aux succès futurs du Groupe.\n\nBas"
     }
   ]
 }
