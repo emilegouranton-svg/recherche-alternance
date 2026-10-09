@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-10-08T11:48:19.867232+00:00",
+  "last_run": "2026-10-09T11:40:49.810604+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -5962,6 +5962,20 @@
       "created_at": null,
       "apply_url": "https://taleez.com/apply/alternant-e-hse-h-f-bac-3-et-plus-criquebeuf-sur-seine-cofel-industries-1/applying",
       "description": "Le Groupe COFEL est le groupe leader de la literie en France, grâce à ses trois marques à très forte notoriété : Bultex , Epéda  et Mérinos .\n\nLe groupe a pour vocation de contribuer au bien-être de ses consommateurs en améliorant la qualité de leur sommeil via la conception, la fabrication et la commercialisation de produits de qualité innovants.\n\nDe taille humaine, l'entreprise attache une grande importance au respect de ses valeurs que sont l'exigence, la convivialité et l'esprit d'équipe.\n\nNous vous proposons de rejoindre nos équipes et de contribuer ainsi aux succès futurs du Groupe.\n\nBas"
+    },
+    {
+      "id": "6ac816cbf1f38f5672799060",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Apprenti(e) assistant(e) qualité (H/F/X) (H/F)",
+      "company": "POTEL ET CHABOT S A",
+      "city": "75016 Paris 16e Arrondissement",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/214ZCGP",
+      "description": "Nous sommes à la recherche d'un(e) alternant(e) souhaitant se former au métier d'assistant qualité au sein de la Maison Potel et Chabot.\n\nRattaché(e) à l'assistante qualité du site, vous aurez comme missions de :\n\nOptimiser le système de traçabilité existant.\nParticiper à l'application du plan de contrôle microbiologique et à son amélioration : nettoyage des mains, nettoyage des surfaces, désinfection des fruits &amp; légumes, etc.\nRéaliser des audits hygiène internes et externes et rédaction de leurs rapports.\n\nMissions complémentaires RSE :\n\nRespect du tri,\nRéduction du gaspillage,\nEconomie "
     }
   ]
 }
