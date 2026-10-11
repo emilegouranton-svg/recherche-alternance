@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-10-10T10:58:08.042230+00:00",
+  "last_run": "2026-10-11T11:15:31.782077+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -6466,6 +6466,20 @@
       "created_at": null,
       "apply_url": "https://r.holeest.com/redirect?jd_token=pJ2wXU&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F83192551.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D83192551",
       "description": "Vous rejoignez notre siège basé à Atton (54).  \n  \nIntégré(e) au service QSE et accompagné(e) par notre Responsable QSE, vous participerez au déploiement et au suivi de notre démarche Qualité, Sécurité et Environnement, en lien avec nos équipes et nos chantiers.  \n  \nNotre objectif : vous accompagner dans la montée en compétences sur les sujets QSE, tout en vous permettant de gagner progressivement en autonomie et de développer votre expérience professionnelle.  \n  \nVos principales missions :  \n  \n- Vous réalisez des audits chantiers  \n  \n- Vous vous assurez de la conformité et de la sécurité "
+    },
+    {
+      "id": "6acab6ebdab1251c1ae36062",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Alternance Chargé de Projet Qualité et Maintenance Industrielle H/F",
+      "company": "FACYLITIES MULTI SERVICES",
+      "city": "40300 Peyrehorade",
+      "department": null,
+      "diploma_level": "Master, titre ingénieur, grande école (Bac+5)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://r.holeest.com/redirect?jd_token=vvmhLm&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84296172.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Brecherche%26utm_content%3Dfluxbonnealternance%26utm_term%3D84296172",
+      "description": "Descriptions du poste :  \n  \nFMS Entreprise Adaptée recrute son/sa futur(e) alternant(e) Chargé(e) de qualité, process et suivi maintenance H/F pour son site de Peyrehorade.  \n Dans le cadre de votre alternance, vous accompagnerez les équipes dans l'amélioration et le suivi des processus industriels, de la maintenance ainsi que dans le déploiement des démarches Qualité, RSE et QHSE du site.  \n\nVos missions\n\n Suivi et amélioration des process industriels\n\n- Suivre et formaliser les process liés à l'utilisation des machines industrielles.\n- Créer et mettre à jour les supports et modes opératoire"
     }
   ]
 }
