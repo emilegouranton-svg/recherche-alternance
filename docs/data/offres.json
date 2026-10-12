@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-10-11T11:15:31.782077+00:00",
+  "last_run": "2026-10-12T12:47:35.975014+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -6480,6 +6480,20 @@
       "created_at": null,
       "apply_url": "https://r.holeest.com/redirect?jd_token=vvmhLm&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84296172.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Brecherche%26utm_content%3Dfluxbonnealternance%26utm_term%3D84296172",
       "description": "Descriptions du poste :  \n  \nFMS Entreprise Adaptée recrute son/sa futur(e) alternant(e) Chargé(e) de qualité, process et suivi maintenance H/F pour son site de Peyrehorade.  \n Dans le cadre de votre alternance, vous accompagnerez les équipes dans l'amélioration et le suivi des processus industriels, de la maintenance ainsi que dans le déploiement des démarches Qualité, RSE et QHSE du site.  \n\nVos missions\n\n Suivi et amélioration des process industriels\n\n- Suivre et formaliser les process liés à l'utilisation des machines industrielles.\n- Créer et mettre à jour les supports et modes opératoire"
+    },
+    {
+      "id": "6acc08c400af3511ff44b673",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Alternant HSE H/F",
+      "company": "RTSYS Monitoring Solutions",
+      "city": "56600 Lanester",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6acc08c400af3511ff44b673/alternant-hse-h-f",
+      "description": "Sous la responsabilité de la Responsable QSE, vous participerez activement à la mise en œuvre et au suivi des actions HSE au sein de l'entreprise. Vos missions seront variées et s'articuleront autour des axes suivants :\r\n\r\n \r\nParticipation à la mise en conformité réglementaire\r\n\r\n- Document Unique d'Évaluation des Risques Professionnels (DUERP) :Participer à l'identification et à l'évaluation des risques professionnels spécifiques au secteur (risques électrostatiques, travail sur bateau/ponton, missions chez les clients, etc.)\r\n- Mettre à jour le DUERP en collaboration avec les équipes opérati"
     }
   ]
 }
