@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-10-12T12:47:35.975014+00:00",
+  "last_run": "2026-10-13T12:29:11.828163+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -6494,6 +6494,34 @@
       "created_at": null,
       "apply_url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6acc08c400af3511ff44b673/alternant-hse-h-f",
       "description": "Sous la responsabilité de la Responsable QSE, vous participerez activement à la mise en œuvre et au suivi des actions HSE au sein de l'entreprise. Vos missions seront variées et s'articuleront autour des axes suivants :\r\n\r\n \r\nParticipation à la mise en conformité réglementaire\r\n\r\n- Document Unique d'Évaluation des Risques Professionnels (DUERP) :Participer à l'identification et à l'évaluation des risques professionnels spécifiques au secteur (risques électrostatiques, travail sur bateau/ponton, missions chez les clients, etc.)\r\n- Mettre à jour le DUERP en collaboration avec les équipes opérati"
+    },
+    {
+      "id": "6acd5c970226c9bf0008d12b",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Technicien en biotechnologie (H/F)",
+      "company": "Entreprise non précisée",
+      "city": "30390 Aramon",
+      "department": null,
+      "diploma_level": "Bac, Bac Pro, BP (Bac)",
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/214YPMS",
+      "description": "Vos missions :\nRéaliser les analyses en biochimie selon les monographies de contrôle et dans le respect des BPF\nRespecter les consignes et procédures \nSignaler tous dysfonctionnements et anomalies\nParticiper aux études de stabilités\nRenseigner les données brutes sur les documents de contrôle\nMaintenir la qualité de l'environnement...\nLe recrutement se déroulera en plusieurs étapes : \n* Réunion d'information sur les postes ,et la formation \n* Pour les candidats souhaitant poursuivre, passation de test de positionnement.\n* Apres analyse des résultats,  vous serez convoqué ultérieurement pour un "
+    },
+    {
+      "id": "6a346e667f27726a0497137b",
+      "sector": "sante_diagnostic",
+      "sector_label": "Santé et diagnostic",
+      "title": "Alternance - Technicien de Laboratoire H/F",
+      "company": "INSTITUT TECHNIQUE GAZ ET AIR",
+      "city": "35760 Saint-Grégoire",
+      "department": null,
+      "diploma_level": "CAP, BEP (Infrabac)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://r.holeest.com/redirect?jd_token=w62hk6&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F80302755.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bingenierie%252Cchimie%252Cbiotechnologie%252Cnautisme%252Caeronautique%26utm_content%3Dfluxbonnealternance%26utm_term%3D80302755",
+      "description": "Rejoins notre laboratoire en alternance à Saint-Grégoire (35) !\n\nTu souhaites évoluer dans un environnement scientifique dynamique tout en préparant ton diplôme ?\n\nViens partager notre quotidien au sein de notre laboratoire.\n\nIntégré(e) à l'équipe et accompagné(e) par ton responsable de laboratoire, tu participes activement à la préparation des échantillons en vue de leur analyse.\n\nTes missions principales :\n\n- Réaliser les différentes étapes de préparation des échantillons (prélèvement, broyage, dissolution...);\n- Assurer l'approvisionnement des postes de travail;\n- Effectuer la maintenance d"
     }
   ]
 }
