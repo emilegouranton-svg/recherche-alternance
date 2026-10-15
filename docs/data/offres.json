@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-10-14T09:56:35.589932+00:00",
+  "last_run": "2026-10-15T09:38:13.655670+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -6550,6 +6550,90 @@
       "created_at": null,
       "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/215DMPD",
       "description": "Tu souhaites apprendre un métier technique et intégrer une entreprise industrielle qui te formera à un véritable savoir-faire ?\n\nTu es rigoureux(se), curieux(se) et tu aimes le travail de précision ? Tu as envie de développer tes compétences et de contribuer à la qualité des produits fabriqués ? Cette opportunité est faite pour toi !\n\nDans le cadre d'un parcours de formation visant l'obtention du CQPM Agent de contrôle qualité à l'AFPA de Mulhouse, nous recrutons un(e) Agent de contrôle qualité (H/F) que nous accompagnerons dans l'apprentissage du métier.\n\nTes missions\nAccompagné(e) tout au lo"
+    },
+    {
+      "id": "6acfff90fcd49a2239d83518",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Technicien / Technicienne de laboratoire en contrôle qualité (H/F)",
+      "company": "Laboratoire MAYMAT",
+      "city": "03000 Moulins",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://jobs.layan.eu/fr/offer-of-laboratoire-maymat-no-114595/56",
+      "description": "L'apprenti Qualiticien contribue à l'amélioration de la performance du laboratoire et à la satisfaction de l'ensemble des parties prenantes (clients, comité de direction, personnel, fournisseurs et partenaires collectivités) en assurant le déploiement de la politique qualité fixée par la direction de l'entreprise.\nSes principales activités et responsabilités sont :\nFormaliser et gérer la documentation qualité\nSensibiliser et former le personnel à la qualité \nInformer et diffuser toutes les modifications de la documentation du système qualité\nParticiper aux actions suivantes : audits croisés, g"
+    },
+    {
+      "id": "6a346e667f27726a0497137a",
+      "sector": "sante_diagnostic",
+      "sector_label": "Santé et diagnostic",
+      "title": "Alternance - Technicien de Laboratoire H/F",
+      "company": "INSTITUT TECHNIQUE GAZ ET AIR",
+      "city": "69760 Limonest",
+      "department": null,
+      "diploma_level": "CAP, BEP (Infrabac)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://r.holeest.com/redirect?jd_token=wHbTqD&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F80302741.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bingenierie%252Cchimie%252Cbiotechnologie%252Cnautisme%252Caeronautique%26utm_content%3Dfluxbonnealternance%26utm_term%3D80302741",
+      "description": "Rejoins notre laboratoire en alternance à Limonest (69) !\n\nTu souhaites évoluer dans un environnement scientifique dynamique tout en préparant ton diplôme ?\n\nViens partager notre quotidien au sein de notre laboratoire.\n\nIntégré(e) à l'équipe et accompagné(e) par Rosa, tu participes activement à la préparation des échantillons en vue de leur analyse.\n\nTes missions principales :\n\n- Réaliser les différentes étapes de préparation des échantillons (prélèvement, broyage, dissolution...);\n- Assurer l'approvisionnement des postes de travail;\n- Effectuer la maintenance de premier niveau des équipements"
+    },
+    {
+      "id": "6acfff93fcd49a2239d83601",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Conseiller de prévention en risques industriels / Conseillère de  (H/F)",
+      "company": "Entreprise non précisée",
+      "city": "75012 Paris 12e Arrondissement",
+      "department": null,
+      "diploma_level": "Bac, Bac Pro, BP (Bac)",
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/215BFNZ",
+      "description": "Préventeur / Préventrice Conseil QHSE (F/H)\n\nVous serez au cœur de la Direction Qualité Santé Hygiène et Sécurité au sein de la CPCU où vous pourrez faire la différence pour un avenir plus durable pour tous.\n\nAccompagné(e) par le Directeur QHSE, vous assurerez la mise en œuvre de la démarche Qualité, Sécurité, Environnement, Energie. \n\n\nVos missions, si vous les acceptez : \n\nPréparation aux situations d'urgence\n- Révision de la procédure de gestion des accidents et des évènements graves\n- Rédaction du plan d'intervention qui définit les modalités d'information, d'intervention et, s'il y a lieu"
+    },
+    {
+      "id": "6ad000550bdf06aea298b845",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Alternant(e) HSE/QHSE - Prévention des risques et sécurité incendie H/F",
+      "company": "Fiducial",
+      "city": "Colomiers (31)",
+      "department": null,
+      "diploma_level": "Bac, Bac Pro, BP (Bac)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.meteojob.com/jobs/57492688?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "description": "Acteur majeur dans le domaine de la sécurité privée, FIDUCIAL SECURITE recherche deux alternant(e)s HSE/QHSE pour intervenir auprès de l'un de ses clients du secteur aéronautique, basé à Toulouse. <br/> <br/> <br/> Vous intégrerez un équipe spécialisée dans la prévention des risques industriels et la sécurité incendie, au sein d'un environnement technique exigeant. <br/> <br/> <br/> Accompagné(e) par des professionnels expérimentés, vous participerez aux activité de prévention, de contrôle et de suivi des dispositifs de sécurité sur différents sites industriels. <br/> <br/> <br/> Vos principal"
+    },
+    {
+      "id": "6acfa7a2eb1fb948b46aba3e",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "ALTERNANCE PREVENTION SST (H/F)",
+      "company": "COMETE-J.PARIS",
+      "city": "38280 Anthon",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.directemploi.com/candidatOffre/54782506?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
+      "description": "<p>Notre offre</p><p>En support de la Préventrice SST, vos principales missions seront les suivantes :</p><p>- Participer au maintien des certifications ISO 45001 :<br />- Tenir à jour les systèmes de management et améliorer en continu les performances<br />- Participer aux audits internes des systèmes de management, avec les auditeurs QHSE du pole (y compris audit chantier et audit de poste)<br />- Tenir à jour les tableaux de bord SST<br />- Assister les pilotes de processus à la préparation des revues de processus<br />- Participer aux audits externes avec l'organisme de certification ou le"
+    },
+    {
+      "id": "6acffcb20bdf06aea298685a",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Assistant QSE - Alternance H/F",
+      "company": "FIDUCIAL",
+      "city": "31000 Toulouse",
+      "department": null,
+      "diploma_level": "Licence, BUT, Licence Pro (Bac+3)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://r.holeest.com/redirect?jd_token=wRwx1K&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84428919.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84428919",
+      "description": "Fiducial Sécurité, entreprise leader dans le domaine de la sécurité, recherche activement un Assistant Qualité, Sécurité, Environnement (QSE) H/F en alternance, pour renforcer son équipe à Toulouse.  \n  \nAu sein d'une équipe QSE et en lien avec l'ensemble des acteurs internes et externes de l'entreprise, vous serez en charge de :   \n  \n- L'accompagnement de l'ensemble des opérationnels pour mettre en place les dispositifs nécessaires à la réalisation des performances QSE et à leurs évolutions en analysant les risques et les enjeux.  \n- La collaboration et la vérification des bonnes pratiques d"
     }
   ]
 }
