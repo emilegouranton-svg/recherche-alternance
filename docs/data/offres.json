@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-10-15T09:38:13.655670+00:00",
+  "last_run": "2026-10-16T09:31:16.845687+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -6634,6 +6634,20 @@
       "created_at": null,
       "apply_url": "https://r.holeest.com/redirect?jd_token=wRwx1K&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84428919.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84428919",
       "description": "Fiducial Sécurité, entreprise leader dans le domaine de la sécurité, recherche activement un Assistant Qualité, Sécurité, Environnement (QSE) H/F en alternance, pour renforcer son équipe à Toulouse.  \n  \nAu sein d'une équipe QSE et en lien avec l'ensemble des acteurs internes et externes de l'entreprise, vous serez en charge de :   \n  \n- L'accompagnement de l'ensemble des opérationnels pour mettre en place les dispositifs nécessaires à la réalisation des performances QSE et à leurs évolutions en analysant les risques et les enjeux.  \n- La collaboration et la vérification des bonnes pratiques d"
+    },
+    {
+      "id": "6ad1511cb846587f82fa5928",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Apprenti Alternant HSSE H/F",
+      "company": "VM INDUSTRIES",
+      "city": "31340 Villemur-sur-Tarn",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://www.lindustrie-recrute.fr/candidat/offre/835959?utm_source=NQ==",
+      "description": "- Évaluer les risques professionnels et environnementaux et proposer des actions de prévention adaptées.\n- Participer à la mise en œuvre et au suivi des programmes HSSE et des actions de prévention.\n- Réaliser des audits HSSE et veiller au respect des procédures internes et des exigences réglementaires.\n- Sensibiliser les collaborateurs aux bonnes pratiques en matière de santé, sécurité et environnement.\n- Analyser les accidents du travail et proposer des actions correctives et préventives.\n- Piloter le plan d'actions HSSE des chantiers et suivre les indicateurs de performance.\n- Assurer le su"
     }
   ]
 }
