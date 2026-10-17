@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-10-16T09:31:16.845687+00:00",
+  "last_run": "2026-10-17T09:01:54.072398+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -6648,6 +6648,34 @@
       "created_at": null,
       "apply_url": "https://www.lindustrie-recrute.fr/candidat/offre/835959?utm_source=NQ==",
       "description": "- Évaluer les risques professionnels et environnementaux et proposer des actions de prévention adaptées.\n- Participer à la mise en œuvre et au suivi des programmes HSSE et des actions de prévention.\n- Réaliser des audits HSSE et veiller au respect des procédures internes et des exigences réglementaires.\n- Sensibiliser les collaborateurs aux bonnes pratiques en matière de santé, sécurité et environnement.\n- Analyser les accidents du travail et proposer des actions correctives et préventives.\n- Piloter le plan d'actions HSSE des chantiers et suivre les indicateurs de performance.\n- Assurer le su"
+    },
+    {
+      "id": "6a346e667f27726a04971375",
+      "sector": "sante_diagnostic",
+      "sector_label": "Santé et diagnostic",
+      "title": "Alternance - Technicien de Laboratoire H/F",
+      "company": "INSTITUT TECHNIQUE GAZ ET AIR",
+      "city": "42153 Riorges",
+      "department": null,
+      "diploma_level": "CAP, BEP (Infrabac)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://r.holeest.com/redirect?jd_token=xX74wf&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F80302634.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bingenierie%252Cchimie%252Cbiotechnologie%252Cnautisme%252Caeronautique%26utm_content%3Dfluxbonnealternance%26utm_term%3D80302634",
+      "description": "Rejoins notre laboratoire en alternance à Riorges (42) !\n\nTu souhaites évoluer dans un environnement scientifique dynamique tout en préparant ton diplôme ?\n\nViens partager notre quotidien au sein de notre laboratoire.\n\nIntégré(e) à l'équipe, tu participes activement à la préparation des échantillons en vue de leur analyse.\n\nTes missions principales :\n\n- Réaliser les différentes étapes de préparation des échantillons (prélèvement, broyage, dissolution...);\n- Assurer l'approvisionnement des postes de travail;\n- Effectuer la maintenance de premier niveau des équipements;\n- Veiller au respect des "
+    },
+    {
+      "id": "6a346e667f27726a04971379",
+      "sector": "sante_diagnostic",
+      "sector_label": "Santé et diagnostic",
+      "title": "Alternance - Technicien de Laboratoire H/F",
+      "company": "INSTITUT TECHNIQUE GAZ ET AIR",
+      "city": "33000 Bordeaux",
+      "department": null,
+      "diploma_level": "CAP, BEP (Infrabac)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://r.holeest.com/redirect?jd_token=y68qZG&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F80302736.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bingenierie%252Cchimie%252Cbiotechnologie%252Cnautisme%252Caeronautique%26utm_content%3Dfluxbonnealternance%26utm_term%3D80302736",
+      "description": "Rejoins notre laboratoire en alternance à Bordeaux (33) !\n\nTu souhaites évoluer dans un environnement scientifique dynamique tout en préparant ton diplôme ?\n\nViens partager notre quotidien au sein de notre laboratoire.\n\nIntégré(e) à l'équipe et accompagné(e) par Océane, tu participes activement à la préparation des échantillons en vue de leur analyse.\n\nTes missions principales :\n\n- Réaliser les différentes étapes de préparation des échantillons (prélèvement, broyage, dissolution...);\n- Assurer l'approvisionnement des postes de travail;\n- Effectuer la maintenance de premier niveau des équipemen"
     }
   ]
 }
