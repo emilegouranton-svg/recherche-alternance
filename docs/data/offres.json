@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-10-21T09:51:01.698888+00:00",
+  "last_run": "2026-10-22T09:51:47.956378+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -6788,6 +6788,48 @@
       "created_at": null,
       "apply_url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6ad7e5d376e8f92c0ea52be1/alternant-hse-h-f",
       "description": "Basé(e) dans les Landes à Mimizan, vous assistez le Responsable QHSE, sur la mise en oeuvre de la politique et des actions de préventions des risques principalement dans le domaine HSE.\r\nVous participez à :\r\n\r\n- La mise à jour du document unique\r\n- L'évaluation des risques industriels et environnementaux et vous contribuez aux plans d'actions.\r\n- La réalisation des audits internes QHSE.\r\n- La mise en oeuvre du POI (plan opération interne) : finalisation des scénarios et fiches réflexes\r\n- La formation du personnel concerné au POI et fiches réflexes\r\n- L'actualisation des procédures d'évacuatio"
+    },
+    {
+      "id": "6ad93a16715e4cba3924e42d",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Assistant(e) Qualité H/F",
+      "company": "AUTOMATISMES C.G.",
+      "city": "61800 Tinchebray-Bocage",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://www.lindustrie-recrute.fr/candidat/offre/829865?utm_source=NQ==",
+      "description": "Cette offre d'emploi est confiée à France Travail par LINDUSTRIE-RECRUTE.FR\n\nEn tant qu'apprenti(e) Assistant(e) Qualité, tu intégreras notre pôle Qualité aux côtés de notre Responsable Qualité.\n\n\nEncadré(e) par notre Responsable Qualité, tu apprendras à :\n\n\n- Assister à la réalisation d'une veille active sur les normes et règlementations en matière de qualité.\n- Gérer la mise en œuvre, la formalisation et la révision des processus qualité certifiées au sein de l'entreprise.\n- Animer des sessions d'informations pour la mise en place et/ou le suivi des processus qualité.\n- Piloter ou participer"
+    },
+    {
+      "id": "6ad93a17715e4cba3924e44a",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Assistant(e) HSE H/F",
+      "company": "MOTEURS LEROY SOMER",
+      "city": "64230 Sauvagnon",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://www.lindustrie-recrute.fr/candidat/offre/832142?utm_source=NQ==",
+      "description": "Cette offre d'emploi est confiée à France Travail par LINDUSTRIE-RECRUTE.FR\n\nVous interviendrez en appui du Responsable QHSE sur les missions suivantes :\n\n\n-         Veille réglementaire en matière de sécurité et d'environnement (mise à jour des exigences applicables, suivi des évolutions légales et normatives)\n\n\n-         Analyse des Aspects Environnementaux Significatifs (AES) :\n\n\no   Identification et hiérarchisation des impacts\n\n\no   Suivi des actions de réduction\n\n\no   Mise à jour de la documentation associée\n\n\n-         Suivi des contrôles périodiques obligatoires :\n\n\no   Mise à jour et "
+    },
+    {
+      "id": "6ad93a13715e4cba3924e37f",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Apprenti Alternant HSSE H/F",
+      "company": "VM INDUSTRIES",
+      "city": "31340 Villemur-sur-Tarn",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://www.lindustrie-recrute.fr/candidat/offre/835959?utm_source=NQ==",
+      "description": "Cette offre d'emploi est confiée à France Travail par LINDUSTRIE-RECRUTE.FR\n\n- Évaluer les risques professionnels et environnementaux et proposer des actions de prévention adaptées.\n- Participer à la mise en œuvre et au suivi des programmes HSSE et des actions de prévention.\n- Réaliser des audits HSSE et veiller au respect des procédures internes et des exigences réglementaires.\n- Sensibiliser les collaborateurs aux bonnes pratiques en matière de santé, sécurité et environnement.\n- Analyser les accidents du travail et proposer des actions correctives et préventives.\n- Piloter le plan d'actions"
     }
   ]
 }
