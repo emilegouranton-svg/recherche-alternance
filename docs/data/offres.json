@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-10-26T10:47:21.889625+00:00",
+  "last_run": "2026-10-27T10:13:52.997698+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -6844,6 +6844,48 @@
       "created_at": null,
       "apply_url": "https://r.holeest.com/redirect?jd_token=ATHiAS&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84727786.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bingenierie%252Cchimie%252Cbiotechnologie%252Cnautisme%252Caeronautique%26utm_content%3Dfluxbonnealternance%26utm_term%3D84727786",
       "description": "Rejoins notre laboratoire en alternance à Arcueil (94) !\n\nTu souhaites évoluer dans un environnement scientifique dynamique tout en préparant ton diplôme ?\n\nViens partager notre quotidien au sein de notre laboratoire.\n\nIntégré(e) à l'équipe et accompagné(e) par Sinthuja, tu participes activement à la préparation des échantillons en vue de leur analyse.\n\nTes missions principales :\n\n- Réaliser les différentes étapes de préparation des échantillons (prélèvement, broyage, dissolution...);\n- Assurer l'approvisionnement des postes de travail;\n- Effectuer la maintenance de premier niveau des équipeme"
+    },
+    {
+      "id": "6ae06a43149b034bd05523be",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Responsable qualité conformité réglementaire",
+      "company": "MANITTY",
+      "city": "254 RUE VENDOME 69003 LYON",
+      "department": null,
+      "diploma_level": "Master, titre ingénieur, grande école (Bac+5)",
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6ae06a43149b034bd05523be/responsable-qualité-conformité-réglementaire",
+      "description": "Vos missions\n\nIntégré(e) à notre équipe R&amp;D, vous contribuerez au développement et à la structuration de notre système qualité, ainsi qu’à la mise en conformité réglementaire de nos dispositifs médicaux.\n\n1. Management de la qualité (ISO 13485)\n\n- Participer à la mise en place, au déploiement et à l’amélioration du Système de Management de la Qualité (SMQ).\n- Rédiger et mettre à jour les procédures, instructions et documents qualité.\n- Contribuer à la gestion documentaire, à la traçabilité et au suivi des non-conformités et actions correctives/préventives (CAPA).\n- Participer à la préparat"
+    },
+    {
+      "id": "6adfdf3ebfbdb64c1a692f12",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Technicien / Technicienne en Hygiène, Sécurité, Environnement ind (H/F)",
+      "company": "BENALU",
+      "city": "62800 Liévin",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://www.lindustrie-recrute.fr/candidat/offre/832378?utm_source=NQ==",
+      "description": "Cette offre d'emploi est confiée à France Travail par LINDUSTRIE-RECRUTE.FR\n\nPlacé(e) sous la responsabilité d'un manager, vous avez pour missions de contribuer à la prévention des risques professionnels et à la gestion des impacts environnementaux :\n\n\n- Sécurité         \n\n\n-        Mise à jour du Document Unique (DUERP)\n\n\n-        Participation à l'analyse d'incidents / d'accidents\n\n\n-        Sensibilisation des collaborateurs à la Sécurité (EPI, bonnes pratiques)\n\n\n-        Création de documents sécurité\n\n\n-        Risque chimique : collecte de données\n\n\n- Environnement\n\n\n-        Suivi de l"
+    },
+    {
+      "id": "6adfe01bec4f5594ab3ee8f6",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Stage QHSE (H/F)",
+      "company": "Aprojob Romans - Valence",
+      "city": "26500 Bourg-lès-Valence",
+      "department": null,
+      "diploma_level": "Licence, BUT, Licence Pro (Bac+3)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.meteojob.com/jobs/57717175?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "description": "Dans le cadre d'un projet d'amélioration de la prévention des risques professionnels, nous recherchons un(e) stagiaire pour réaliser un état des lieux des pratiques existantes, analyser les données relatives aux accidents du travail et contribuer à la mise en place de nouveaux outils et dispositifs de prévention. <br /> <br /> <br /> L'objectif principal sera de concevoir un processus sécurité structuré, opérationnel et facilement intégrable au fonctionnement quotidien d'une agence d'intérim, en tenant compte des contraintes de réactivité propres au secteur du travail temporaire. <br /> <br />"
     }
   ]
 }
