@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-10-27T10:13:52.997698+00:00",
+  "last_run": "2026-10-28T11:00:29.024929+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -6886,6 +6886,34 @@
       "created_at": null,
       "apply_url": "https://www.meteojob.com/jobs/57717175?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
       "description": "Dans le cadre d'un projet d'amélioration de la prévention des risques professionnels, nous recherchons un(e) stagiaire pour réaliser un état des lieux des pratiques existantes, analyser les données relatives aux accidents du travail et contribuer à la mise en place de nouveaux outils et dispositifs de prévention. <br /> <br /> <br /> L'objectif principal sera de concevoir un processus sécurité structuré, opérationnel et facilement intégrable au fonctionnement quotidien d'une agence d'intérim, en tenant compte des contraintes de réactivité propres au secteur du travail temporaire. <br /> <br />"
+    },
+    {
+      "id": "6adf3248bbefc38a6ceca42d",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "ASSISTANT TECHNICIEN LABORATOIRE",
+      "company": "SBIE ENROBES",
+      "city": "218 RUE ANTOINE FELIX LEVENEUR 97410 SAINT-PIERRE",
+      "department": null,
+      "diploma_level": "BTS, DEUST (Bac+2)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6adf3248bbefc38a6ceca42d/assistant-technicien-laboratoire",
+      "description": "Au sein de SBIE Enrobés et intégré(e) au laboratoire constitué de deux personnes, vous serez sous la responsabilité du Responsable Laboratoire.\nVous serez responsable des essais que vous réaliserez au sein du laboratoire, du respect du planning d’essais, et participerez au suivi qualité des usines de production (enrobés chauds, enrobés froids, émulsions).\nPar vos interventions, vous avez pour mission d’alerter le Responsable Laboratoire sur d’éventuels écarts et contribuer à apporter des éléments pour respecter les dispositions techniques retenues.\nDe manière non exhaustive, vos fonctions couv"
+    },
+    {
+      "id": "6ae12e24ec4f5594ab3f2e30",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Alternant Qualite Licence ou Master H/F",
+      "company": "LCOMMERCE",
+      "city": "78700 Conflans-Sainte-Honorine",
+      "department": null,
+      "diploma_level": "Master, titre ingénieur, grande école (Bac+5)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://r.holeest.com/redirect?jd_token=Bz2XL6&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84845230.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84845230",
+      "description": "Vous serez rattaché(e) au Responsable Qualié et votre principale mission est la suivante :\n\nConcevoir, animer et faire évoluer la politique qualité de l'entreprise pour garantir la satisfaction client, la conformité réglementaire et l'amélioration continue des processus."
     }
   ]
 }
