@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-10-28T11:00:29.024929+00:00",
+  "last_run": "2026-10-29T11:19:27.271075+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -6914,6 +6914,20 @@
       "created_at": null,
       "apply_url": "https://r.holeest.com/redirect?jd_token=Bz2XL6&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84845230.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84845230",
       "description": "Vous serez rattaché(e) au Responsable Qualié et votre principale mission est la suivante :\n\nConcevoir, animer et faire évoluer la politique qualité de l'entreprise pour garantir la satisfaction client, la conformité réglementaire et l'amélioration continue des processus."
+    },
+    {
+      "id": "6ae282a7bfbdb64c1a6a0953",
+      "sector": "sante_diagnostic",
+      "sector_label": "Santé et diagnostic",
+      "title": "TECHNICIEN BTS BIOLOGIE MEDICALE POSTE EN ALTERNANCE (H/F)",
+      "company": "SELARL DE DIRECTEURS ET DIRECTEURS ADJOINTS DE LABORATOIRES D ANALYSES DE BIOLOGIE MEDICALE AYMAR RIVE GAUCHE",
+      "city": "75013 Paris 13e Arrondissement",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage",
+      "created_at": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/215TLDX",
+      "description": "Nous recherchons un technicien ou une technicienne d'analyse en biologie médicale en alternance pour rejoindre notre laboratoire. En tant que professionnel(le) de santé, vous serez responsable de réaliser des analyses biologiques dans le respect des protocoles et des normes en vigueur. Vous intégrerez une équipe dynamique et engagée, dédiée à la qualité et à la précision des résultats. Ce poste offre l'opportunité de contribuer à la prise en charge médicale en assurant un travail rigoureux dans un environnement moderne et stimulant et d'obtenir un diplome valorisé assorti d'une formation prati"
     }
   ]
 }
