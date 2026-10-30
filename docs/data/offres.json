@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-10-29T11:19:27.271075+00:00",
+  "last_run": "2026-10-30T11:11:58.318149+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -6928,6 +6928,34 @@
       "created_at": null,
       "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/215TLDX",
       "description": "Nous recherchons un technicien ou une technicienne d'analyse en biologie médicale en alternance pour rejoindre notre laboratoire. En tant que professionnel(le) de santé, vous serez responsable de réaliser des analyses biologiques dans le respect des protocoles et des normes en vigueur. Vous intégrerez une équipe dynamique et engagée, dédiée à la qualité et à la précision des résultats. Ce poste offre l'opportunité de contribuer à la prise en charge médicale en assurant un travail rigoureux dans un environnement moderne et stimulant et d'obtenir un diplome valorisé assorti d'une formation prati"
+    },
+    {
+      "id": "6ae3d123ec4f5594ab404732",
+      "sector": "cosmetique",
+      "sector_label": "Cosmétique",
+      "title": "BTS Metiers de l'Esthetique de la Cosmetique et de la Parfumerie H/F",
+      "company": "HELLOWORK",
+      "city": "75001 Paris",
+      "department": null,
+      "diploma_level": "BTS, DEUST (Bac+2)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://r.holeest.com/redirect?jd_token=BVil6B&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84918627.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bingenierie%252Cchimie%252Cbiotechnologie%252Cnautisme%252Caeronautique%26utm_content%3Dfluxbonnealternance%26utm_term%3D84918627",
+      "description": "Les secteurs de la cosmétique, de l'esthétique et de la parfumerie ont un poids important au sein de l'économie française. Ces secteurs sont en constante croissance et évolution. L'évolution des produits, des techniques et l'apparition de nouveaux équipements conjugués à la digitalisation des activités, exige une capacité d'adaptation des professionnels.\n\nL'intitulé du BTS Métiers de l'esthétique, de la cosmétique et de la parfumerie souligne la double dimension de ce diplôme. L'acquisition d'une connaissance approfondie du produit cosmétique et de sa commercialisation, sous les aspects tant s"
+    },
+    {
+      "id": "6ae3d125ec4f5594ab404775",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Assistant HSE en Alternance ou Stage Longue Durée H/F",
+      "company": "HDI - HENRY DESJONQUERES INDUSTRIES",
+      "city": "76470 Le Tréport",
+      "department": null,
+      "diploma_level": "BTS, DEUST (Bac+2)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://r.holeest.com/redirect?jd_token=C5gBYC&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84941916.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84941916",
+      "description": "Le groupe Henry Desjonquères Industries est le partenaire de référence dans l'usinage de précision et dans les techniques d'optimisation des surfaces pour ses clients qui sont les grands donneurs d'ordre des secteurs de l'aéronautique, de l'énergie, de la défense et de la verrerie.\n\nLe Groupe HDI recrute :\n\nUn assistant HSE H/F\n\nEn alternance ou stage longue durée\n\nVOS MISSIONS :\n\nSous la responsabilité du directeur qualité groupe et en lien avec les 4 responsables qualité-sécurité eux-mêmes en charge des missions en santé, sécurité et conditions de travail sur leurs sites respectifs, l'altern"
     }
   ]
 }
