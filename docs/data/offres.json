@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-10-31T10:44:43.364290+00:00",
+  "last_run": "2026-11-01T11:41:51.304059+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -6984,6 +6984,20 @@
       "created_at": null,
       "apply_url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6ae522f6ec4f5594ab40e7b3/assistant-hse-h-f-en-alternance-ou-stage-longue-durée",
       "description": "Le groupe Henry Desjonquères Industries est le partenaire de référence dans l'usinage de précision et dans les techniques d'optimisation des surfaces pour ses clients qui sont les grands donneurs d'ordre des secteurs de l'aéronautique, de l'énergie, de la défense et de la verrerie.\r\n\r\n Le Groupe HDI recrute :\r\nUn assistant HSE H/F\r\nEn alternance ou stage longue durée\r\n\r\n \r\nVOS MISSIONS :\r\nSous la responsabilité du directeur qualité groupe et en lien avec les 4 responsables qualité-sécurité eux-mêmes en charge des missions en santé, sécurité et conditions de travail sur leurs sites respectifs, "
+    },
+    {
+      "id": "69a76881c598ecf02dca4643",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Animateur Qualité Sécurité H/F",
+      "company": "SARL DIPAN FRANCE",
+      "city": "91370 Verrières-le-Buisson",
+      "department": null,
+      "diploma_level": "BTS, DEUST (Bac+2)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://r.holeest.com/redirect?jd_token=pJ2wZF&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F76317555.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D76317555",
+      "description": "DIPAN, filiale de STEM Groupe, recherche un(e) Animateur(trice) Qualité &amp; Sécurité en alternance H/F, basé(e) à Verrières-le-Buisson (91).\n\nDIPAN est aujourd'hui pleinement engagée dans la préparation de son audit de certification ISO 9001, dont les principales étapes ont déjà été engagées et structurées. Dans ce contexte, nous recherchons une personne souhaitant s'investir dans un projet concret et stratégique, avec pour objectif de poursuivre le travail déjà réalisé et de contribuer à mener le projet jusqu'à son aboutissement : la préparation et la réussite de l'audit de certification IS"
     }
   ]
 }
