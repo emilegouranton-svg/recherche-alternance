@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-02T13:09:25.968272+00:00",
+  "last_run": "2026-11-03T12:38:37.416069+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -7012,6 +7012,48 @@
       "created_at": null,
       "apply_url": "https://www.meteojob.com/jobs/57840065?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
       "description": "<p>  Référence : AA1556HL  <br />  Rattaché à l'unité Essais du département, vous intégrerez une équipe hautement qualifiée qui rassemble les ingénieurs, les programmeurs et les techniciens d'essais chargés de mener à bien les expérimentations dans nos installations d'essais.  <br />  Avec l'appui d'un ou plusieurs techniciens expérimentés, vos missions seront les suivantes :  <br />  Préparation &amp; Contrôle :  <br />  Paramétrer les programmes de traitement et contrôler la qualité des résultats en amont des phases d'essais (VBA / Python) ;  <br />  Traitement en temps réel :  <br />  Colle"
+    },
+    {
+      "id": "6ae91ac6cc766074572b4b53",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Alternant technicien calculs données d'essais F/H",
+      "company": "ONERA",
+      "city": "73500 Modane",
+      "department": null,
+      "diploma_level": "Bac, Bac Pro, BP (Bac)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.meteojob.com/jobs/57856278?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "description": "Rattaché à l'unité Essais du département, vous intégrerez une équipe hautement qualifiée qui rassemble les ingénieurs, les programmeurs et les techniciens d'essais chargés de mener à bien les expérimentations dans nos installations d'essais. <br /> <br /> <br /> Avec l'appui d'un ou plusieurs techniciens expérimentés, vos missions seront les suivantes : <br /> <br /> <br /> Préparation &amp; Contrôle : <br /> <br /> <br /> Paramétrer les programmes de traitement et contrôler la qualité des résultats en amont des phases d'essais (VBA / Python) ; <br /> <br /> <br /> Traitement en temps réel : <"
+    },
+    {
+      "id": "6ae9172acc766074572b448a",
+      "sector": "sante_diagnostic",
+      "sector_label": "Santé et diagnostic",
+      "title": "Alternant Technicien Laboratoire Validation - Cem H/F",
+      "company": "ELECTRICFIL AUTOMOTIVE",
+      "city": "01700 Beynost",
+      "department": null,
+      "diploma_level": "BTS, DEUST (Bac+2)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://r.holeest.com/redirect?jd_token=CJEwDR&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85035878.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bingenierie%252Cchimie%252Cbiotechnologie%252Cnautisme%252Caeronautique%26utm_content%3Dfluxbonnealternance%26utm_term%3D85035878",
+      "description": "Nous recherchons un(e) alternant(e) Technicien(ne) Laboratoire Validation / CEM pour rejoindre notre laboratoire de Vérification et Validation pour une durée de deux ans au minimum\n\nAu sein d'une équipe de professionnels expérimentés, vous participerez à des projets variés et stimulants dans un environnement technique couvrant plusieurs domaines d'expertise : essais CEM, moyens de test, validation produit, expertise, essais vibratoires, RFQ et essais environnementaux.\n\nL'objectif de cette alternance est de vous permettre d'acquérir les compétences nécessaires pour évoluer vers le métier de Tec"
+    },
+    {
+      "id": "6ae91727cc766074572b442b",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Assistant Sécurité H/F",
+      "company": "COOPERATIVE D'EXPLOITATION ET DE REPARTITION PHARMACEUTIQUE DE BRETAGNE ATLANTIQUE",
+      "city": "22000 Saint-Brieuc",
+      "department": null,
+      "diploma_level": "Master, titre ingénieur, grande école (Bac+5)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://r.holeest.com/redirect?jd_token=CLxYhn&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85039424.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D85039424",
+      "description": "Rattaché(e) à la Responsable HSE Groupe, vous contribuerez activement à la prévention des risques professionnels et à l'amélioration continue des conditions de travail au sein de nos différents sites et agences.\n\nVotre mission principale portera sur l'évaluation des risques professionnels et la mise à jour du DUERP, à travers les activités suivantes :\n\n- Réaliser les évaluations des risques professionnels sur les différents sites et agences\n- Effectuer des observations terrain et des études de postes afin d'identifier les situations à risque\n- Identifier les dangers, analyser les risques et év"
     }
   ]
 }
