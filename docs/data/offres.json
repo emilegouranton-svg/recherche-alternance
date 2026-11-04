@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-03T12:38:37.416069+00:00",
+  "last_run": "2026-11-04T12:48:03.138621+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -7054,6 +7054,62 @@
       "created_at": null,
       "apply_url": "https://r.holeest.com/redirect?jd_token=CLxYhn&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85039424.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D85039424",
       "description": "Rattaché(e) à la Responsable HSE Groupe, vous contribuerez activement à la prévention des risques professionnels et à l'amélioration continue des conditions de travail au sein de nos différents sites et agences.\n\nVotre mission principale portera sur l'évaluation des risques professionnels et la mise à jour du DUERP, à travers les activités suivantes :\n\n- Réaliser les évaluations des risques professionnels sur les différents sites et agences\n- Effectuer des observations terrain et des études de postes afin d'identifier les situations à risque\n- Identifier les dangers, analyser les risques et év"
+    },
+    {
+      "id": "6aea6b9ecc766074572b5521",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Alternance - Technicien de laboratoire F/H - ITGA",
+      "company": "ITGA",
+      "city": "29000 Quimper",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://careers.werecruit.io/fr/itga/offres/alternance---technicien-de-laboratoire--fh-a92dca?utm_source=francetravail&utm_medium=job-board",
+      "description": "Rejoins notre laboratoire en alternance à Brest (29) !\n \n \n \nTu souhaites évoluer dans un environnement scientifique dynamique tout en préparant ton diplôme ?\n \nViens partager notre quotidien au sein de notre laboratoire.\n \nIntégré(e) à l'équipe et accompagné(e) par Virginie, tu participes activement à la préparation des échantillons en vue de leur analyse.\n \n \n \nTes missions principales :\n \n- Réaliser les différentes étapes de préparation des échantillons (prélèvement, broyage, dissolution.); \n- Assurer l'approvisionnement des postes de travail; \n- Effectuer la maintenance de premier niveau d"
+    },
+    {
+      "id": "6aea6c5dcc766074572b57ce",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Alternant technicien calculs données d'essais F/H - H/F",
+      "company": "UIMM",
+      "city": "73500 Modane",
+      "department": null,
+      "diploma_level": "Licence, BUT, Licence Pro (Bac+3)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.meteojob.com/jobs/57871665?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "description": "<p>  Référence : AA1582KH  <br />  Rattaché à l'unité Essais du département, vous intégrerez une équipe hautement qualifiée qui rassemble les ingénieurs, les programmeurs et les techniciens d'essais chargés de mener à bien les expérimentations dans nos installations d'essais.  <br />  Avec l'appui d'un ou plusieurs techniciens expérimentés, vos missions seront les suivantes :  <br />  Préparation &amp; Contrôle :  <br />  Paramétrer les programmes de traitement et contrôler la qualité des résultats en amont des phases d'essais (VBA / Python) ;  <br />  Traitement en temps réel :  <br />  Colle"
+    },
+    {
+      "id": "6aea68adcc766074572b4c6b",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Alternant Technicien Calculs Données d'Essais H/F",
+      "company": "OFF NAT ETUDES RECHERCHES AEROSPATIALES",
+      "city": "73500 Modane",
+      "department": null,
+      "diploma_level": "BTS, DEUST (Bac+2)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://r.holeest.com/redirect?jd_token=CTSAyD&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85082209.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bfinance%252Caudit%26utm_content%3Dfluxbonnealternance%26utm_term%3D85082209",
+      "description": "Rattaché à l'unité Essais du département, vous intégrerez une équipe hautement qualifiée qui rassemble les ingénieurs, les programmeurs et les techniciens d'essais chargés de mener à bien les expérimentations dans nos installations d'essais.  \n  \nAvec l'appui d'un ou plusieurs techniciens expérimentés, vos missions seront les suivantes :  \n  \nPréparation &amp; Contrôle :  \nParamétrer les programmes de traitement et contrôler la qualité des résultats en amont des phases d'essais (VBA / Python) ;  \nTraitement en temps réel :  \nCollecter et prétraiter les données de mesures durant les campagnes d"
+    },
+    {
+      "id": "6aea68b1cc766074572b4d2e",
+      "sector": "sante_diagnostic",
+      "sector_label": "Santé et diagnostic",
+      "title": "Alternance - Technicien de Laboratoire H/F",
+      "company": "INSTITUT TECHNIQUE GAZ ET AIR",
+      "city": "29200 Brest",
+      "department": null,
+      "diploma_level": "CAP, BEP (Infrabac)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://r.holeest.com/redirect?jd_token=D5F16i&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85117677.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bingenierie%252Cchimie%252Cbiotechnologie%252Cnautisme%252Caeronautique%26utm_content%3Dfluxbonnealternance%26utm_term%3D85117677",
+      "description": "Rejoins notre laboratoire en alternance à Brest (29) !\n\nTu souhaites évoluer dans un environnement scientifique dynamique tout en préparant ton diplôme ?\n\nViens partager notre quotidien au sein de notre laboratoire.\n\nIntégré(e) à l'équipe et accompagné(e) par Virginie, tu participes activement à la préparation des échantillons en vue de leur analyse.\n\nTes missions principales :\n\n- Réaliser les différentes étapes de préparation des échantillons (prélèvement, broyage, dissolution...);\n- Assurer l'approvisionnement des postes de travail;\n- Effectuer la maintenance de premier niveau des équipement"
     }
   ]
 }
