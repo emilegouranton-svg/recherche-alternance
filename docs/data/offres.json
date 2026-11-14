@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-13T12:52:52.218071+00:00",
+  "last_run": "2026-11-14T11:57:01.269064+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -7180,6 +7180,48 @@
       "created_at": null,
       "apply_url": "https://r.holeest.com/redirect?jd_token=EDgeFw&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85393792.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D85393792",
       "description": "Bastide Médical est un groupe français, expert de la santé à domicile. Depuis plus de 45 ans, nous accompagnons les patients partout en France grâce à nos prestations dans les domaines de la respiration, la perfusion, la nutrition, la stomathérapie, l'urologie, et le maintien à domicile.  \nRejoindre Bastide, c'est intégrer une entreprise humaine, en pleine croissance, où les valeurs de respect, d'engagement et de bienveillance guident nos actions au quotidien.\n\nDans le cadre de notre développement, nous recherchons un(e) :  \n Alternant QHSE - Projet Qualité - Traçabilité &amp; Conformité H/F, "
+    },
+    {
+      "id": "6af797966c7c8924df537117",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Animateur Qualité - Equipe Après-Midi H/F",
+      "company": "G E P CENTRE EST",
+      "city": "01100 Bellignat",
+      "department": null,
+      "diploma_level": "CAP, BEP (Infrabac)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://r.holeest.com/redirect?jd_token=FgsphX&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85490528.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D85490528",
+      "description": "Votre rôle : Garantir la qualité à chaque étape  \n  \nAu quotidien, vous veillez à ce que chaque production démarre dans les bonnes conditions et reste conforme jusqu'à sa finalisation. Vos principales responsabilités seront :  \n  \n- Assurer le passage de consignes avec le contrôleur de l'équipe précédente afin de garantir la continuité du suivi qualité.  \n  \n- Vérifier les habilitations des opérateurs sur les produits concernés.  \n  \n- Réaliser les contrôles au démarrage des productions, puis tout au long de la fabrication, notamment à l'aide des moyens de contrôle 2D/3D.  \n  \n- Vérifier les p"
+    },
+    {
+      "id": "6af103e9cc766074572b75d2",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Stagiaire Technicien de laboratoire H/F",
+      "company": "UIMM",
+      "city": "44340 Bouguenais",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.meteojob.com/jobs/57970759?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "description": "<p>  Référence : AA1584JE  <br />  <br />  Qui sommes nous ?  <br />  <br />  Avionneur, industriel, prestataire de services industriels et logisticien, Daher compte aujourd'hui environ 14 500 collaborateurs pour un chiffre d'affaires de 1,9 milliard d'euros en 2025. Fort de son actionnariat familial, Daher est tourné vers l'innovation depuis sa création en 1863. Avec des implantations dans une quinzaine de pays, en Europe, en Amérique du Nord et en Asie, Daher conçoit et développe des solutions à valeur ajoutée pour ses clients et partenaires aéronautiques et industriels.  <br />  <br />  Nos"
+    },
+    {
+      "id": "6af251ebcc766074572b76d6",
+      "sector": "environnement",
+      "sector_label": "Environnement",
+      "title": "Alternant HSE H/F",
+      "company": "GASCOGNE",
+      "city": "40200 Mimizan",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6af251ebcc766074572b76d6/alternant-hse-h-f",
+      "description": "Basé(e) dans les Landes à Mimizan, vous assistez le Responsable QHSE, sur la mise en oeuvre de la politique et des actions de préventions des risques principalement dans le domaine HSE.\nVous participez à :\n\n- La mise à jour du document unique\n- L'évaluation des risques industriels et environnementaux et vous contribuez aux plans d'actions.\n- La réalisation des audits internes QHSE.\n- La mise en oeuvre du POI (plan opération interne) : finalisation des scénarios et fiches réflexes\n- La formation du personnel concerné au POI et fiches réflexes\n- L'actualisation des procédures d'évacuation\n- La m"
     }
   ]
 }
