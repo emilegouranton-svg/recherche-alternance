@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-15T12:31:04.273150+00:00",
+  "last_run": "2026-11-16T13:23:19.674312+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -7222,6 +7222,20 @@
       "created_at": null,
       "apply_url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6af251ebcc766074572b76d6/alternant-hse-h-f",
       "description": "Basé(e) dans les Landes à Mimizan, vous assistez le Responsable QHSE, sur la mise en oeuvre de la politique et des actions de préventions des risques principalement dans le domaine HSE.\nVous participez à :\n\n- La mise à jour du document unique\n- L'évaluation des risques industriels et environnementaux et vous contribuez aux plans d'actions.\n- La réalisation des audits internes QHSE.\n- La mise en oeuvre du POI (plan opération interne) : finalisation des scénarios et fiches réflexes\n- La formation du personnel concerné au POI et fiches réflexes\n- L'actualisation des procédures d'évacuation\n- La m"
+    },
+    {
+      "id": "6afafdb9ee1d9169d47508be",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Coordinateur R&amp;D H/F",
+      "company": "VYGON",
+      "city": "95440 Écouen",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.aplitrak.com/?adid=cmguNjU4NzIuMTM2ODBAdnlnb24uYXBsaXRyYWsuY29t",
+      "description": "Rejoignez Vygon et contribuez à une mission qui a du sens : Value Life. \r\n\r\nNous imaginons et produisons des dispositifs médicaux en maîtrisant chaque maillon de la chaîne de valeur, de la conception à la distribution, s'appuyant sur 26 filiales, 11 sites de production dont 8 en Europe.\r\n\r\nEntrer chez Vygon, c'est rejoindre un groupe international mais aussi une entreprise familiale et indépendante. Grâce à nos 2619 collaborateurs dans le monde, Vygon fournit près de 210 millions de dispositifs médicaux chaque année.\r\n\r\nChez Vygon, l'intégrité, l'engagement, l'ouverture d'esprit, la recherche "
     }
   ]
 }
