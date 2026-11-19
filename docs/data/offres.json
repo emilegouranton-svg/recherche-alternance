@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-18T13:41:09.273304+00:00",
+  "last_run": "2026-11-19T14:08:28.571647+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -7236,6 +7236,34 @@
       "created_at": null,
       "apply_url": "https://www.aplitrak.com/?adid=cmguNjU4NzIuMTM2ODBAdnlnb24uYXBsaXRyYWsuY29t",
       "description": "Rejoignez Vygon et contribuez à une mission qui a du sens : Value Life. \r\n\r\nNous imaginons et produisons des dispositifs médicaux en maîtrisant chaque maillon de la chaîne de valeur, de la conception à la distribution, s'appuyant sur 26 filiales, 11 sites de production dont 8 en Europe.\r\n\r\nEntrer chez Vygon, c'est rejoindre un groupe international mais aussi une entreprise familiale et indépendante. Grâce à nos 2619 collaborateurs dans le monde, Vygon fournit près de 210 millions de dispositifs médicaux chaque année.\r\n\r\nChez Vygon, l'intégrité, l'engagement, l'ouverture d'esprit, la recherche "
+    },
+    {
+      "id": "6afe3272de83093b496e9fda",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Contrôleur Qualité (h/f)",
+      "company": "ADECCO",
+      "city": "33700 Mérignac",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.meteojob.com/jobs/58148127?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "description": "Formation CQPM Inspecteur Qualité Aéronautique (H/F)Rejoignez l'aéronautique avec un parcours sécurisé en CDI Intérimaire <p>  Adecco recrute des candidats souhaitant intégrer une formation qualifiante de  <strong>CQPM Inspecteur Qualité Aéronautique</strong>  , préparant à un métier stratégique au cœur de la qualité et de la sécurité aéronautique. </p> Une opportunité unique <p>  Le parcours de formation ainsi que les futures périodes de mission seront encadrés par un  <strong>CDI Intérimaire Adecco</strong>  , vous permettant de bénéficier : </p> <ul>  <li>D'un accompagnement personnalisé to"
+    },
+    {
+      "id": "6afe3272de83093b496e9fbb",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Alternant technicien calculs données d'essais F/H - H/F",
+      "company": "UIMM",
+      "city": "73500 Modane",
+      "department": null,
+      "diploma_level": "Licence, BUT, Licence Pro (Bac+3)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://www.meteojob.com/jobs/58137902?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "description": "<p>  Référence : AA1582KH  <br />  <br />  Rattaché à l'unité Essais du département, vous intégrerez une équipe hautement qualifiée qui rassemble les ingénieurs, les programmeurs et les techniciens d'essais chargés de mener à bien les expérimentations dans nos installations d'essais.  <br />  <br />  Avec l'appui d'un ou plusieurs techniciens expérimentés, vos missions seront les suivantes :  <br />  <br />  Préparation &amp; Contrôle :  <br />  <br />  Paramétrer les programmes de traitement et contrôler la qualité des résultats en amont des phases d'essais (VBA / Python) ;  <br />  <br />  T"
     }
   ]
 }
