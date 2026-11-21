@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-20T13:51:33.543025+00:00",
+  "last_run": "2026-11-21T13:15:25.126745+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -7264,6 +7264,20 @@
       "created_at": null,
       "apply_url": "https://www.meteojob.com/jobs/58137902?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
       "description": "<p>  Référence : AA1582KH  <br />  <br />  Rattaché à l'unité Essais du département, vous intégrerez une équipe hautement qualifiée qui rassemble les ingénieurs, les programmeurs et les techniciens d'essais chargés de mener à bien les expérimentations dans nos installations d'essais.  <br />  <br />  Avec l'appui d'un ou plusieurs techniciens expérimentés, vos missions seront les suivantes :  <br />  <br />  Préparation &amp; Contrôle :  <br />  <br />  Paramétrer les programmes de traitement et contrôler la qualité des résultats en amont des phases d'essais (VBA / Python) ;  <br />  <br />  T"
+    },
+    {
+      "id": "6b00d4aade83093b496eace2",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Contrôleur qualité (H/F)",
+      "company": "G E P CENTRE EST",
+      "city": "01100 Bellignat",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://candidat.francetravail.fr/offres/recherche/detail/216QGBB",
+      "description": "Votre mission consiste à valider la conformité des produits pour garantir le respect des exigences réglementaires et clients. Vous réalisez le contrôle à toutes les étapes du process de fabrication sur la base du plan de surveillance.\nPlus particulièrement, vous réaliser les tâches suivantes :\n- Le passage de consigne avec le contrôleur de l'équipe précédente\n- La vérification des habilitations aux produits des opérateurs\n- Le contrôle aux démarrage de production et tout le long de la production (notamment 2D/3D)\n- La vérifi cation des prélèvements de produits et la validation selon la documen"
     }
   ]
 }
