@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-25T15:19:08.681166+00:00",
+  "last_run": "2026-11-26T14:45:40.988699+00:00",
   "note": "Données de démonstration — seront remplacées par les vraies offres au premier passage de l'automatisation GitHub Actions.",
   "offres": [
     {
@@ -7292,6 +7292,62 @@
       "created_at": null,
       "apply_url": "https://www.meteojob.com/jobs/58242500?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
       "description": "<p>  Référence : AA1584JE  <br />  <br />  Qui sommes nous ?  <br />  <br />  Avionneur, industriel, prestataire de services industriels et logisticien, Daher compte aujourd'hui environ 14 500 collaborateurs pour un chiffre d'affaires de 1,9 milliard d'euros en 2025. Fort de son actionnariat familial, Daher est tourné vers l'innovation depuis sa création en 1863. Avec des implantations dans une quinzaine de pays, en Europe, en Amérique du Nord et en Asie, Daher conçoit et développe des solutions à valeur ajoutée pour ses clients et partenaires aéronautiques et industriels.  <br />  <br />  Nos"
+    },
+    {
+      "id": "6b076c2b01bbb0090c4b3bb2",
+      "sector": "pharma",
+      "sector_label": "Industrie pharmaceutique",
+      "title": "Alternance - Technicien de laboratoire F/H - ITGA",
+      "company": "INSTITUT TECHNIQUE GAZ ET AIR",
+      "city": "59000 Lille",
+      "department": null,
+      "diploma_level": null,
+      "contract_type": "Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://careers.werecruit.io/fr/itga/offres/alternance---technicien-de-laboratoire--c7c5d0?utm_source=francetravail&utm_medium=job-board",
+      "description": "Rejoins notre laboratoire en alternance à Lille (59) !\n \n \n \nTu souhaites évoluer dans un environnement scientifique dynamique tout en préparant ton diplôme ?\n \nViens partager notre quotidien au sein de notre laboratoire.\n \nIntégré(e) à l'équipe et accompagné(e) par Verchuren, tu participes activement à la préparation des échantillons en vue de leur analyse.\n \n \n \nTes missions principales :\n \n- Réaliser les différentes étapes de préparation des échantillons (prélèvement, broyage, dissolution.); \n- Assurer l'approvisionnement des postes de travail; \n- Effectuer la maintenance de premier niveau "
+    },
+    {
+      "id": "6b07695801bbb0090c4b38e3",
+      "sector": "sante_diagnostic",
+      "sector_label": "Santé et diagnostic",
+      "title": "Alternance - Technicien de Laboratoire H/F",
+      "company": "INSTITUT TECHNIQUE GAZ ET AIR",
+      "city": "69760 Limonest",
+      "department": null,
+      "diploma_level": "CAP, BEP (Infrabac)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://r.holeest.com/redirect?jd_token=HZggOh&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85876784.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bingenierie%252Cchimie%252Cbiotechnologie%252Cnautisme%252Caeronautique%26utm_content%3Dfluxbonnealternance%26utm_term%3D85876784",
+      "description": "Rejoins notre laboratoire en alternance à Limonest (69) !\n\nTu souhaites évoluer dans un environnement scientifique dynamique tout en préparant ton diplôme ?\n\nViens partager notre quotidien au sein de notre laboratoire.\n\nIntégré(e) à l'équipe et accompagné(e) par Rosa, tu participes activement à la préparation des échantillons en vue de leur analyse.\n\nTes missions principales :\n\n- Réaliser les différentes étapes de préparation des échantillons (prélèvement, broyage, dissolution...);\n- Assurer l'approvisionnement des postes de travail;\n- Effectuer la maintenance de premier niveau des équipements"
+    },
+    {
+      "id": "6b07695701bbb0090c4b38a5",
+      "sector": "sante_diagnostic",
+      "sector_label": "Santé et diagnostic",
+      "title": "Alternance - Technicien de Laboratoire H/F",
+      "company": "INSTITUT TECHNIQUE GAZ ET AIR",
+      "city": "33000 Bordeaux",
+      "department": null,
+      "diploma_level": "CAP, BEP (Infrabac)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://r.holeest.com/redirect?jd_token=HZgeJf&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85876778.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bingenierie%252Cchimie%252Cbiotechnologie%252Cnautisme%252Caeronautique%26utm_content%3Dfluxbonnealternance%26utm_term%3D85876778",
+      "description": "Rejoins notre laboratoire en alternance à Bordeaux (33) !\n\nTu souhaites évoluer dans un environnement scientifique dynamique tout en préparant ton diplôme ?\n\nViens partager notre quotidien au sein de notre laboratoire.\n\nIntégré(e) à l'équipe et accompagné(e) par Océane, tu participes activement à la préparation des échantillons en vue de leur analyse.\n\nTes missions principales :\n\n- Réaliser les différentes étapes de préparation des échantillons (prélèvement, broyage, dissolution...);\n- Assurer l'approvisionnement des postes de travail;\n- Effectuer la maintenance de premier niveau des équipemen"
+    },
+    {
+      "id": "6b07695601bbb0090c4b3863",
+      "sector": "sante_diagnostic",
+      "sector_label": "Santé et diagnostic",
+      "title": "Alternance - Technicien de Laboratoire H/F",
+      "company": "INSTITUT TECHNIQUE GAZ ET AIR",
+      "city": "13590 Meyreuil",
+      "department": null,
+      "diploma_level": "CAP, BEP (Infrabac)",
+      "contract_type": "Apprentissage, Professionnalisation",
+      "created_at": null,
+      "apply_url": "https://r.holeest.com/redirect?jd_token=HZgaUS&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85876758.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bingenierie%252Cchimie%252Cbiotechnologie%252Cnautisme%252Caeronautique%26utm_content%3Dfluxbonnealternance%26utm_term%3D85876758",
+      "description": "Rejoins notre laboratoire en alternance à Meyreuil (13) !\n\nTu souhaites évoluer dans un environnement scientifique dynamique tout en préparant ton diplôme ?\n\nViens partager notre quotidien au sein de notre laboratoire composé de 43 collaborateurs(trices)\n\nIntégré(e) à l'équipe et accompagné(e) par Robin et Adam, tu participes activement à la préparation des échantillons en vue de leur analyse.\n\nTes missions principales :\n\n- Réaliser les différentes étapes de préparation des échantillons (prélèvement, broyage, dissolution...);\n- Assurer l'approvisionnement des postes de travail;\n- Effectuer la "
     }
   ]
 }
